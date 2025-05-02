@@ -1,0 +1,334 @@
+{
+  "Sun in Houses": [
+    {
+      "question": "What personality trait is commonly seen in people with the Sun in the 1st house?",
+      "options": [
+        "Shyness",
+        "Leadership",
+        "Deceit",
+        "Depression"
+      ],
+      "correct": "Leadership",
+      "explanation": "Sun in the 1st house makes the native a born leader with high ambitions."
+    },
+    {
+      "question": "How does the Sun in the 2nd house affect speech?",
+      "options": [
+        "It causes speech delay",
+        "It enhances oratory skills",
+        "It makes one silent",
+        "It causes a stutter"
+      ],
+      "correct": "It enhances oratory skills",
+      "explanation": "Sun in the 2nd house makes the native an effective talker and good orator."
+    },
+    {
+      "question": "Which house placement of the Sun is associated with bravery and poetic interests?",
+      "options": [
+        "3rd house",
+        "5th house",
+        "7th house",
+        "10th house"
+      ],
+      "correct": "3rd house",
+      "explanation": "Sun in the 3rd house gives bravery, strength, and interest in poetry and occultism."
+    },
+    {
+      "question": "What is a possible drawback of the Sun in the 4th house?",
+      "options": [
+        "Poor education",
+        "Greed and conflicts with mother",
+        "Loss of property",
+        "Fear of water"
+      ],
+      "correct": "Greed and conflicts with mother",
+      "explanation": "An afflicted Sun in the 4th house may lead to greed, immoral tendencies, and mother issues."
+    },
+    {
+      "question": "What career path is favored by the Sun in the 1st house?",
+      "options": [
+        "Creative writing",
+        "Acting",
+        "Political leadership",
+        "Nursing"
+      ],
+      "correct": "Political leadership",
+      "explanation": "The Sun in the Ascendant supports political or leadership roles."
+    },
+    {
+      "question": "How does the Sun in the 5th house affect children?",
+      "options": [
+        "Brings harmony with children",
+        "Causes conflict and strain",
+        "No impact",
+        "Guarantees many children"
+      ],
+      "correct": "Causes conflict and strain",
+      "explanation": "An afflicted Sun in the 5th house can create strained relationships with children."
+    },
+    {
+      "question": "Which house placement of the Sun enhances problem-solving abilities?",
+      "options": [
+        "2nd",
+        "3rd",
+        "6th",
+        "12th"
+      ],
+      "correct": "6th",
+      "explanation": "Sun in the 6th house gives strong problem-solving skills and determination."
+    },
+    {
+      "question": "How might the Sun in the 7th house impact marriage?",
+      "options": [
+        "Ensures happy marriage",
+        "Indicates multiple marriages",
+        "Favors monogamy",
+        "Eliminates romantic desires"
+      ],
+      "correct": "Indicates multiple marriages",
+      "explanation": "Sun in the 7th house can indicate second marriage and challenges in partnerships."
+    },
+    {
+      "question": "What mental state is linked with Sun in the 8th house?",
+      "options": [
+        "Peaceful",
+        "Impatient and restless",
+        "Focused",
+        "Detached"
+      ],
+      "correct": "Impatient and restless",
+      "explanation": "The Sun in the 8th house makes the native talkative, impatient, and mentally restless."
+    },
+    {
+      "question": "What benefit can the Sun in the 9th house provide?",
+      "options": [
+        "Physical strength",
+        "Wealth in youth",
+        "Great artistic skills",
+        "Loyalty in marriage"
+      ],
+      "correct": "Wealth in youth",
+      "explanation": "Sun in the 9th house brings wealth in youth and religious inclination."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 10th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 10th house influences family."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 11th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Marriage",
+      "explanation": "Sun in the 11th house influences family."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 12th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Marriage",
+      "explanation": "Sun in the 12th house influences family."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 13th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Spirituality",
+      "explanation": "Sun in the 13th house influences mental state."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 14th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 14th house influences public recognition."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 15th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 15th house influences public recognition."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 16th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 16th house influences public recognition."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 17th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 17th house influences public recognition."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 18th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 18th house influences mental state."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 19th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Marriage",
+      "explanation": "Sun in the 19th house influences public recognition."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 20th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Health",
+      "explanation": "Sun in the 20th house influences family."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 21th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 21th house influences family."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 22th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Health",
+      "explanation": "Sun in the 22th house influences family."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 23th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Marriage",
+      "explanation": "Sun in the 23th house influences mental state."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 24th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Marriage",
+      "explanation": "Sun in the 24th house influences mental state."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 25th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Health",
+      "explanation": "Sun in the 25th house influences family."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 26th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Spirituality",
+      "explanation": "Sun in the 26th house influences authority."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 27th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 27th house influences authority."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 28th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Spirituality",
+      "explanation": "Sun in the 28th house influences mental state."
+    },
+    {
+      "question": "What area of life is affected by the Sun in the 29th house?",
+      "options": [
+        "Marriage",
+        "Career",
+        "Spirituality",
+        "Health"
+      ],
+      "correct": "Career",
+      "explanation": "Sun in the 29th house influences public recognition."
+    }
+  ]
+}
