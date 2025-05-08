@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What color is associated with Mars in Vedic astrology?",
+    "options": ["White", "Blue", "Red", "Yellow"],
+    "correct": "Red",
+    "explanation": "Mars is symbolized by the color red, representing energy, aggression, and courage."
+  },
+  {
+    "question": "What is Mars' role in the planetary cabinet?",
+    "options": ["King", "Commander", "Minister", "Servant"],
+    "correct": "Commander",
+    "explanation": "Mars is the Commander, leading with authority, discipline, and action."
+  },
+  {
+    "question": "Which Vedic deity is associated with Mars?",
+    "options": ["Indra", "Lord Kartikeya", "Shiva", "Varuna"],
+    "correct": "Lord Kartikeya",
+    "explanation": "Mars is associated with Lord Kartikeya, the warrior god and son of Shiva."
+  },
+  {
+    "question": "What is the gender of Mars in Vedic astrology?",
+    "options": ["Female", "Male", "Neutral", "Both"],
+    "correct": "Male",
+    "explanation": "Mars is considered masculine, reflecting strength and vitality."
+  },
+  {
+    "question": "Which element is ruled by Mars?",
+    "options": ["Air", "Water", "Fire", "Earth"],
+    "correct": "Fire",
+    "explanation": "Mars governs the fire element, signifying action and dynamism."
+  },
+  {
+    "question": "What is the varna (caste) of Mars?",
+    "options": ["Brahmin", "Kshatriya", "Vaishya", "Shudra"],
+    "correct": "Kshatriya",
+    "explanation": "Mars is of the warrior (Kshatriya) class, indicating protection and aggression."
+  },
+  {
+    "question": "Which guna (quality) does Mars possess?",
+    "options": ["Sattva", "Rajas", "Tamas", "Mixed"],
+    "correct": "Tamas",
+    "explanation": "Mars is a tamasic planet, focusing on force, inertia, and material action."
+  },
+  {
+    "question": "What is Mars’ typical abode?",
+    "options": ["Palace", "Forest", "Battlefields", "Temples"],
+    "correct": "Battlefields",
+    "explanation": "Mars resides in places of war and conflict such as battlefields."
+  },
+  {
+    "question": "Which sapta dhatu (body tissue) does Mars govern?",
+    "options": ["Blood", "Fat", "Bone Marrow", "Skin"],
+    "correct": "Bone Marrow",
+    "explanation": "Mars influences bone marrow, which is linked to vitality and blood production."
+  },
+  {
+    "question": "What taste is associated with Mars?",
+    "options": ["Sweet", "Sour", "Bitter", "Salty"],
+    "correct": "Bitter",
+    "explanation": "Mars is associated with the bitter taste, reflecting its harsh and cutting energy."
+  },
+  {
+    "question": "Which age does Mars represent?",
+    "options": ["Old age", "Youth", "Childhood", "Middle-aged"],
+    "correct": "Youth",
+    "explanation": "Mars rules youth, a time of vigor, courage, and activity."
+  },
+  {
+    "question": "What direction is governed by Mars?",
+    "options": ["East", "South", "North", "West"],
+    "correct": "South",
+    "explanation": "Mars governs the South direction, associated with boldness and confrontation."
+  },
+  {
+    "question": "Who are Mars' natural friends?",
+    "options": ["Venus and Saturn", "Sun, Moon, Jupiter", "Mercury and Venus", "Rahu and Ketu"],
+    "correct": "Sun, Moon, Jupiter",
+    "explanation": "Mars is friendly toward the Sun, Moon, and Jupiter in planetary relationships."
+  },
+  {
+    "question": "Which planets are neutral to Mars?",
+    "options": ["Venus and Saturn", "Mercury only", "Rahu and Ketu", "None"],
+    "correct": "Venus and Saturn",
+    "explanation": "Mars considers Venus and Saturn as neutral planets."
+  },
+  {
+    "question": "Which planets are enemies to Mars?",
+    "options": ["Sun and Moon", "Jupiter and Saturn", "Mercury, Rahu, Ketu", "Venus and Jupiter"],
+    "correct": "Mercury, Rahu, Ketu",
+    "explanation": "Mars is inimical to Mercury, Rahu, and Ketu due to conflicting energies."
+  },
+  {
+    "question": "What qualities does Mars represent?",
+    "options": ["Knowledge and memory", "Love and compassion", "Energy, courage, and aggression", "Detachment and moksha"],
+    "correct": "Energy, courage, and aggression",
+    "explanation": "Mars symbolizes action, boldness, and the drive to face challenges."
+  }
+]

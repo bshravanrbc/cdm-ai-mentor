@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is the color associated with Rahu?",
+    "options": ["Red", "White", "Smoky/Dark", "Yellow"],
+    "correct": "Smoky/Dark",
+    "explanation": "Rahu is represented by smoky or dark colors, indicating mystery, illusion, and shadowy matters."
+  },
+  {
+    "question": "What role does Rahu play in the planetary cabinet?",
+    "options": ["Servant", "Commander", "Outcast", "Minister"],
+    "correct": "Outcast",
+    "explanation": "Rahu is not part of the formal cabinet and is considered an outcast, reflecting its rebellious nature."
+  },
+  {
+    "question": "Which Vedic deity is associated with Rahu?",
+    "options": ["Lord Vishnu", "Goddess Lakshmi", "Goddess Durga", "Lord Shiva"],
+    "correct": "Goddess Durga",
+    "explanation": "Rahu is linked to Goddess Durga, a powerful protector against evil and illusion."
+  },
+  {
+    "question": "What is the gender attributed to Rahu?",
+    "options": ["Female", "Neutral", "Male", "Dual"],
+    "correct": "Male",
+    "explanation": "Rahu is considered a masculine force, associated with drive and ambition."
+  },
+  {
+    "question": "Which element does Rahu govern?",
+    "options": ["Earth", "Air", "Fire", "Water"],
+    "correct": "Air",
+    "explanation": "Rahu governs the air element, symbolizing movement, dispersion, and mental fluctuations."
+  },
+  {
+    "question": "What is the varna (caste) of Rahu?",
+    "options": ["Kshatriya", "Brahmin", "Vaishya", "Outcaste"],
+    "correct": "Outcaste",
+    "explanation": "Rahu is considered an outcaste, reflecting its unconventional and rebellious nature."
+  },
+  {
+    "question": "Which guna is associated with Rahu?",
+    "options": ["Sattva", "Rajas", "Tamas", "Mixed"],
+    "correct": "Tamas",
+    "explanation": "Rahu is tamasic, linked with confusion, illusion, and hidden motives."
+  },
+  {
+    "question": "What is Rahu’s typical abode?",
+    "options": ["Gardens", "Temples", "Cemeteries", "Palaces"],
+    "correct": "Cemeteries",
+    "explanation": "Rahu resides in cemeteries and desolate places, representing the unknown and taboo."
+  },
+  {
+    "question": "Which sapta dhatu (body tissue) does Rahu govern?",
+    "options": ["Blood", "Bones", "Skin and Toxins", "Nerves"],
+    "correct": "Skin and Toxins",
+    "explanation": "Rahu influences the skin and toxins in the body, associated with allergies and poison."
+  },
+  {
+    "question": "What taste is associated with Rahu?",
+    "options": ["Sweet", "Salty", "Bitter", "Sour"],
+    "correct": "Bitter",
+    "explanation": "The bitter taste reflects Rahu’s unsettling and disruptive nature."
+  },
+  {
+    "question": "What age group does Rahu represent?",
+    "options": ["Childhood", "Adolescence", "Middle-aged", "Old Age"],
+    "correct": "Middle-aged",
+    "explanation": "Rahu is linked with middle age, the peak of ambition and worldly pursuits."
+  },
+  {
+    "question": "Which direction is ruled by Rahu?",
+    "options": ["East", "Southwest", "North", "West"],
+    "correct": "Southwest",
+    "explanation": "Rahu governs the southwest direction, associated with secrecy and transformation."
+  },
+  {
+    "question": "Who are Rahu's natural friends?",
+    "options": ["Mercury and Mars", "Sun and Moon", "Venus and Saturn", "Jupiter and Ketu"],
+    "correct": "Venus and Saturn",
+    "explanation": "Rahu is friendly with Venus and Saturn, which share worldly and material traits."
+  },
+  {
+    "question": "Which planet is neutral to Rahu?",
+    "options": ["Mars", "Sun", "Mercury", "Moon"],
+    "correct": "Mercury",
+    "explanation": "Mercury is considered neutral to Rahu in natural planetary relationships."
+  },
+  {
+    "question": "Which planets are considered enemies to Rahu?",
+    "options": ["Mercury and Venus", "Sun, Moon, Mars, Jupiter", "Saturn and Ketu", "None"],
+    "correct": "Sun, Moon, Mars, Jupiter",
+    "explanation": "Rahu is inimical to planets of truth, clarity, and dharma like Sun, Moon, Mars, and Jupiter."
+  },
+  {
+    "question": "What qualities are represented by Rahu?",
+    "options": ["Discipline and karma", "Spiritual liberation", "Illusions, worldly desires, and innovation", "Love and devotion"],
+    "correct": "Illusions, worldly desires, and innovation",
+    "explanation": "Rahu governs material cravings, deception, and forward-thinking innovation."
+  }
+]

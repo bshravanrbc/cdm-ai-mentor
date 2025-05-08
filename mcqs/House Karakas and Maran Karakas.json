@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which planet is the Karaka of the 1st house?",
+    "options": ["Jupiter", "Sun", "Moon", "Saturn"],
+    "correct": "Sun",
+    "explanation": "The Sun represents vitality and self, making it the natural significator (Karaka) of the 1st house."
+  },
+  {
+    "question": "Who is the Maran Karaka of the 1st house?",
+    "options": ["Moon", "Saturn", "Ketu", "Mars"],
+    "correct": "Saturn",
+    "explanation": "Saturn signifies delay and restriction, and thus is the Maran Karaka for the 1st house."
+  },
+  {
+    "question": "Which planet is a Karaka for the 2nd house?",
+    "options": ["Mars", "Jupiter", "Rahu", "Ketu"],
+    "correct": "Jupiter",
+    "explanation": "Jupiter is associated with wealth and family, aligning with 2nd house significations."
+  },
+  {
+    "question": "Which of these planets is NOT a Karaka for the 2nd house?",
+    "options": ["Jupiter", "Mercury", "Sun", "None"],
+    "correct": "Sun",
+    "explanation": "Sun is not listed as a natural significator for the 2nd house; Jupiter and Mercury are."
+  },
+  {
+    "question": "Which house is Mars the Karaka for?",
+    "options": ["3rd and 6th", "1st and 4th", "5th and 9th", "7th and 8th"],
+    "correct": "3rd and 6th",
+    "explanation": "Mars signifies courage and competition, making it the Karaka for both the 3rd and 6th houses."
+  },
+  {
+    "question": "Which planet becomes Maran Karaka in the 3rd house?",
+    "options": ["Saturn", "Mercury", "Jupiter", "Ketu"],
+    "correct": "Jupiter",
+    "explanation": "Jupiter, which is expansive, suffers in the 3rd house of efforts and sibling relations."
+  },
+  {
+    "question": "Which two planets are Karakas for the 4th house?",
+    "options": ["Mars and Venus", "Moon and Mercury", "Jupiter and Saturn", "Sun and Rahu"],
+    "correct": "Moon and Mercury",
+    "explanation": "Moon signifies emotional comfort and Mercury governs intellect and learning, both linked to 4th house themes."
+  },
+  {
+    "question": "Who is Maran Karaka for the 4th house?",
+    "options": ["Mars", "Mercury", "Jupiter", "Saturn"],
+    "correct": "Mercury",
+    "explanation": "Mercury becomes weak in the 4th house due to emotional instability disrupting logic."
+  },
+  {
+    "question": "Which planet is the Karaka of the 5th house?",
+    "options": ["Sun", "Jupiter", "Moon", "Mars"],
+    "correct": "Jupiter",
+    "explanation": "Jupiter is linked with children, intelligence, and wisdom, key aspects of the 5th house."
+  },
+  {
+    "question": "Which planet is the Maran Karaka for the 6th house?",
+    "options": ["Mars", "Saturn", "Venus", "Moon"],
+    "correct": "Venus",
+    "explanation": "Venus, a planet of harmony and enjoyment, weakens in the 6th house of enemies and diseases."
+  },
+  {
+    "question": "Which planet signifies the 7th house?",
+    "options": ["Moon", "Mars", "Venus", "Jupiter"],
+    "correct": "Venus",
+    "explanation": "Venus governs relationships, marriage, and harmony, making it the Karaka of the 7th house."
+  },
+  {
+    "question": "Who becomes Maran Karaka in the 7th house?",
+    "options": ["Saturn", "Mars", "Mercury", "Sun"],
+    "correct": "Mars",
+    "explanation": "Mars creates strife and aggression in the 7th house, affecting partnerships."
+  },
+  {
+    "question": "Which planet is NOT a Karaka of the 8th house?",
+    "options": ["Saturn", "Ketu", "Mars", "None"],
+    "correct": "Mars",
+    "explanation": "Mars is not a natural significator for the 8th house; Saturn and Ketu are."
+  },
+  {
+    "question": "What is the Maran Karaka planet for the 8th house?",
+    "options": ["Moon", "Sun", "Mercury", "Mars"],
+    "correct": "Moon",
+    "explanation": "Moon suffers in the 8th house due to the emotional instability linked to death and transformation."
+  },
+  {
+    "question": "Which two planets are Karakas for the 9th house?",
+    "options": ["Mars and Sun", "Jupiter and Sun", "Mercury and Venus", "Saturn and Moon"],
+    "correct": "Jupiter and Sun",
+    "explanation": "Jupiter and Sun represent dharma and higher wisdom, core aspects of the 9th house."
+  },
+  {
+    "question": "Which is the Maran Karaka for the 9th house?",
+    "options": ["Ketu", "Mercury", "Rahu", "Mars"],
+    "correct": "Rahu",
+    "explanation": "Rahu disturbs the dharmic and spiritual values of the 9th house, causing downfall."
+  },
+  {
+    "question": "Which planets are Karakas for the 10th house?",
+    "options": ["Saturn, Mercury, Sun", "Jupiter, Venus, Moon", "Mars, Saturn, Moon", "Sun, Mars, Rahu"],
+    "correct": "Saturn, Mercury, Sun",
+    "explanation": "These planets represent karma, communication, and authority – core traits of the 10th house."
+  },
+  {
+    "question": "Which planet is the Karaka of the 11th house?",
+    "options": ["Saturn", "Moon", "Jupiter", "Venus"],
+    "correct": "Jupiter",
+    "explanation": "Jupiter signifies expansion, gains, and fulfillment of desires aligned with the 11th house."
+  },
+  {
+    "question": "Which planets are the Karakas for the 12th house?",
+    "options": ["Saturn and Ketu", "Venus and Rahu", "Mercury and Mars", "Sun and Moon"],
+    "correct": "Saturn and Ketu",
+    "explanation": "Saturn and Ketu represent isolation, loss, and liberation, which define the 12th house."
+  },
+  {
+    "question": "Who is the Maran Karaka for the 12th house?",
+    "options": ["Ketu", "Sun", "Moon", "Jupiter"],
+    "correct": "Sun",
+    "explanation": "The Sun loses vitality and confidence in the 12th house, where it is isolated and hidden."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What does Mars primarily represent in Vedic astrology?",
+    "options": ["Wisdom and knowledge", "Desire and action", "Compassion and healing", "Love and luxury"],
+    "correct": "Desire and action",
+    "explanation": "Mars symbolizes action, desire, courage, and physical energy."
+  },
+  {
+    "question": "Which two zodiac signs are ruled by Mars?",
+    "options": ["Taurus and Libra", "Aries and Scorpio", "Leo and Cancer", "Gemini and Virgo"],
+    "correct": "Aries and Scorpio",
+    "explanation": "Mars rules Mesh (Aries) and Vrishchika (Scorpio)."
+  },
+  {
+    "question": "Which house placement of Mars can lead to Manglik Dosha and marital problems?",
+    "options": ["5th House", "7th House", "9th House", "12th House"],
+    "correct": "7th House",
+    "explanation": "Mars in the 7th house can create Manglik Dosha, affecting marriage negatively."
+  },
+  {
+    "question": "What is a potential outcome of Mars in the 1st house?",
+    "options": ["Calm nature", "Hyperactivity and red face", "Lack of ambition", "Spiritual renunciation"],
+    "correct": "Hyperactivity and red face",
+    "explanation": "Mars in the 1st house makes the person energetic, red-faced, and quick to anger."
+  },
+  {
+    "question": "Which professions are most associated with Mars?",
+    "options": ["Teaching and medicine", "Engineering and military", "Banking and finance", "Art and dance"],
+    "correct": "Engineering and military",
+    "explanation": "Mars rules technical, military, and fire-related professions."
+  },
+  {
+    "question": "What is a likely trait of someone with Mars in the 3rd house?",
+    "options": ["Timid and fearful", "Courageous and sporty", "Lazy and quiet", "Highly diplomatic"],
+    "correct": "Courageous and sporty",
+    "explanation": "Mars in the 3rd house gives courage, energy, and a sporty disposition."
+  },
+  {
+    "question": "Which Mars placement reduces material happiness and sibling support?",
+    "options": ["4th House", "6th House", "10th House", "11th House"],
+    "correct": "4th House",
+    "explanation": "Mars in the 4th house may cause deprivation of comforts and strained sibling relations."
+  },
+  {
+    "question": "Which house placement of Mars suppresses good karma from past lives?",
+    "options": ["2nd House", "5th House", "8th House", "12th House"],
+    "correct": "5th House",
+    "explanation": "Mars in the 5th house suppresses the fruits of Purva Punya (past-life merits)."
+  },
+  {
+    "question": "What negative trait is associated with Mars in the 6th house if afflicted?",
+    "options": ["Weak digestion", "Mental instability", "Indulgence in immoral activities", "Fear of enemies"],
+    "correct": "Indulgence in immoral activities",
+    "explanation": "While Mars in the 6th house is powerful, affliction can lead to unethical actions."
+  },
+  {
+    "question": "Mars in the 8th house may cause death through:",
+    "options": ["Illness", "Water or accidents", "Natural causes", "Old age"],
+    "correct": "Water or accidents",
+    "explanation": "Mars in the 8th house can bring sudden deaths via accidents or drowning, especially if debilitated."
+  },
+  {
+    "question": "What belief system challenge may occur with Mars in the 9th house?",
+    "options": ["Blind faith", "Strong religious devotion", "Rebelliousness and dogmatism", "Complete atheism"],
+    "correct": "Rebelliousness and dogmatism",
+    "explanation": "Mars in the 9th house can make one a religious rebel with rigid views."
+  },
+  {
+    "question": "Which house placement of Mars indicates early career success and high energy at work?",
+    "options": ["2nd House", "6th House", "10th House", "12th House"],
+    "correct": "10th House",
+    "explanation": "Mars in the 10th house supports ambition, leadership, and high energy in career."
+  },
+  {
+    "question": "How does Mars in the 11th house affect financial desires?",
+    "options": ["Reduces ambition", "Delays fulfillment", "Brings quick gains", "Discourages planning"],
+    "correct": "Brings quick gains",
+    "explanation": "Mars in the 11th house helps in rapid fulfillment of desires and gains."
+  },
+  {
+    "question": "Which Mars house placement suggests problems with in-laws and secret affairs?",
+    "options": ["6th House", "8th House", "9th House", "11th House"],
+    "correct": "8th House",
+    "explanation": "Mars in the 8th house leads to secretive behavior, conflicts with in-laws, and risky relationships."
+  },
+  {
+    "question": "Where is Mars considered exalted and gives the best results?",
+    "options": ["Neechrashi", "Uccharashi", "Debilitated", "Retrograde"],
+    "correct": "Uccharashi",
+    "explanation": "Mars in Uccharashi (Capricorn) is exalted and performs very well in all aspects."
+  },
+  {
+    "question": "Mars in which house leads to calculation in finances and ease in defeating enemies?",
+    "options": ["4th House", "7th House", "11th House", "12th House"],
+    "correct": "11th House",
+    "explanation": "Mars in the 11th house makes one shrewd with money and capable of defeating rivals."
+  },
+  {
+    "question": "Mars in which house can make a person short-sighted and impatient for results?",
+    "options": ["5th House", "7th House", "10th House", "11th House"],
+    "correct": "11th House",
+    "explanation": "Mars in the 11th house leads to impulsive behavior and a desire for instant gratification."
+  },
+  {
+    "question": "What is a likely effect of Mars in the 2nd house on family matters?",
+    "options": ["Promotes family unity", "Creates disobedience and rebellion", "Leads to detachment", "Supports spiritual lineage"],
+    "correct": "Creates disobedience and rebellion",
+    "explanation": "Mars in the 2nd house causes the native to challenge family traditions and be rebellious."
+  },
+  {
+    "question": "Which Mars placement makes the native ambitious but may bring violence in marriage?",
+    "options": ["3rd House", "5th House", "7th House", "10th House"],
+    "correct": "7th House",
+    "explanation": "Mars in the 7th house can cause marital conflicts and bring discipline issues, despite ambition."
+  },
+  {
+    "question": "Mars in which house is considered least favorable and associated with ill deeds?",
+    "options": ["4th House", "8th House", "9th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "Mars in the 12th house is considered weak and causes interest in unethical activities."
+  }
+]

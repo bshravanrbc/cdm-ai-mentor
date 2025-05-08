@@ -1,189 +1,122 @@
 [
   {
-    "question": "Which of the following is true about Rahu?",
-    "options": [
-      "Emotion, mind, and nurturing",
-      "Rahu represents foreign elements, technology, and underworld associations",
-      "Wisdom, dharma, and expansion",
-      "Authority, soul, and ego"
-    ],
-    "correct": "Rahu represents foreign elements, technology, and underworld associations",
-    "explanation": "Rahu represents foreign elements, technology, and underworld associations \u2014 this is a significant attribute of Rahu."
+    "question": "What does Rahu represent in Vedic astrology?",
+    "options": ["Discipline and order", "Spirituality and peace", "Foreign elements and deception", "Emotions and nurturing"],
+    "correct": "Foreign elements and deception",
+    "explanation": "Rahu symbolizes foreign influence, deception, smoke, gambling, and underworld elements."
   },
   {
-    "question": "Which of the following is true about Rahu?",
-    "options": [
-      "A watery planet like Moon",
-      "A visible gaseous giant",
-      "A fiery graha like Mars",
-      "Rahu is considered a Chayagrah or shadow planet with no physical form"
-    ],
-    "correct": "Rahu is considered a Chayagrah or shadow planet with no physical form",
-    "explanation": "Rahu is considered a Chayagrah or shadow planet with no physical form \u2014 this is a significant attribute of Rahu."
+    "question": "Which gem is associated with Rahu?",
+    "options": ["Blue Sapphire", "Gomedh", "Cat’s Eye", "Emerald"],
+    "correct": "Gomedh",
+    "explanation": "Gomedh (Hessonite Garnet) is the gemstone associated with Rahu."
   },
   {
-    "question": "Which of the following is true about Rahu?",
-    "options": [
-      "Coral",
-      "Blue Sapphire",
-      "Emerald",
-      "The gemstone associated with Rahu is Gomedh"
-    ],
-    "correct": "The gemstone associated with Rahu is Gomedh",
-    "explanation": "The gemstone associated with Rahu is Gomedh \u2014 this is a significant attribute of Rahu."
+    "question": "What is a typical trait of Rahu in the 1st house?",
+    "options": ["Strong execution ability", "Egoistic and arrogant", "Disciplined speaker", "Emotionally nurturing"],
+    "correct": "Egoistic and arrogant",
+    "explanation": "Rahu in the 1st house can make the native egoistic and arrogant, especially in fire signs."
   },
   {
-    "question": "Which of the following is true about Rahu?",
-    "options": [
-      "Philosophy and learning",
-      "Rahu's influence includes gambling, theft, and nonconformity",
-      "Discipline, law, and structure",
-      "Beauty and harmony"
-    ],
-    "correct": "Rahu's influence includes gambling, theft, and nonconformity",
-    "explanation": "Rahu's influence includes gambling, theft, and nonconformity \u2014 this is a significant attribute of Rahu."
+    "question": "What kind of wealth is associated with Rahu in the 2nd house?",
+    "options": ["Wealth from teaching", "Inherited property", "Wealth from good karma", "Wealth from unethical sources"],
+    "correct": "Wealth from unethical sources",
+    "explanation": "Rahu in the 2nd house can bring wealth, but often through dubious or unethical means."
   },
   {
-    "question": "Which of the following is true about Rahu?",
-    "options": [
-      "Rahu is also known as the Dragon's Head or North Node",
-      "South Node",
-      "Sun's Core",
-      "Fire Tail"
-    ],
-    "correct": "Rahu is also known as the Dragon's Head or North Node",
-    "explanation": "Rahu is also known as the Dragon's Head or North Node \u2014 this is a significant attribute of Rahu."
+    "question": "Rahu in which house indicates strong performance in politics or sports?",
+    "options": ["3rd House", "6th House", "9th House", "12th House"],
+    "correct": "6th House",
+    "explanation": "Rahu in the 6th house is great for competitive fields like politics and sports due to its warrior-like qualities."
   },
   {
-    "question": "What is a key trait of Rahu in the 1st house?",
-    "options": [
-      "Makes the native a big planner but poor at execution",
-      "Avoids long-term thinking",
-      "Gives perfect implementation skills",
-      "Lacks any planning ability"
-    ],
-    "correct": "Makes the native a big planner but poor at execution",
-    "explanation": "Makes the native a big planner but poor at execution \u2014 this is a significant attribute of Rahu in the 1st house."
+    "question": "What relationship challenge is likely with Rahu in the 7th house?",
+    "options": ["Over-attachment to spouse", "Happy marriage", "Betrayal and disloyalty", "Delayed marriage"],
+    "correct": "Betrayal and disloyalty",
+    "explanation": "Rahu in the 7th house often causes disloyalty or betrayal in marriage."
   },
   {
-    "question": "What is a key trait of Rahu in the 2nd house?",
-    "options": [
-      "Wealth from only pure means",
-      "Gentle and spiritual speaker",
-      "Always tells the truth",
-      "Harsh speaker who may lie and gain wealth through unethical means"
-    ],
-    "correct": "Harsh speaker who may lie and gain wealth through unethical means",
-    "explanation": "Harsh speaker who may lie and gain wealth through unethical means \u2014 this is a significant attribute of Rahu in the 2nd house."
+    "question": "What does Rahu in the 4th house commonly result in?",
+    "options": ["Domestic peace", "Wealth from land", "Inability to enjoy material comforts", "Supportive mother"],
+    "correct": "Inability to enjoy material comforts",
+    "explanation": "Even if materially well-off, Rahu in the 4th house leads to dissatisfaction with comforts."
   },
   {
-    "question": "What is a key trait of Rahu in the 3rd house?",
-    "options": [
-      "Brings courage, power, and success in politics or sports",
-      "Detests public life",
-      "Avoids risk",
-      "Lowers energy and ambition"
-    ],
-    "correct": "Brings courage, power, and success in politics or sports",
-    "explanation": "Brings courage, power, and success in politics or sports \u2014 this is a significant attribute of Rahu in the 3rd house."
+    "question": "Which house placement of Rahu enhances skills in technology and intelligence services?",
+    "options": ["5th House", "8th House", "10th House", "12th House"],
+    "correct": "5th House",
+    "explanation": "Rahu in the 5th house brings sharp intellect, ideal for careers in research, tech, or intelligence."
   },
   {
-    "question": "What is a key trait of Rahu in the 4th house?",
-    "options": [
-      "Guarantees emotional peace",
-      "Ensures perfect domestic harmony",
-      "Strengthens maternal relationships",
-      "Brings sorrow despite material comfort"
-    ],
-    "correct": "Brings sorrow despite material comfort",
-    "explanation": "Brings sorrow despite material comfort \u2014 this is a significant attribute of Rahu in the 4th house."
+    "question": "What is a major health concern with Rahu in the 8th house?",
+    "options": ["Liver disease", "Heart attack", "Sexual and chronic diseases", "Migraine"],
+    "correct": "Sexual and chronic diseases",
+    "explanation": "Rahu in the 8th house is linked to chronic illness and reproductive health problems."
   },
   {
-    "question": "What is a key trait of Rahu in the 5th house?",
-    "options": [
-      "Removes all ego",
-      "Boosts all karmic rewards",
-      "Enhances intellect but blocks fruition of past life merits",
-      "Improves digestion only"
-    ],
-    "correct": "Enhances intellect but blocks fruition of past life merits",
-    "explanation": "Enhances intellect but blocks fruition of past life merits \u2014 this is a significant attribute of Rahu in the 5th house."
+    "question": "Which house Rahu placement is good for Raj Yoga if well-aspected?",
+    "options": ["2nd House", "4th House", "10th House", "12th House"],
+    "correct": "10th House",
+    "explanation": "Rahu in the 10th house, when well-placed, can give rise to Raj Yoga due to professional success."
   },
   {
-    "question": "What is a key trait of Rahu in the 6th house?",
-    "options": [
-      "Blocks competitive drive",
-      "Creates chronic fear",
-      "Grants fame and authority by defeating enemies",
-      "Promotes laziness"
-    ],
-    "correct": "Grants fame and authority by defeating enemies",
-    "explanation": "Grants fame and authority by defeating enemies \u2014 this is a significant attribute of Rahu in the 6th house."
+    "question": "Which placement of Rahu often leads to excessive or disturbed sleep?",
+    "options": ["3rd House", "6th House", "9th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "Rahu in the 12th house affects the sleep cycle, leading to either insomnia or oversleeping."
   },
   {
-    "question": "What is a key trait of Rahu in the 7th house?",
-    "options": [
-      "Stabilizes joint ventures",
-      "Promotes open communication",
-      "Disrupts marriage and partnerships with deception or betrayal",
-      "Ensures lasting love"
-    ],
-    "correct": "Disrupts marriage and partnerships with deception or betrayal",
-    "explanation": "Disrupts marriage and partnerships with deception or betrayal \u2014 this is a significant attribute of Rahu in the 7th house."
+    "question": "What is a social trait of Rahu in the 11th house?",
+    "options": ["Avoids crowds", "Has a small friend circle", "Large social circle and influential contacts", "Struggles with networking"],
+    "correct": "Large social circle and influential contacts",
+    "explanation": "Rahu in the 11th house provides access to large networks and foreign connections."
   },
   {
-    "question": "What is a key trait of Rahu in the 8th house?",
-    "options": [
-      "Causes chronic diseases and relationship damage",
-      "Brings harmony with in-laws",
-      "Enhances vitality and intimacy",
-      "Boosts physical strength"
-    ],
-    "correct": "Causes chronic diseases and relationship damage",
-    "explanation": "Causes chronic diseases and relationship damage \u2014 this is a significant attribute of Rahu in the 8th house."
+    "question": "Which house placement of Rahu may cause issues with the father and fortune?",
+    "options": ["4th House", "7th House", "9th House", "11th House"],
+    "correct": "9th House",
+    "explanation": "Rahu in the 9th house can cause disputes with the father and hinder fortune or luck."
   },
   {
-    "question": "What is a key trait of Rahu in the 9th house?",
-    "options": [
-      "Complete devotion to own religion",
-      "Refusal to speak publicly",
-      "Obeys strict dogma",
-      "Interest in other religions and good oratory if well placed"
-    ],
-    "correct": "Interest in other religions and good oratory if well placed",
-    "explanation": "Interest in other religions and good oratory if well placed \u2014 this is a significant attribute of Rahu in the 9th house."
+    "question": "Rahu in which house may result in unstable career paths?",
+    "options": ["5th House", "10th House", "11th House", "12th House"],
+    "correct": "10th House",
+    "explanation": "Though powerful, Rahu in the 10th house can cause frequent career changes."
   },
   {
-    "question": "What is a key trait of Rahu in the 10th house?",
-    "options": [
-      "Avoids leadership roles",
-      "Rejects planning",
-      "Fears public success",
-      "Highly ambitious, may attain political power if well placed"
-    ],
-    "correct": "Highly ambitious, may attain political power if well placed",
-    "explanation": "Highly ambitious, may attain political power if well placed \u2014 this is a significant attribute of Rahu in the 10th house."
+    "question": "What physical feature is commonly seen with Rahu in the 1st house?",
+    "options": ["Thick curly hair", "Short limbs", "Big eyes and less hair", "Slender neck"],
+    "correct": "Big eyes and less hair",
+    "explanation": "Rahu in the 1st house often gives big eyes and sparse hair, unless benefic planets aspect it."
   },
   {
-    "question": "What is a key trait of Rahu in the 11th house?",
-    "options": [
-      "Brings fame, wealth, and wide social network",
-      "Leads to total social withdrawal",
-      "Causes permanent poverty",
-      "Destroys income completely"
-    ],
-    "correct": "Brings fame, wealth, and wide social network",
-    "explanation": "Brings fame, wealth, and wide social network \u2014 this is a significant attribute of Rahu in the 11th house."
+    "question": "How does Rahu in the 2nd house affect family behavior?",
+    "options": ["Very obedient", "Overly traditional", "Rebellious towards traditions", "Emotionally dependent"],
+    "correct": "Rebellious towards traditions",
+    "explanation": "Rahu in the 2nd house makes the native disobedient or rebellious towards family customs."
   },
   {
-    "question": "What is a key trait of Rahu in the 12th house?",
-    "options": [
-      "Promotes foreign residence but harms family relations",
-      "Strengthens marriage bonds",
-      "Avoids foreign interactions",
-      "Leads to total solitude"
-    ],
-    "correct": "Promotes foreign residence but harms family relations",
-    "explanation": "Promotes foreign residence but harms family relations \u2014 this is a significant attribute of Rahu in the 12th house."
+    "question": "Which Rahu placement is especially favorable for judiciary or political careers?",
+    "options": ["6th House", "8th House", "4th House", "12th House"],
+    "correct": "6th House",
+    "explanation": "Rahu in the 6th house supports professions that involve conflict, law, and competition."
+  },
+  {
+    "question": "What might Rahu in the 3rd house indicate about family position?",
+    "options": ["Middle child", "Only child", "Youngest or eldest of their gender", "Twins"],
+    "correct": "Youngest or eldest of their gender",
+    "explanation": "Rahu in the 3rd house often places the native in a unique sibling position—either youngest or eldest among their gender."
+  },
+  {
+    "question": "Which Rahu placement suggests early foreign travel or residence?",
+    "options": ["5th House", "7th House", "9th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "Rahu in the 12th house is well-known for indicating foreign residence and international connections."
+  },
+  {
+    "question": "Which combination with Rahu enhances imagination and strategic planning?",
+    "options": ["Rahu with Mars", "Rahu with Venus", "Rahu with Moon", "Rahu with Saturn"],
+    "correct": "Rahu with Moon",
+    "explanation": "Rahu with Moon increases imagination, ideal for business planning or creative pursuits."
   }
 ]

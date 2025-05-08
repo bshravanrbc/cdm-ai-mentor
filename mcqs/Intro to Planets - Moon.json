@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is the color associated with the Moon in Vedic astrology?",
+    "options": ["Blue", "Yellow", "White", "Green"],
+    "correct": "White",
+    "explanation": "Moon is symbolized by the color white, reflecting peace and purity."
+  },
+  {
+    "question": "What role does the Moon play in the planetary cabinet?",
+    "options": ["King", "Minister", "Queen", "Commander"],
+    "correct": "Queen",
+    "explanation": "Moon is considered the Queen, symbolizing nurturing, care, and mental grace."
+  },
+  {
+    "question": "Which Vedic deity is associated with the Moon?",
+    "options": ["Goddess Lakshmi", "Goddess Parvati", "Saraswati", "Durga"],
+    "correct": "Goddess Parvati",
+    "explanation": "Moon is linked with Parvati, representing divine feminine energy and emotion."
+  },
+  {
+    "question": "What is the gender attributed to the Moon?",
+    "options": ["Male", "Female", "Neutral", "Both"],
+    "correct": "Female",
+    "explanation": "Moon is a feminine planet, indicating softness, intuition, and nurturing."
+  },
+  {
+    "question": "Which element does the Moon represent?",
+    "options": ["Air", "Fire", "Water", "Earth"],
+    "correct": "Water",
+    "explanation": "Moon governs the water element, symbolizing fluidity and emotions."
+  },
+  {
+    "question": "What is the varna (caste) of the Moon?",
+    "options": ["Kshatriya", "Vaishya", "Brahmin", "Shudra"],
+    "correct": "Vaishya",
+    "explanation": "Moon belongs to the Vaishya varna, associated with commerce and balance."
+  },
+  {
+    "question": "Which guna does the Moon possess?",
+    "options": ["Sattva", "Rajas", "Tamas", "Mixed"],
+    "correct": "Sattva",
+    "explanation": "Moon is sattvic, promoting calmness, clarity, and purity of mind."
+  },
+  {
+    "question": "What is the typical abode of the Moon?",
+    "options": ["Mountains", "Caves", "Rivers, Lakes", "Palaces"],
+    "correct": "Rivers, Lakes",
+    "explanation": "Moon’s natural abodes are watery places like rivers and lakes."
+  },
+  {
+    "question": "Which sapta dhatu (body tissue) does the Moon govern?",
+    "options": ["Fat", "Bones", "Blood", "Muscle"],
+    "correct": "Blood",
+    "explanation": "Moon governs blood, as it reflects the mind and mood in Ayurvedic terms."
+  },
+  {
+    "question": "What taste is associated with the Moon?",
+    "options": ["Sweet", "Sour", "Pungent", "Salty"],
+    "correct": "Salty",
+    "explanation": "The Moon is connected with the salty taste in Vedic astrology."
+  },
+  {
+    "question": "Which age group does the Moon represent?",
+    "options": ["Old age", "Teenager", "Middle-aged", "Child"],
+    "correct": "Child",
+    "explanation": "Moon signifies childhood, associated with innocence and emotional growth."
+  },
+  {
+    "question": "Which direction is ruled by the Moon?",
+    "options": ["East", "South", "Northwest", "West"],
+    "correct": "Northwest",
+    "explanation": "Moon governs the northwest direction, indicating movement and flexibility."
+  },
+  {
+    "question": "Which planets are considered friends of the Moon?",
+    "options": ["Mars and Jupiter", "Sun and Mercury", "Saturn and Venus", "Rahu and Ketu"],
+    "correct": "Sun and Mercury",
+    "explanation": "Moon considers the Sun and Mercury as natural friends."
+  },
+  {
+    "question": "Which planets are neutral to the Moon?",
+    "options": ["Venus and Saturn", "None", "Jupiter only", "Mercury and Mars"],
+    "correct": "None",
+    "explanation": "Moon does not consider any planet as neutral."
+  },
+  {
+    "question": "Which planets are enemies of the Moon?",
+    "options": ["Saturn and Venus", "Rahu and Ketu", "None", "Mars and Mercury"],
+    "correct": "None",
+    "explanation": "Moon has no natural enemies among the planets."
+  },
+  {
+    "question": "What qualities does the Moon represent?",
+    "options": ["Logic and precision", "Soul and power", "Emotions, mind (Manas), and instincts", "Discipline and austerity"],
+    "correct": "Emotions, mind (Manas), and instincts",
+    "explanation": "Moon governs mental processes, emotions, and instinctive behavior."
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "question": "Which Rashi governs the head and symbolizes boldness and courage?",
+    "options": [
+      "Aries",
+      "Taurus",
+      "Leo",
+      "Pisces"
+    ],
+    "correct": "Aries",
+    "explanation": "Aries \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is ruled by Venus and known for charm and tolerance?",
+    "options": [
+      "Sagittarius",
+      "Scorpio",
+      "Taurus",
+      "Capricorn"
+    ],
+    "correct": "Taurus",
+    "explanation": "Taurus \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Gemini is ruled by which planet and represents what type of Rashi?",
+    "options": [
+      "Sun, Fixed",
+      "Venus, Fixed",
+      "Moon, Movable",
+      "Mercury, Dual"
+    ],
+    "correct": "Mercury, Dual",
+    "explanation": "Mercury, Dual \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which sign is ruled by the Moon and linked to the chest and lungs?",
+    "options": [
+      "Libra",
+      "Aquarius",
+      "Virgo",
+      "Cancer"
+    ],
+    "correct": "Cancer",
+    "explanation": "Cancer \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which fire sign represents independence, courage, and ambition?",
+    "options": [
+      "Pisces",
+      "Leo",
+      "Gemini",
+      "Cancer"
+    ],
+    "correct": "Leo",
+    "explanation": "Leo \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi has Mercury as its lord and is known for intelligence and discretion?",
+    "options": [
+      "Virgo",
+      "Scorpio",
+      "Capricorn",
+      "Aries"
+    ],
+    "correct": "Virgo",
+    "explanation": "Virgo \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is symbolized by balancing scales and seeks harmony?",
+    "options": [
+      "Aquarius",
+      "Leo",
+      "Libra",
+      "Virgo"
+    ],
+    "correct": "Libra",
+    "explanation": "Libra \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Scorpio is associated with which body parts?",
+    "options": [
+      "Neck and shoulders",
+      "Heart and lungs",
+      "Feet and eyes",
+      "Genitals and anus"
+    ],
+    "correct": "Genitals and anus",
+    "explanation": "Genitals and anus \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Who is the lord of Sagittarius and Pisces?",
+    "options": [
+      "Saturn",
+      "Mercury",
+      "Jupiter",
+      "Mars"
+    ],
+    "correct": "Jupiter",
+    "explanation": "Jupiter \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is symbolized by a goat and governed by Saturn?",
+    "options": [
+      "Taurus",
+      "Cancer",
+      "Capricorn",
+      "Virgo"
+    ],
+    "correct": "Capricorn",
+    "explanation": "Capricorn \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Aquarius represents which element?",
+    "options": [
+      "Fire",
+      "Water",
+      "Earth",
+      "Air"
+    ],
+    "correct": "Air",
+    "explanation": "Air \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which dual Rashi is associated with the feet?",
+    "options": [
+      "Sagittarius",
+      "Gemini",
+      "Pisces",
+      "Leo"
+    ],
+    "correct": "Pisces",
+    "explanation": "Pisces \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What element group includes Aries, Leo, and Sagittarius?",
+    "options": [
+      "Water",
+      "Earth",
+      "Fire",
+      "Air"
+    ],
+    "correct": "Fire",
+    "explanation": "Fire \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashis fall under the Air element?",
+    "options": [
+      "Gemini, Libra, Aquarius",
+      "Aries, Leo, Sagittarius",
+      "Cancer, Scorpio, Pisces",
+      "Taurus, Virgo, Capricorn"
+    ],
+    "correct": "Gemini, Libra, Aquarius",
+    "explanation": "Gemini, Libra, Aquarius \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashis are classified as Char (Movable)?",
+    "options": [
+      "Taurus, Leo, Scorpio, Aquarius",
+      "Pisces, Aries, Taurus, Cancer",
+      "Gemini, Virgo, Sagittarius, Pisces",
+      "Aries, Cancer, Libra, Capricorn"
+    ],
+    "correct": "Aries, Cancer, Libra, Capricorn",
+    "explanation": "Aries, Cancer, Libra, Capricorn \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "The natural significator of intellect among Rashis is?",
+    "options": [
+      "Gemini",
+      "Capricorn",
+      "Sagittarius",
+      "Cancer"
+    ],
+    "correct": "Gemini",
+    "explanation": "Gemini \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is deeply imaginative, spiritual, and sometimes emotional?",
+    "options": [
+      "Aries",
+      "Libra",
+      "Leo",
+      "Pisces"
+    ],
+    "correct": "Pisces",
+    "explanation": "Pisces \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is ideal for a career in psychology, research, or air services?",
+    "options": [
+      "Leo",
+      "Taurus",
+      "Gemini",
+      "Aquarius"
+    ],
+    "correct": "Aquarius",
+    "explanation": "Aquarius \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What is the natural profession associated with Virgo?",
+    "options": [
+      "Auditing and accounting",
+      "Politics",
+      "Mining",
+      "Shipping"
+    ],
+    "correct": "Auditing and accounting",
+    "explanation": "Auditing and accounting \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Who is the planetary lord of Libra?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Moon",
+      "Saturn"
+    ],
+    "correct": "Venus",
+    "explanation": "Venus \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is associated with the thighs and spiritual knowledge?",
+    "options": [
+      "Capricorn",
+      "Cancer",
+      "Scorpio",
+      "Sagittarius"
+    ],
+    "correct": "Sagittarius",
+    "explanation": "Sagittarius \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What profession is well suited for a person with Leo dominant?",
+    "options": [
+      "Music",
+      "Retail",
+      "Politics and social service",
+      "Shipping"
+    ],
+    "correct": "Politics and social service",
+    "explanation": "Politics and social service \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "The Rashi known for being practical, logical, and observant is?",
+    "options": [
+      "Aries",
+      "Pisces",
+      "Virgo",
+      "Cancer"
+    ],
+    "correct": "Virgo",
+    "explanation": "Virgo \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is dual in nature and ruled by Jupiter?",
+    "options": [
+      "Libra",
+      "Capricorn",
+      "Sagittarius",
+      "Scorpio"
+    ],
+    "correct": "Sagittarius",
+    "explanation": "Sagittarius \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which sign has its natural direction as North and is watery?",
+    "options": [
+      "Aries",
+      "Aquarius",
+      "Cancer",
+      "Gemini"
+    ],
+    "correct": "Cancer",
+    "explanation": "Cancer \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What Rashi governs the knees and is ruled by Saturn?",
+    "options": [
+      "Capricorn",
+      "Libra",
+      "Leo",
+      "Taurus"
+    ],
+    "correct": "Capricorn",
+    "explanation": "Capricorn \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "The element associated with Taurus, Virgo, and Capricorn is?",
+    "options": [
+      "Fire",
+      "Earth",
+      "Air",
+      "Water"
+    ],
+    "correct": "Earth",
+    "explanation": "Earth \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which sign is known for trust, emotion, and spirituality?",
+    "options": [
+      "Sagittarius",
+      "Leo",
+      "Pisces",
+      "Virgo"
+    ],
+    "correct": "Pisces",
+    "explanation": "Pisces \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is symbolized by the Scorpion and ruled by Mars?",
+    "options": [
+      "Aries",
+      "Scorpio",
+      "Gemini",
+      "Cancer"
+    ],
+    "correct": "Scorpio",
+    "explanation": "Scorpio \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is most suitable for banking, law, and beauty industry?",
+    "options": [
+      "Sagittarius",
+      "Libra",
+      "Capricorn",
+      "Aries"
+    ],
+    "correct": "Libra",
+    "explanation": "Libra \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi represents karma, duty, and social reputation?",
+    "options": [
+      "Leo",
+      "Capricorn",
+      "Gemini",
+      "Aquarius"
+    ],
+    "correct": "Capricorn",
+    "explanation": "Capricorn \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What color is associated with Aries?",
+    "options": [
+      "Blood Red",
+      "Golden",
+      "Grey",
+      "Blue"
+    ],
+    "correct": "Blood Red",
+    "explanation": "Blood Red \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What Rashi governs the waist and intestines?",
+    "options": [
+      "Taurus",
+      "Pisces",
+      "Virgo",
+      "Aquarius"
+    ],
+    "correct": "Virgo",
+    "explanation": "Virgo \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which water sign has a dual nature and cares for others?",
+    "options": [
+      "Cancer",
+      "Scorpio",
+      "Capricorn",
+      "Pisces"
+    ],
+    "correct": "Pisces",
+    "explanation": "Pisces \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is naturally associated with law, education, and religious services?",
+    "options": [
+      "Aries",
+      "Taurus",
+      "Libra",
+      "Sagittarius"
+    ],
+    "correct": "Sagittarius",
+    "explanation": "Sagittarius \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which sign is ruled by Mercury and is also a dual sign?",
+    "options": [
+      "Gemini",
+      "Capricorn",
+      "Pisces",
+      "Leo"
+    ],
+    "correct": "Gemini",
+    "explanation": "Gemini \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What body part does Taurus rule?",
+    "options": [
+      "Knees",
+      "Face, eyes, and mouth",
+      "Feet",
+      "Heart"
+    ],
+    "correct": "Face, eyes, and mouth",
+    "explanation": "Face, eyes, and mouth \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "What profession suits Cancer natives?",
+    "options": [
+      "Banking",
+      "Hospitality and medical",
+      "Politics",
+      "Mining"
+    ],
+    "correct": "Hospitality and medical",
+    "explanation": "Hospitality and medical \u2014 as per classical Vedic astrology interpretations."
+  },
+  {
+    "question": "Which Rashi is symbolized by the crab?",
+    "options": [
+      "Taurus",
+      "Cancer",
+      "Aquarius",
+      "Pisces"
+    ],
+    "correct": "Cancer",
+    "explanation": "Cancer \u2014 as per classical Vedic astrology interpretations."
+  }
+]

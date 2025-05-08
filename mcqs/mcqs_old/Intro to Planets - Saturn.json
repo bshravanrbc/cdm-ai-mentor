@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the Color associated with Saturn in Vedic astrology?",
+    "options": [
+      "Blue",
+      "Black",
+      "Black/Blue"
+    ],
+    "correct": "Black/Blue",
+    "explanation": "Saturn is associated with Black/Blue as per classical texts in the Color category."
+  },
+  {
+    "question": "What is the Role in Cabinet associated with Saturn in Vedic astrology?",
+    "options": [
+      "Commander-in-Chief",
+      "Messenger",
+      "Servant"
+    ],
+    "correct": "Servant",
+    "explanation": "Saturn is associated with Servant as per classical texts in the Role in Cabinet category."
+  },
+  {
+    "question": "What is the Vedic Deity associated with Saturn in Vedic astrology?",
+    "options": [
+      "Chandra",
+      "Lord Shani",
+      "Brihaspati"
+    ],
+    "correct": "Lord Shani",
+    "explanation": "Saturn is associated with Lord Shani as per classical texts in the Vedic Deity category."
+  },
+  {
+    "question": "What is the Sex associated with Saturn in Vedic astrology?",
+    "options": [
+      "Variable",
+      "Neutral",
+      "Neutral"
+    ],
+    "correct": "Neutral",
+    "explanation": "Saturn is associated with Neutral as per classical texts in the Sex category."
+  },
+  {
+    "question": "What is the Element associated with Saturn in Vedic astrology?",
+    "options": [
+      "Air",
+      "Air",
+      "Water"
+    ],
+    "correct": "Air",
+    "explanation": "Saturn is associated with Air as per classical texts in the Element category."
+  },
+  {
+    "question": "What is the Varna associated with Saturn in Vedic astrology?",
+    "options": [
+      "Vaishya",
+      "Brahmin",
+      "Shudra"
+    ],
+    "correct": "Shudra",
+    "explanation": "Saturn is associated with Shudra as per classical texts in the Varna category."
+  },
+  {
+    "question": "What is the Guna associated with Saturn in Vedic astrology?",
+    "options": [
+      "Tamas",
+      "Rajasic",
+      "Mixed"
+    ],
+    "correct": "Tamas",
+    "explanation": "Saturn is associated with Tamas as per classical texts in the Guna category."
+  },
+  {
+    "question": "What is the Abode associated with Saturn in Vedic astrology?",
+    "options": [
+      "Cave",
+      "Ruins, Outskirts",
+      "Desert"
+    ],
+    "correct": "Ruins, Outskirts",
+    "explanation": "Saturn is associated with Ruins, Outskirts as per classical texts in the Abode category."
+  },
+  {
+    "question": "What is the Sapta Dhatu associated with Saturn in Vedic astrology?",
+    "options": [
+      "Nerves",
+      "Majja",
+      "Meda"
+    ],
+    "correct": "Nerves",
+    "explanation": "Saturn is associated with Nerves as per classical texts in the Sapta Dhatu category."
+  },
+  {
+    "question": "What is the Taste associated with Saturn in Vedic astrology?",
+    "options": [
+      "Astringent",
+      "Sweet",
+      "Sour"
+    ],
+    "correct": "Astringent",
+    "explanation": "Saturn is associated with Astringent as per classical texts in the Taste category."
+  },
+  {
+    "question": "What is the Age associated with Saturn in Vedic astrology?",
+    "options": [
+      "Youth",
+      "Old Age",
+      "Middle Age"
+    ],
+    "correct": "Old Age",
+    "explanation": "Saturn is associated with Old Age as per classical texts in the Age category."
+  },
+  {
+    "question": "What is the Direction associated with Saturn in Vedic astrology?",
+    "options": [
+      "West",
+      "East",
+      "West"
+    ],
+    "correct": "West",
+    "explanation": "Saturn is associated with West as per classical texts in the Direction category."
+  },
+  {
+    "question": "What is the Friend Planets associated with Saturn in Vedic astrology?",
+    "options": [
+      "Mercury, Venus",
+      "Mars, Jupiter",
+      "Mercury, Venus"
+    ],
+    "correct": "Mercury, Venus",
+    "explanation": "Saturn is associated with Mercury, Venus as per classical texts in the Friend Planets category."
+  },
+  {
+    "question": "What is the Neutral Planets associated with Saturn in Vedic astrology?",
+    "options": [
+      "Venus, Saturn",
+      "Moon, Ketu",
+      "Jupiter"
+    ],
+    "correct": "Jupiter",
+    "explanation": "Saturn is associated with Jupiter as per classical texts in the Neutral Planets category."
+  },
+  {
+    "question": "What is the Enemy Planets associated with Saturn in Vedic astrology?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Sun, Moon, Mars"
+    ],
+    "correct": "Sun, Moon, Mars",
+    "explanation": "Saturn is associated with Sun, Moon, Mars as per classical texts in the Enemy Planets category."
+  },
+  {
+    "question": "What is the Other Aspects associated with Saturn in Vedic astrology?",
+    "options": [
+      "Represents discipline, detachment, and karma",
+      "Poison, Deformity",
+      "Aggression, Tension"
+    ],
+    "correct": "Represents discipline, detachment, and karma",
+    "explanation": "Saturn is associated with Represents discipline, detachment, and karma as per classical texts in the Other Aspects category."
+  }
+]

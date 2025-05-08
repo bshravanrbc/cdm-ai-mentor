@@ -1,222 +1,122 @@
 [
   {
-    "question": "What is a common trait of Jupiter in the 1st house?",
-    "options": [
-      "Depletes energy levels",
-      "Creates excessive anger",
-      "Protects from obstacles, gives intelligence and spiritual wisdom",
-      "Delays maturity"
-    ],
-    "correct": "Protects from obstacles, gives intelligence and spiritual wisdom",
-    "explanation": "Protects from obstacles, gives intelligence and spiritual wisdom \u2014 typical when Jupiter is placed in the 1st house."
+    "question": "What is Jupiter primarily known as in Vedic astrology?",
+    "options": ["Shani", "Chandra", "Brihaspati", "Surya"],
+    "correct": "Brihaspati",
+    "explanation": "Jupiter is called Brihaspati, the guru of the devas (gods)."
   },
   {
-    "question": "What is a common trait of Jupiter in the 2nd house?",
-    "options": [
-      "Loss in trade",
-      "Avoids communication",
-      "Weak financial judgment",
-      "Cultured speech and earns through wisdom"
-    ],
-    "correct": "Cultured speech and earns through wisdom",
-    "explanation": "Cultured speech and earns through wisdom \u2014 typical when Jupiter is placed in the 2nd house."
+    "question": "Which two zodiac signs are ruled by Jupiter?",
+    "options": ["Leo and Cancer", "Sagittarius and Pisces", "Aries and Scorpio", "Gemini and Virgo"],
+    "correct": "Sagittarius and Pisces",
+    "explanation": "Jupiter rules Sagittarius (Dhanu) and Pisces (Meena)."
   },
   {
-    "question": "What is a common trait of Jupiter in the 3rd house?",
-    "options": [
-      "Materialistic and greedy",
-      "Timid and avoids public",
-      "Strong orator with spiritual inclination",
-      "Fearful of religion"
-    ],
-    "correct": "Strong orator with spiritual inclination",
-    "explanation": "Strong orator with spiritual inclination \u2014 typical when Jupiter is placed in the 3rd house."
+    "question": "How long does Jupiter typically stay in one rashi?",
+    "options": ["1 month", "6 months", "13 months", "18 months"],
+    "correct": "13 months",
+    "explanation": "Jupiter takes approximately 13 months to transit a single rashi."
   },
   {
-    "question": "What is a common trait of Jupiter in the 4th house?",
-    "options": [
-      "Brings happiness, family joy, and spiritual growth",
-      "Detached from family",
-      "Lives in isolation",
-      "Avoids spiritual talk"
-    ],
-    "correct": "Brings happiness, family joy, and spiritual growth",
-    "explanation": "Brings happiness, family joy, and spiritual growth \u2014 typical when Jupiter is placed in the 4th house."
+    "question": "What is the benefit of Jupiter in the 1st house?",
+    "options": ["Creates Manglik dosha", "Increases enemies", "Protects from 1.25 lakh obstacles", "Delays marriage"],
+    "correct": "Protects from 1.25 lakh obstacles",
+    "explanation": "According to BPHS, Jupiter in Lagna protects from 1.25 lakh life obstacles."
   },
   {
-    "question": "What is a common trait of Jupiter in the 5th house?",
-    "options": [
-      "Results of good past karma and strong decision-making",
-      "Lacks memory",
-      "Struggles with learning",
-      "Confused goals"
-    ],
-    "correct": "Results of good past karma and strong decision-making",
-    "explanation": "Results of good past karma and strong decision-making \u2014 typical when Jupiter is placed in the 5th house."
+    "question": "Jupiter in the 2nd house affects marriage how, if afflicted?",
+    "options": ["No effect", "Delays childbirth", "Creates marriage issues", "Gives multiple marriages"],
+    "correct": "Creates marriage issues",
+    "explanation": "As the 2nd house is the 8th from the 7th (marriage), it may bring issues if Jupiter is afflicted."
   },
   {
-    "question": "What is a common trait of Jupiter in the 6th house?",
-    "options": [
-      "Great for career and defeating enemies",
-      "Overcome by competitors",
-      "Career instability",
-      "Avoids effort"
-    ],
-    "correct": "Great for career and defeating enemies",
-    "explanation": "Great for career and defeating enemies \u2014 typical when Jupiter is placed in the 6th house."
+    "question": "Which Jupiter placement is great for oratory and spiritual teachings?",
+    "options": ["3rd House", "4th House", "6th House", "11th House"],
+    "correct": "3rd House",
+    "explanation": "Jupiter in the 3rd house favors oration, writing, and spiritual teachings."
   },
   {
-    "question": "What is a common trait of Jupiter in the 7th house?",
-    "options": [
-      "Fortune rises after marriage; strong partner support",
-      "No public engagement",
-      "Divorce-prone",
-      "Lonely life"
-    ],
-    "correct": "Fortune rises after marriage; strong partner support",
-    "explanation": "Fortune rises after marriage; strong partner support \u2014 typical when Jupiter is placed in the 7th house."
+    "question": "Jupiter in the 4th house ensures:",
+    "options": ["Long foreign stays", "Spiritual isolation", "Real happiness and comforts", "Strong competition at work"],
+    "correct": "Real happiness and comforts",
+    "explanation": "The 4th house Jupiter brings domestic happiness, property, and peace."
   },
   {
-    "question": "What is a common trait of Jupiter in the 8th house?",
-    "options": [
-      "Deep spirituality but problems in worldly life",
-      "Dislikes mantras",
-      "Loses wealth due to ego",
-      "Highly materialistic"
-    ],
-    "correct": "Deep spirituality but problems in worldly life",
-    "explanation": "Deep spirituality but problems in worldly life \u2014 typical when Jupiter is placed in the 8th house."
+    "question": "Which house is linked with receiving the results of past-life good karma when Jupiter is placed there?",
+    "options": ["6th House", "8th House", "5th House", "12th House"],
+    "correct": "5th House",
+    "explanation": "The 5th house is known as Purva Punya sthana, reflecting past-life merits."
   },
   {
-    "question": "What is a common trait of Jupiter in the 9th house?",
-    "options": [
-      "Disrespects elders",
-      "Avoids community work",
-      "Selfish and closed-minded",
-      "Wealthy, spiritual, and generous with land and donations"
-    ],
-    "correct": "Wealthy, spiritual, and generous with land and donations",
-    "explanation": "Wealthy, spiritual, and generous with land and donations \u2014 typical when Jupiter is placed in the 9th house."
+    "question": "An afflicted Jupiter in the 6th house may cause:",
+    "options": ["Bone disease", "Liver and kidney issues", "Throat problems", "Nervous system disorders"],
+    "correct": "Liver and kidney issues",
+    "explanation": "Jupiter in the 6th house, if afflicted, can cause issues in lower body organs like the liver and kidneys."
   },
   {
-    "question": "What is a common trait of Jupiter in the 10th house?",
-    "options": [
-      "Famous coach or advisor with access to power",
-      "Avoids teamwork",
-      "No teaching ability",
-      "Lacks networking"
-    ],
-    "correct": "Famous coach or advisor with access to power",
-    "explanation": "Famous coach or advisor with access to power \u2014 typical when Jupiter is placed in the 10th house."
+    "question": "Which Jupiter placement improves fortune after marriage?",
+    "options": ["2nd House", "7th House", "9th House", "11th House"],
+    "correct": "7th House",
+    "explanation": "Jupiter in the 7th house increases fortune and status post-marriage."
   },
   {
-    "question": "What is a common trait of Jupiter in the 11th house?",
-    "options": [
-      "Financial instability",
-      "No support from family",
-      "Isolated from friends",
-      "Wealthy later in life and supported by friends and children"
-    ],
-    "correct": "Wealthy later in life and supported by friends and children",
-    "explanation": "Wealthy later in life and supported by friends and children \u2014 typical when Jupiter is placed in the 11th house."
+    "question": "What is the consequence of Jupiter and Venus together in the 8th house?",
+    "options": ["Marriage bliss", "Asur Yoga with immoral behavior", "Sanyasa Yoga", "Sudden wealth"],
+    "correct": "Asur Yoga with immoral behavior",
+    "explanation": "This combo can result in deceit, lies, and unethical actions called Asur Yoga."
   },
   {
-    "question": "What is a common trait of Jupiter in the 12th house?",
-    "options": [
-      "Good for moksha, but poor for children and emotional control",
-      "Always joyful",
-      "Overly social",
-      "Highly materialistic"
-    ],
-    "correct": "Good for moksha, but poor for children and emotional control",
-    "explanation": "Good for moksha, but poor for children and emotional control \u2014 typical when Jupiter is placed in the 12th house."
+    "question": "Jupiter in the 9th house gives which quality?",
+    "options": ["Mental instability", "Rebellion against teachers", "Spiritual wisdom and wealth", "Fear of travel"],
+    "correct": "Spiritual wisdom and wealth",
+    "explanation": "9th house Jupiter makes the person philosophical, wealthy, and deeply spiritual."
   },
   {
-    "question": "What is a common trait of Jupiter in the 1st house?",
-    "options": [
-      "Lowers self-esteem",
-      "Disrupts marriage",
-      "Gives early success and removes marriage obstacles",
-      "Delays success"
-    ],
-    "correct": "Gives early success and removes marriage obstacles",
-    "explanation": "Gives early success and removes marriage obstacles \u2014 typical when Jupiter is placed in the 1st house."
+    "question": "Which house placement of Jupiter promotes public recognition and career success?",
+    "options": ["1st House", "4th House", "10th House", "12th House"],
+    "correct": "10th House",
+    "explanation": "Jupiter in the 10th house gives career fame, money, and strong public image."
   },
   {
-    "question": "What is a common trait of Jupiter in the 2nd house?",
-    "options": [
-      "Aspects improve job/business and reduce enemies",
-      "Fails at saving money",
-      "Weakens partnerships",
-      "Avoids leadership"
-    ],
-    "correct": "Aspects improve job/business and reduce enemies",
-    "explanation": "Aspects improve job/business and reduce enemies \u2014 typical when Jupiter is placed in the 2nd house."
+    "question": "What financial trait is linked with Jupiter in the 11th house?",
+    "options": ["Slow financial growth", "Wealth in old age", "Sudden lottery wins", "Financial dependence"],
+    "correct": "Wealth in old age",
+    "explanation": "Jupiter in the 11th house blesses with gradual financial prosperity that grows with age."
   },
   {
-    "question": "What is a common trait of Jupiter in the 3rd house?",
-    "options": [
-      "Dislikes learning",
-      "Materialist thinker",
-      "Avoids travel",
-      "Favors teaching, travel, and religious writing"
-    ],
-    "correct": "Favors teaching, travel, and religious writing",
-    "explanation": "Favors teaching, travel, and religious writing \u2014 typical when Jupiter is placed in the 3rd house."
+    "question": "Jupiter in the 12th house, when well-placed, leads to:",
+    "options": ["Success in business", "Loss of family wealth", "Spiritual salvation", "Stubborn attitude"],
+    "correct": "Spiritual salvation",
+    "explanation": "Jupiter in the 12th house can lead to Moksha or liberation if exalted or associated with Ketu."
   },
   {
-    "question": "What is a common trait of Jupiter in the 5th house?",
-    "options": [
-      "Brings interest in mantras and solid education",
-      "Rejects guru guidance",
-      "Distrusts rituals",
-      "Anti-religious views"
-    ],
-    "correct": "Brings interest in mantras and solid education",
-    "explanation": "Brings interest in mantras and solid education \u2014 typical when Jupiter is placed in the 5th house."
+    "question": "Which house does Jupiter aspect from the 2nd house that boosts career?",
+    "options": ["1st House", "6th House", "10th House", "12th House"],
+    "correct": "10th House",
+    "explanation": "Jupiter aspects the 10th house from the 2nd, enhancing career growth."
   },
   {
-    "question": "What is a common trait of Jupiter in the 6th house?",
-    "options": [
-      "Constantly involved in scandals",
-      "Saves from enemies and controversies",
-      "Avoids responsibilities",
-      "Resigned from challenges"
-    ],
-    "correct": "Saves from enemies and controversies",
-    "explanation": "Saves from enemies and controversies \u2014 typical when Jupiter is placed in the 6th house."
+    "question": "Which combination in the 9th house may result in renunciation or monkhood?",
+    "options": ["Jupiter + Venus", "Jupiter + Saturn", "Jupiter + Rahu", "Jupiter + Mars"],
+    "correct": "Jupiter + Saturn",
+    "explanation": "Jupiter with Saturn in the 9th house can form 'Sanyasa Yoga' leading to renunciation."
   },
   {
-    "question": "What is a common trait of Jupiter in the 7th house?",
-    "options": [
-      "Struggles with love",
-      "Distrusts companions",
-      "Avoids commitments",
-      "Spouse is religious and attractive; success in partnerships"
-    ],
-    "correct": "Spouse is religious and attractive; success in partnerships",
-    "explanation": "Spouse is religious and attractive; success in partnerships \u2014 typical when Jupiter is placed in the 7th house."
+    "question": "An afflicted Jupiter in the 10th house may result in:",
+    "options": ["Poor digestion", "Hypocrisy and impracticality", "Loss of siblings", "Mental retardation"],
+    "correct": "Hypocrisy and impracticality",
+    "explanation": "Afflicted Jupiter in the 10th house causes a disconnect between words and actions."
   },
   {
-    "question": "What is a common trait of Jupiter in the 9th house?",
-    "options": [
-      "Blocks all spiritual growth",
-      "Only selfish outcomes",
-      "Brings legal troubles",
-      "Forms Sanyasa Yoga if with Saturn; spiritual power"
-    ],
-    "correct": "Forms Sanyasa Yoga if with Saturn; spiritual power",
-    "explanation": "Forms Sanyasa Yoga if with Saturn; spiritual power \u2014 typical when Jupiter is placed in the 9th house."
+    "question": "Jupiter in which house gives the native a spouse who respects them like a father?",
+    "options": ["7th House", "10th House", "11th House", "1st House"],
+    "correct": "11th House",
+    "explanation": "Jupiter in the 11th house creates a fatherly image and strong support from the spouse."
   },
   {
-    "question": "What is a common trait of Jupiter in the 10th house?",
-    "options": [
-      "Leads to low self-worth",
-      "Makes native untrustworthy",
-      "Gives respect, high earnings, and strong public reputation",
-      "Avoids publicity"
-    ],
-    "correct": "Gives respect, high earnings, and strong public reputation",
-    "explanation": "Gives respect, high earnings, and strong public reputation \u2014 typical when Jupiter is placed in the 10th house."
+    "question": "Jupiter in which house is not considered good for children but may give Moksha if well-placed?",
+    "options": ["6th House", "10th House", "12th House", "8th House"],
+    "correct": "12th House",
+    "explanation": "12th house Jupiter is not ideal for children, but spiritually strong placements may lead to Moksha."
   }
 ]

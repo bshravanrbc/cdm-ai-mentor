@@ -1,222 +1,122 @@
 [
   {
-    "question": "What is a likely trait of Mercury in the 1st house?",
-    "options": [
-      "Emotionless and harsh",
-      "Highly intelligent with a great sense of humor",
-      "Reclusive and passive",
-      "Overly emotional and indecisive"
-    ],
-    "correct": "Highly intelligent with a great sense of humor",
-    "explanation": "Highly intelligent with a great sense of humor \u2014 commonly seen when Mercury is placed in the 1st house."
+    "question": "What does Mercury primarily signify in Vedic astrology?",
+    "options": ["Emotions and compassion", "Courage and strength", "Speech, intellect, and trade", "Mysticism and detachment"],
+    "correct": "Speech, intellect, and trade",
+    "explanation": "Mercury governs communication, intelligence, business, and analytical abilities."
   },
   {
-    "question": "What is a likely trait of Mercury in the 2nd house?",
-    "options": [
-      "Aggressive speaker with little education",
-      "Withdrawn from conversation",
-      "Struggles with formal learning",
-      "Intelligent with excellent education and diplomatic speech"
-    ],
-    "correct": "Intelligent with excellent education and diplomatic speech",
-    "explanation": "Intelligent with excellent education and diplomatic speech \u2014 commonly seen when Mercury is placed in the 2nd house."
+    "question": "Which two signs are ruled by Mercury?",
+    "options": ["Gemini and Virgo", "Taurus and Libra", "Leo and Cancer", "Pisces and Sagittarius"],
+    "correct": "Gemini and Virgo",
+    "explanation": "Mercury rules over the dual signs Gemini and Virgo."
   },
   {
-    "question": "What is a likely trait of Mercury in the 3rd house?",
-    "options": [
-      "Great communicator skilled in writing, media, and teaching",
-      "Avoids public speaking",
-      "Clumsy in digital communication",
-      "Dislikes routine tasks"
-    ],
-    "correct": "Great communicator skilled in writing, media, and teaching",
-    "explanation": "Great communicator skilled in writing, media, and teaching \u2014 commonly seen when Mercury is placed in the 3rd house."
+    "question": "What is a common trait of Mercury in the 1st house?",
+    "options": ["Aggressiveness", "Great sense of humor and intelligence", "Depression and laziness", "Disinterest in communication"],
+    "correct": "Great sense of humor and intelligence",
+    "explanation": "Mercury in the 1st house makes the native sharp-witted and humorous."
   },
   {
-    "question": "What is a likely trait of Mercury in the 4th house?",
-    "options": [
-      "Conflicted with mother and rigid thinker",
-      "Lives in poverty",
-      "Avoids intellectual pursuits",
-      "Software-related career, cordial maternal bond, and comfort in life"
-    ],
-    "correct": "Software-related career, cordial maternal bond, and comfort in life",
-    "explanation": "Software-related career, cordial maternal bond, and comfort in life \u2014 commonly seen when Mercury is placed in the 4th house."
+    "question": "If Mercury is with Rahu in the 1st house, what mental health issue may arise?",
+    "options": ["Hyperactivity", "Hallucinations", "Depression", "Insomnia"],
+    "correct": "Depression",
+    "explanation": "Mercury conjoined with Rahu in the 1st house can lead to depression."
   },
   {
-    "question": "What is a likely trait of Mercury in the 5th house?",
-    "options": [
-      "Prefers repetitive tasks",
-      "Well-educated poet and creative in math and astrology",
-      "Avoids expression and public platforms",
-      "Dislikes learning new topics"
-    ],
-    "correct": "Well-educated poet and creative in math and astrology",
-    "explanation": "Well-educated poet and creative in math and astrology \u2014 commonly seen when Mercury is placed in the 5th house."
+    "question": "What kind of speech does Mercury in the 2nd house give when with Jupiter?",
+    "options": ["Rude", "Polite", "Incoherent", "Manipulative"],
+    "correct": "Polite",
+    "explanation": "When Mercury is with Jupiter in the 2nd house, it gives refined and polite speech."
   },
   {
-    "question": "What is a likely trait of Mercury in the 6th house?",
-    "options": [
-      "Avoids challenges entirely",
-      "Emotionally unstable in debates",
-      "Lazy and lacks competitive spirit",
-      "Sharp intellect with spiritual knowledge, yet combative"
-    ],
-    "correct": "Sharp intellect with spiritual knowledge, yet combative",
-    "explanation": "Sharp intellect with spiritual knowledge, yet combative \u2014 commonly seen when Mercury is placed in the 6th house."
+    "question": "Which profession is strongly supported by Mercury in the 3rd house?",
+    "options": ["Banking", "Real estate", "Journalism and media", "Medical surgery"],
+    "correct": "Journalism and media",
+    "explanation": "Mercury in the 3rd house supports careers in communication, writing, and media."
   },
   {
-    "question": "What is a likely trait of Mercury in the 7th house?",
-    "options": [
-      "Emotionally distant but faithful",
-      "Avoids partnership completely",
-      "Stubborn and egoistic",
-      "Well-learned and obedient, yet prone to marital issues"
-    ],
-    "correct": "Well-learned and obedient, yet prone to marital issues",
-    "explanation": "Well-learned and obedient, yet prone to marital issues \u2014 commonly seen when Mercury is placed in the 7th house."
+    "question": "What home-related result is given by Mercury in the 4th house?",
+    "options": ["Small house", "Frequent relocations", "Big house and happiness", "Problems with mother"],
+    "correct": "Big house and happiness",
+    "explanation": "Mercury in the 4th house brings wealth, large homes, and a harmonious domestic life."
   },
   {
-    "question": "What is a likely trait of Mercury in the 8th house?",
-    "options": [
-      "Best for astrologers, with commanding speech and longevity",
-      "No spiritual inclination",
-      "Dislikes studying hidden sciences",
-      "Skeptical and avoids mysticism"
-    ],
-    "correct": "Best for astrologers, with commanding speech and longevity",
-    "explanation": "Best for astrologers, with commanding speech and longevity \u2014 commonly seen when Mercury is placed in the 8th house."
+    "question": "Which Mercury placement is good for children and poetic ability?",
+    "options": ["2nd House", "5th House", "9th House", "12th House"],
+    "correct": "5th House",
+    "explanation": "Mercury in the 5th house supports intelligence, poetry, and good relationships with children."
   },
   {
-    "question": "What is a likely trait of Mercury in the 9th house?",
-    "options": [
-      "Lacks philosophical depth",
-      "Prefers manual over intellectual work",
-      "Disinterested in religion",
-      "Highly spiritual, intelligent, and successful in arts and science"
-    ],
-    "correct": "Highly spiritual, intelligent, and successful in arts and science",
-    "explanation": "Highly spiritual, intelligent, and successful in arts and science \u2014 commonly seen when Mercury is placed in the 9th house."
+    "question": "What is a negative outcome of afflicted Mercury in the 6th house?",
+    "options": ["Heart issues", "Skin and digestive problems", "Overconfidence", "Timidity"],
+    "correct": "Skin and digestive problems",
+    "explanation": "Afflicted Mercury in the 6th house can cause health issues, especially related to digestion and skin."
   },
   {
-    "question": "What is a likely trait of Mercury in the 10th house?",
-    "options": [
-      "Fails in communication jobs",
-      "Weak cognitive skills",
-      "Forms Rajyoga in own sign; early career success and memory power",
-      "Career remains directionless"
-    ],
-    "correct": "Forms Rajyoga in own sign; early career success and memory power",
-    "explanation": "Forms Rajyoga in own sign; early career success and memory power \u2014 commonly seen when Mercury is placed in the 10th house."
+    "question": "Why is Mercury in the 7th house problematic for marriage?",
+    "options": ["Due to physical weakness", "Because of Mercury's dual nature and impotency", "Due to lack of interest", "Because of past-life karma"],
+    "correct": "Because of Mercury's dual nature and impotency",
+    "explanation": "Mercury's indecisiveness and lack of virility can cause marital complications when in the 7th house."
   },
   {
-    "question": "What is a likely trait of Mercury in the 11th house?",
-    "options": [
-      "Very intelligent, prosperous, and business-minded with many friends",
-      "Isolated and indecisive",
-      "Struggles in group settings",
-      "Disliked in professional circles"
-    ],
-    "correct": "Very intelligent, prosperous, and business-minded with many friends",
-    "explanation": "Very intelligent, prosperous, and business-minded with many friends \u2014 commonly seen when Mercury is placed in the 11th house."
+    "question": "Which house placement of Mercury supports a career in astrology and long life?",
+    "options": ["4th House", "6th House", "8th House", "10th House"],
+    "correct": "8th House",
+    "explanation": "Mercury in the 8th house supports occult knowledge, especially astrology, and ensures longevity if well-placed."
   },
   {
-    "question": "What is a likely trait of Mercury in the 12th house?",
-    "options": [
-      "High logical ability",
-      "Strictly materialistic",
-      "Overachiever in academics",
-      "Weak memory and decision-making, but potential for spiritual growth"
-    ],
-    "correct": "Weak memory and decision-making, but potential for spiritual growth",
-    "explanation": "Weak memory and decision-making, but potential for spiritual growth \u2014 commonly seen when Mercury is placed in the 12th house."
+    "question": "What philosophical interest is linked to Mercury in the 9th house?",
+    "options": ["Engineering", "Cooking", "Music and religion", "Travel only"],
+    "correct": "Music and religion",
+    "explanation": "Mercury in the 9th house encourages musical talent, spiritual inquiry, and philosophical insight."
   },
   {
-    "question": "What is a likely trait of Mercury in the 2nd house?",
-    "options": [
-      "Often bankrupt and fearful",
-      "Always giving away wealth",
-      "Business-minded and lucky with money",
-      "Dislikes finance topics"
-    ],
-    "correct": "Business-minded and lucky with money",
-    "explanation": "Business-minded and lucky with money \u2014 commonly seen when Mercury is placed in the 2nd house."
+    "question": "Which profession suits Mercury in the 10th house?",
+    "options": ["Defense", "Agriculture", "Communication and creative careers", "Manual labor"],
+    "correct": "Communication and creative careers",
+    "explanation": "Mercury in the 10th house supports fields involving intellect, writing, and communication."
   },
   {
-    "question": "What is a likely trait of Mercury in the 3rd house?",
-    "options": [
-      "Good for astrology, consultancy, and mobile communication",
-      "Struggles with expression",
-      "Prefers manual labor",
-      "Avoids public roles"
-    ],
-    "correct": "Good for astrology, consultancy, and mobile communication",
-    "explanation": "Good for astrology, consultancy, and mobile communication \u2014 commonly seen when Mercury is placed in the 3rd house."
+    "question": "What is a favorable result of Mercury in the 11th house?",
+    "options": ["Solitude", "Spiritual renunciation", "Friendship, intelligence, and success in business", "Loss of wealth"],
+    "correct": "Friendship, intelligence, and success in business",
+    "explanation": "Mercury in the 11th house brings social success, business gains, and intellectual power."
   },
   {
-    "question": "What is a likely trait of Mercury in the 5th house?",
-    "options": [
-      "Good for children and poetry but can cause confusion if afflicted",
-      "Makes one indecisive only in finance",
-      "Encourages total detachment",
-      "Avoids imaginative fields"
-    ],
-    "correct": "Good for children and poetry but can cause confusion if afflicted",
-    "explanation": "Good for children and poetry but can cause confusion if afflicted \u2014 commonly seen when Mercury is placed in the 5th house."
+    "question": "What is a major drawback of Mercury in the 12th house?",
+    "options": ["Anger issues", "Poor memory and laziness", "Violent nature", "Lack of physical strength"],
+    "correct": "Poor memory and laziness",
+    "explanation": "Mercury in the 12th house reduces mental clarity and promotes lethargy."
   },
   {
-    "question": "What is a likely trait of Mercury in the 7th house?",
-    "options": [
-      "Spouse is generally secretive",
-      "Unromantic and aggressive spouse",
-      "Emotionally detached partner",
-      "Spouse may be intelligent and beautiful"
-    ],
-    "correct": "Spouse may be intelligent and beautiful",
-    "explanation": "Spouse may be intelligent and beautiful \u2014 commonly seen when Mercury is placed in the 7th house."
+    "question": "Which Mercury placement indicates foreign travel?",
+    "options": ["6th House", "10th House", "12th House", "4th House"],
+    "correct": "12th House",
+    "explanation": "Mercury in the 12th house is known to cause foreign travel, especially when afflicted."
   },
   {
-    "question": "What is a likely trait of Mercury in the 8th house?",
-    "options": [
-      "Total dependency on spouse",
-      "Grants inheritance and peaceful death",
-      "Financial instability due to fraud",
-      "No mental peace till end"
-    ],
-    "correct": "Grants inheritance and peaceful death",
-    "explanation": "Grants inheritance and peaceful death \u2014 commonly seen when Mercury is placed in the 8th house."
+    "question": "What is a key skill for Mercury in earthy signs in the 5th house?",
+    "options": ["Language", "Math", "Physics and grammar", "Cooking"],
+    "correct": "Physics and grammar",
+    "explanation": "In earthy signs, Mercury in the 5th house supports logical studies like physics and grammar."
   },
   {
-    "question": "What is a likely trait of Mercury in the 9th house?",
-    "options": [
-      "Promotes religious and musical inclination",
-      "Sticks only to rigid science",
-      "Avoids spiritual discussions",
-      "Resents teachers"
-    ],
-    "correct": "Promotes religious and musical inclination",
-    "explanation": "Promotes religious and musical inclination \u2014 commonly seen when Mercury is placed in the 9th house."
+    "question": "What happens when Mercury is with Ketu in the 2nd house?",
+    "options": ["Overtalkative", "Refined speaker", "Hesitation in speech", "Singing ability"],
+    "correct": "Hesitation in speech",
+    "explanation": "Ketu causes hesitation and suppression in speech when joined with Mercury in the 2nd house."
   },
   {
-    "question": "What is a likely trait of Mercury in the 10th house?",
-    "options": [
-      "Lacks verbal clarity",
-      "Close to influential people and excels in communication",
-      "Avoids intellectual fields",
-      "Career limited to manual work"
-    ],
-    "correct": "Close to influential people and excels in communication",
-    "explanation": "Close to influential people and excels in communication \u2014 commonly seen when Mercury is placed in the 10th house."
+    "question": "Mercury in the 6th house can make the native:",
+    "options": ["Introverted and quiet", "Spiritual and famous", "Lazy and indifferent", "Afraid of competition"],
+    "correct": "Spiritual and famous",
+    "explanation": "A well-placed Mercury in the 6th house gives divine knowledge and public recognition."
   },
   {
-    "question": "What is a likely trait of Mercury in the 12th house?",
-    "options": [
-      "Prone to cheating and disobeying rules",
-      "Extremely shy and compliant",
-      "Obeys law to fault",
-      "Overly righteous"
-    ],
-    "correct": "Prone to cheating and disobeying rules",
-    "explanation": "Prone to cheating and disobeying rules \u2014 commonly seen when Mercury is placed in the 12th house."
+    "question": "What is the main problem with afflicted Mercury in the 10th house?",
+    "options": ["Fame loss", "No creativity", "Career instability and poor decisions", "Lack of wealth"],
+    "correct": "Career instability and poor decisions",
+    "explanation": "Afflicted Mercury in the 10th house affects professional clarity and decision-making."
   }
 ]

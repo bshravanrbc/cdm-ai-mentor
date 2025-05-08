@@ -1,442 +1,176 @@
 [
   {
-    "question": "What does the 1st house represent in astrology?",
-    "options": [
-      "Represents self, personality, body, and immune strength",
-      "Only governs communication",
-      "Represents wealth accumulation only",
-      "Limited to property issues"
-    ],
-    "correct": "Represents self, personality, body, and immune strength",
-    "explanation": "Represents self, personality, body, and immune strength \u2014 this reflects the classical interpretation of the 1st house."
+    "question": "Which house in a horoscope is referred to as the foundation of all experiences?",
+    "options": ["1st House", "4th House", "10th House", "7th House"],
+    "correct": "1st House",
+    "explanation": "The 1st house acts as the foundation through which all experiences are processed."
   },
   {
-    "question": "What does the 1st house represent in astrology?",
-    "options": [
-      "Has no structural significance",
-      "Only applies to speech",
-      "Only reflects love life",
-      "Acts as the foundation of the entire horoscope"
-    ],
-    "correct": "Acts as the foundation of the entire horoscope",
-    "explanation": "Acts as the foundation of the entire horoscope \u2014 this reflects the classical interpretation of the 1st house."
+    "question": "Which house governs the native’s immune system?",
+    "options": ["6th House", "1st House", "8th House", "10th House"],
+    "correct": "1st House",
+    "explanation": "The strength of the 1st house is crucial as it symbolizes our immune system."
   },
   {
-    "question": "What does the 1st house represent in astrology?",
-    "options": [
-      "The Sun is the significator and it symbolizes both Shiva and Shakti",
-      "Mars signifies the first house",
-      "Moon rules this house",
-      "Venus dominates personality"
-    ],
-    "correct": "The Sun is the significator and it symbolizes both Shiva and Shakti",
-    "explanation": "The Sun is the significator and it symbolizes both Shiva and Shakti \u2014 this reflects the classical interpretation of the 1st house."
+    "question": "What body parts are associated with the 2nd house?",
+    "options": ["Hands and ears", "Head and face", "Teeth, gums, tongue, right eye", "Feet and toes"],
+    "correct": "Teeth, gums, tongue, right eye",
+    "explanation": "The 2nd house governs the native’s face, teeth, gums, tongue, and right eye."
   },
   {
-    "question": "What does the 2nd house represent in astrology?",
-    "options": [
-      "Governs food, speech, and wealth",
-      "Only controls public image",
-      "Relates to short journeys",
-      "Has nothing to do with family"
-    ],
-    "correct": "Governs food, speech, and wealth",
-    "explanation": "Governs food, speech, and wealth \u2014 this reflects the classical interpretation of the 2nd house."
+    "question": "Which house is considered a maraka (death-inflicting) house?",
+    "options": ["1st House", "2nd House", "4th House", "7th House"],
+    "correct": "2nd House",
+    "explanation": "The 2nd house governs sustenance and is considered a maraka house if afflicted."
   },
   {
-    "question": "What does the 2nd house represent in astrology?",
-    "options": [
-      "Grants moksha directly",
-      "Represents just creativity",
-      "Known as a Maraka (death-inflicting) house",
-      "Only beneficial"
-    ],
-    "correct": "Known as a Maraka (death-inflicting) house",
-    "explanation": "Known as a Maraka (death-inflicting) house \u2014 this reflects the classical interpretation of the 2nd house."
+    "question": "Which house governs courage, writing, and hobbies?",
+    "options": ["3rd House", "5th House", "6th House", "9th House"],
+    "correct": "3rd House",
+    "explanation": "The 3rd house represents communication, hobbies, courage, and writing abilities."
   },
   {
-    "question": "What does the 2nd house represent in astrology?",
-    "options": [
-      "Mercury represents it",
-      "Jupiter is the significator of this house",
-      "Mars is its significator",
-      "Venus always rules it"
-    ],
-    "correct": "Jupiter is the significator of this house",
-    "explanation": "Jupiter is the significator of this house \u2014 this reflects the classical interpretation of the 2nd house."
+    "question": "What body parts does the 3rd house govern?",
+    "options": ["Stomach and chest", "Hands, throat, and ears", "Eyes and forehead", "Legs and feet"],
+    "correct": "Hands, throat, and ears",
+    "explanation": "The 3rd house includes our hands, throat, and ears, crucial for expression and action."
   },
   {
-    "question": "What does the 3rd house represent in astrology?",
-    "options": [
-      "Governs wealth and fame",
-      "Associated with communication, courage, and younger siblings",
-      "Primarily about education",
-      "Only relates to marriage"
-    ],
-    "correct": "Associated with communication, courage, and younger siblings",
-    "explanation": "Associated with communication, courage, and younger siblings \u2014 this reflects the classical interpretation of the 3rd house."
+    "question": "Which planet is the significator of the 4th house?",
+    "options": ["Moon", "Venus", "Jupiter", "Saturn"],
+    "correct": "Moon",
+    "explanation": "Moon signifies comfort and nurturing, making it the karaka for the 4th house."
   },
   {
-    "question": "What does the 3rd house represent in astrology?",
-    "options": [
-      "Governs the skin",
-      "Hands, throat, and ears are linked to this house",
-      "Controls the feet",
-      "Only eyes are included"
-    ],
-    "correct": "Hands, throat, and ears are linked to this house",
-    "explanation": "Hands, throat, and ears are linked to this house \u2014 this reflects the classical interpretation of the 3rd house."
+    "question": "The 4th house primarily represents which relationships and possessions?",
+    "options": ["Spouse and children", "Father and career", "Mother and home", "Siblings and friends"],
+    "correct": "Mother and home",
+    "explanation": "The 4th house is the house of the mother, homeland, and emotional comfort."
   },
   {
-    "question": "What does the 3rd house represent in astrology?",
-    "options": [
-      "Mars is the significator due to its link with effort",
-      "Only Moon rules courage",
-      "Saturn signifies energy",
-      "Jupiter governs all action"
-    ],
-    "correct": "Mars is the significator due to its link with effort",
-    "explanation": "Mars is the significator due to its link with effort \u2014 this reflects the classical interpretation of the 3rd house."
+    "question": "Which house governs intellect, education, and past life merits?",
+    "options": ["2nd House", "5th House", "9th House", "12th House"],
+    "correct": "5th House",
+    "explanation": "The 5th house is associated with education, learning capacity, and purva punya (past life merit)."
   },
   {
-    "question": "What does the 4th house represent in astrology?",
-    "options": [
-      "Symbolizes mother, property, and inner peace",
-      "Represents competition",
-      "Represents illness",
-      "Deals only with marriage"
-    ],
-    "correct": "Symbolizes mother, property, and inner peace",
-    "explanation": "Symbolizes mother, property, and inner peace \u2014 this reflects the classical interpretation of the 4th house."
+    "question": "Which house is responsible for creativity and progeny?",
+    "options": ["3rd House", "5th House", "8th House", "10th House"],
+    "correct": "5th House",
+    "explanation": "The 5th house governs creativity, children, and future planning."
   },
   {
-    "question": "What does the 4th house represent in astrology?",
-    "options": [
-      "Mercury is the sole karaka",
-      "The Moon is both ruler and significator",
-      "Venus and Mars rule it",
-      "Sun dominates this house"
-    ],
-    "correct": "The Moon is both ruler and significator",
-    "explanation": "The Moon is both ruler and significator \u2014 this reflects the classical interpretation of the 4th house."
+    "question": "Which planets are significators of the 6th house?",
+    "options": ["Moon and Venus", "Mars and Saturn", "Mercury and Jupiter", "Sun and Rahu"],
+    "correct": "Mars and Saturn",
+    "explanation": "Mars and Saturn govern the struggles, diseases, and debts of the 6th house."
   },
   {
-    "question": "What does the 5th house represent in astrology?",
-    "options": [
-      "Represents financial loans",
-      "Governs intellect, love, and past life merits",
-      "Nothing to do with karma",
-      "Only related to speech"
-    ],
-    "correct": "Governs intellect, love, and past life merits",
-    "explanation": "Governs intellect, love, and past life merits \u2014 this reflects the classical interpretation of the 5th house."
+    "question": "What key life aspects are governed by the 6th house?",
+    "options": ["Wealth and luxury", "Marriage and partnerships", "Debt, disease, and enemies", "Spiritual awakening"],
+    "correct": "Debt, disease, and enemies",
+    "explanation": "The 6th house indicates internal and external challenges, including competition and conflict."
   },
   {
-    "question": "What does the 5th house represent in astrology?",
-    "options": [
-      "Saturn is the cosmic ruler",
-      "The Sun rules this house in the natural zodiac",
-      "Only Moon governs learning",
-      "Mercury dominates it"
-    ],
-    "correct": "The Sun rules this house in the natural zodiac",
-    "explanation": "The Sun rules this house in the natural zodiac \u2014 this reflects the classical interpretation of the 5th house."
+    "question": "Which house signifies the spouse and physical relationships?",
+    "options": ["4th House", "6th House", "7th House", "10th House"],
+    "correct": "7th House",
+    "explanation": "The 7th house represents marriage, companionship, and public relationships."
   },
   {
-    "question": "What does the 5th house represent in astrology?",
-    "options": [
-      "Avoids progeny matters",
-      "Connects to children, creativity, and future planning",
-      "Only deals with taxes",
-      "Never includes spiritual growth"
-    ],
-    "correct": "Connects to children, creativity, and future planning",
-    "explanation": "Connects to children, creativity, and future planning \u2014 this reflects the classical interpretation of the 5th house."
+    "question": "The 7th house also governs which commercial aspect?",
+    "options": ["Investments", "Agriculture", "Trading and market activities", "Academic learning"],
+    "correct": "Trading and market activities",
+    "explanation": "Apart from personal partnerships, the 7th house governs trading and business dealings."
   },
   {
-    "question": "What does the 6th house represent in astrology?",
-    "options": [
-      "Always beneficial",
-      "Only reflects food habits",
-      "Primarily a house of fame",
-      "Represents debt, disease, and enemies"
-    ],
-    "correct": "Represents debt, disease, and enemies",
-    "explanation": "Represents debt, disease, and enemies \u2014 this reflects the classical interpretation of the 6th house."
+    "question": "Which house represents hidden matters, obstacles, and fear?",
+    "options": ["6th House", "8th House", "10th House", "12th House"],
+    "correct": "8th House",
+    "explanation": "The 8th house rules over secrets, transformations, and obstacles in life."
   },
   {
-    "question": "What does the 6th house represent in astrology?",
-    "options": [
-      "Connected to romance",
-      "Always promotes peace",
-      "Linked to internal enemies like lust and anger",
-      "Gives spiritual liberation"
-    ],
-    "correct": "Linked to internal enemies like lust and anger",
-    "explanation": "Linked to internal enemies like lust and anger \u2014 this reflects the classical interpretation of the 6th house."
+    "question": "Which spiritual practice is associated with the 8th house?",
+    "options": ["Chanting", "Pilgrimage", "Pranayama", "Charity"],
+    "correct": "Pranayama",
+    "explanation": "Pranayama and other deep transformative spiritual practices are linked to the 8th house."
   },
   {
-    "question": "What does the 6th house represent in astrology?",
-    "options": [
-      "Mercury and Moon govern it",
-      "Mars and Saturn are key significators",
-      "Jupiter alone dominates",
-      "Venus rules health"
-    ],
-    "correct": "Mars and Saturn are key significators",
-    "explanation": "Mars and Saturn are key significators \u2014 this reflects the classical interpretation of the 6th house."
+    "question": "Which house signifies the father, gurus, and fortune?",
+    "options": ["1st House", "5th House", "9th House", "11th House"],
+    "correct": "9th House",
+    "explanation": "The 9th house represents higher learning, blessings from father and gurus, and fortune."
   },
   {
-    "question": "What does the 7th house represent in astrology?",
-    "options": [
-      "Represents spouse, business, and public dealings",
-      "Governs learning and books",
-      "No connection to partnership",
-      "Only for solitude"
-    ],
-    "correct": "Represents spouse, business, and public dealings",
-    "explanation": "Represents spouse, business, and public dealings \u2014 this reflects the classical interpretation of the 7th house."
+    "question": "Which planet is the significator of the 9th house?",
+    "options": ["Saturn", "Mars", "Jupiter", "Moon"],
+    "correct": "Jupiter",
+    "explanation": "Jupiter, the planet of wisdom and dharma, is the karaka of the 9th house."
   },
   {
-    "question": "What does the 7th house represent in astrology?",
-    "options": [
-      "Venus is the significator and rules companionship",
-      "Mercury brings partners",
-      "Mars signifies this house",
-      "Sun brings joy"
-    ],
-    "correct": "Venus is the significator and rules companionship",
-    "explanation": "Venus is the significator and rules companionship \u2014 this reflects the classical interpretation of the 7th house."
+    "question": "What aspect of life is seen from the 10th house?",
+    "options": ["Wealth from marriage", "Spiritual path", "Career and reputation", "Childbirth and romance"],
+    "correct": "Career and reputation",
+    "explanation": "The 10th house governs karma, status, and professional life."
   },
   {
-    "question": "What does the 7th house represent in astrology?",
-    "options": [
-      "Only deals with schooling",
-      "Avoids all sensual matters",
-      "Associated with physical pleasure and marriage",
-      "Linked to real estate"
-    ],
-    "correct": "Associated with physical pleasure and marriage",
-    "explanation": "Associated with physical pleasure and marriage \u2014 this reflects the classical interpretation of the 7th house."
+    "question": "What combination of planets influence the 10th house?",
+    "options": ["Moon and Venus", "Sun, Mars, Mercury, Jupiter", "Saturn and Ketu", "Rahu and Moon"],
+    "correct": "Sun, Mars, Mercury, Jupiter",
+    "explanation": "These planets shape one’s karma, leadership, communication, and ambition in the 10th house."
   },
   {
-    "question": "What does the 8th house represent in astrology?",
-    "options": [
-      "Promotes public image",
-      "Deals with death, mystery, and transformation",
-      "Only about career",
-      "Always beneficial"
-    ],
-    "correct": "Deals with death, mystery, and transformation",
-    "explanation": "Deals with death, mystery, and transformation \u2014 this reflects the classical interpretation of the 8th house."
+    "question": "Which house governs elder siblings and gains?",
+    "options": ["3rd House", "7th House", "9th House", "11th House"],
+    "correct": "11th House",
+    "explanation": "The 11th house is associated with elder siblings, material gains, and fulfillment of desires."
   },
   {
-    "question": "What does the 8th house represent in astrology?",
-    "options": [
-      "Connects to pranayama and occult practices",
-      "Only linked to finance",
-      "Represents only sleep",
-      "Blocks spirituality"
-    ],
-    "correct": "Connects to pranayama and occult practices",
-    "explanation": "Connects to pranayama and occult practices \u2014 this reflects the classical interpretation of the 8th house."
+    "question": "What body parts are linked to the 11th house?",
+    "options": ["Left foot and left hand", "Right ear and right hand", "Nose and throat", "Eyes and skin"],
+    "correct": "Right ear and right hand",
+    "explanation": "The 11th house governs the right hand and right ear."
   },
   {
-    "question": "What does the 9th house represent in astrology?",
-    "options": [
-      "Represents violence",
-      "Linked to fashion and art",
-      "Only about younger siblings",
-      "Symbolizes father, gurus, temples, and dharma"
-    ],
-    "correct": "Symbolizes father, gurus, temples, and dharma",
-    "explanation": "Symbolizes father, gurus, temples, and dharma \u2014 this reflects the classical interpretation of the 9th house."
+    "question": "Which house represents loss, detachment, and liberation?",
+    "options": ["8th House", "10th House", "11th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "The 12th house signifies loss, expenses, moksha, and separation from the material world."
   },
   {
-    "question": "What does the 9th house represent in astrology?",
-    "options": [
-      "Jupiter is the significator of this house",
-      "Mars dominates it",
-      "Only Moon rules it",
-      "Sun brings fortune"
-    ],
-    "correct": "Jupiter is the significator of this house",
-    "explanation": "Jupiter is the significator of this house \u2014 this reflects the classical interpretation of the 9th house."
+    "question": "What sign rules the natural 12th house in the zodiac?",
+    "options": ["Scorpio", "Pisces", "Virgo", "Sagittarius"],
+    "correct": "Pisces",
+    "explanation": "Pisces governs the 12th house in the natural zodiac, representing spiritual dissolution."
   },
   {
-    "question": "What does the 9th house represent in astrology?",
-    "options": [
-      "Associated with higher learning and pilgrimages",
-      "Opposes all traditions",
-      "Avoids religion",
-      "No link to education"
-    ],
-    "correct": "Associated with higher learning and pilgrimages",
-    "explanation": "Associated with higher learning and pilgrimages \u2014 this reflects the classical interpretation of the 9th house."
+    "question": "Which house is responsible for early childhood education?",
+    "options": ["1st House", "2nd House", "5th House", "9th House"],
+    "correct": "2nd House",
+    "explanation": "The 2nd house governs speech, learning, and early childhood education."
   },
   {
-    "question": "What does the 10th house represent in astrology?",
-    "options": [
-      "No link to status",
-      "Represents karma, career, and social reputation",
-      "Only about isolation",
-      "Avoids external activity"
-    ],
-    "correct": "Represents karma, career, and social reputation",
-    "explanation": "Represents karma, career, and social reputation \u2014 this reflects the classical interpretation of the 10th house."
+    "question": "Which house indicates the native’s physical and mental reaction to adversity?",
+    "options": ["1st House", "6th House", "8th House", "12th House"],
+    "correct": "1st House",
+    "explanation": "The 1st house determines how a person responds to challenges and stress."
   },
   {
-    "question": "What does the 10th house represent in astrology?",
-    "options": [
-      "Venus rules it fully",
-      "Mercury, Sun, Mars, and Jupiter are key karakas",
-      "Only Saturn applies",
-      "Moon and Rahu dominate"
-    ],
-    "correct": "Mercury, Sun, Mars, and Jupiter are key karakas",
-    "explanation": "Mercury, Sun, Mars, and Jupiter are key karakas \u2014 this reflects the classical interpretation of the 10th house."
+    "question": "Which house would show inclination toward spiritual institutions and pilgrimages?",
+    "options": ["3rd House", "6th House", "9th House", "12th House"],
+    "correct": "9th House",
+    "explanation": "The 9th house governs temples, spiritual teachers, and sacred journeys."
   },
   {
-    "question": "What does the 10th house represent in astrology?",
-    "options": [
-      "Blocks all career matters",
-      "Relates to secret fears",
-      "Determines relationship with bosses and duty",
-      "Only governs marriage"
-    ],
-    "correct": "Determines relationship with bosses and duty",
-    "explanation": "Determines relationship with bosses and duty \u2014 this reflects the classical interpretation of the 10th house."
+    "question": "Where do we analyze bed pleasures and sexual rest?",
+    "options": ["5th House", "7th House", "8th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "The 12th house represents physical rest and pleasures, including sexual enjoyment."
   },
   {
-    "question": "What does the 11th house represent in astrology?",
-    "options": [
-      "Relates to income, gains, and social circles",
-      "Governs lower body",
-      "Only deals with enemies",
-      "Avoids wealth topics"
-    ],
-    "correct": "Relates to income, gains, and social circles",
-    "explanation": "Relates to income, gains, and social circles \u2014 this reflects the classical interpretation of the 11th house."
-  },
-  {
-    "question": "What does the 11th house represent in astrology?",
-    "options": [
-      "Has nothing to do with gains",
-      "Opposes ambition",
-      "Blocks relationships",
-      "Fulfills material desires and elder sibling connections"
-    ],
-    "correct": "Fulfills material desires and elder sibling connections",
-    "explanation": "Fulfills material desires and elder sibling connections \u2014 this reflects the classical interpretation of the 11th house."
-  },
-  {
-    "question": "What does the 11th house represent in astrology?",
-    "options": [
-      "Only affects digestion",
-      "Controls skin tone",
-      "Linked to left eye",
-      "Governs right ear and right hand"
-    ],
-    "correct": "Governs right ear and right hand",
-    "explanation": "Governs right ear and right hand \u2014 this reflects the classical interpretation of the 11th house."
-  },
-  {
-    "question": "What does the 12th house represent in astrology?",
-    "options": [
-      "Controls property transfer",
-      "Connects only to money",
-      "Represents loss, detachment, and moksha",
-      "Always brings profit"
-    ],
-    "correct": "Represents loss, detachment, and moksha",
-    "explanation": "Represents loss, detachment, and moksha \u2014 this reflects the classical interpretation of the 12th house."
-  },
-  {
-    "question": "What does the 12th house represent in astrology?",
-    "options": [
-      "Purely domestic house",
-      "Deals with sleep, exile, and hospitalization",
-      "Enhances public recognition",
-      "Never isolates"
-    ],
-    "correct": "Deals with sleep, exile, and hospitalization",
-    "explanation": "Deals with sleep, exile, and hospitalization \u2014 this reflects the classical interpretation of the 12th house."
-  },
-  {
-    "question": "What does the 12th house represent in astrology?",
-    "options": [
-      "Leo rules it",
-      "Ruler of the natural twelfth house is Pisces",
-      "Gemini governs moksha",
-      "Capricorn is the karaka"
-    ],
-    "correct": "Ruler of the natural twelfth house is Pisces",
-    "explanation": "Ruler of the natural twelfth house is Pisces \u2014 this reflects the classical interpretation of the 12th house."
-  },
-  {
-    "question": "What does the 1st house represent in astrology?",
-    "options": [
-      "Limited to beauty only",
-      "The immune system is linked to this house",
-      "Only blood pressure is shown",
-      "No health link at all"
-    ],
-    "correct": "The immune system is linked to this house",
-    "explanation": "The immune system is linked to this house \u2014 this reflects the classical interpretation of the 1st house."
-  },
-  {
-    "question": "What does the 2nd house represent in astrology?",
-    "options": [
-      "Deals with the brain",
-      "Only governs fingers",
-      "No sense organs here",
-      "Represents speech, tongue, and right eye"
-    ],
-    "correct": "Represents speech, tongue, and right eye",
-    "explanation": "Represents speech, tongue, and right eye \u2014 this reflects the classical interpretation of the 2nd house."
-  },
-  {
-    "question": "What does the 3rd house represent in astrology?",
-    "options": [
-      "Avoids talent indicators",
-      "Only about comfort",
-      "Lacks practical utility",
-      "Governs hobbies, short travel, and enterprise"
-    ],
-    "correct": "Governs hobbies, short travel, and enterprise",
-    "explanation": "Governs hobbies, short travel, and enterprise \u2014 this reflects the classical interpretation of the 3rd house."
-  },
-  {
-    "question": "What does the 6th house represent in astrology?",
-    "options": [
-      "Only symbolic meaning",
-      "Yoga and physical exercise are connected here",
-      "No physical indicators",
-      "Strictly academic"
-    ],
-    "correct": "Yoga and physical exercise are connected here",
-    "explanation": "Yoga and physical exercise are connected here \u2014 this reflects the classical interpretation of the 6th house."
-  },
-  {
-    "question": "What does the 8th house represent in astrology?",
-    "options": [
-      "Has no karmic value",
-      "Determines longevity and secrets",
-      "Represents promotion",
-      "Only symbolic house"
-    ],
-    "correct": "Determines longevity and secrets",
-    "explanation": "Determines longevity and secrets \u2014 this reflects the classical interpretation of the 8th house."
-  },
-  {
-    "question": "What does the 9th house represent in astrology?",
-    "options": [
-      "Father\u2019s blessings shape this house",
-      "Avoids inheritance topics",
-      "No mentor connection",
-      "Only luck matters"
-    ],
-    "correct": "Father\u2019s blessings shape this house",
-    "explanation": "Father\u2019s blessings shape this house \u2014 this reflects the classical interpretation of the 9th house."
+    "question": "Which house is the primary indicator of debts and loans?",
+    "options": ["2nd House", "4th House", "6th House", "10th House"],
+    "correct": "6th House",
+    "explanation": "The 6th house is the main house of debt, loans, and financial burdens."
   }
 ]

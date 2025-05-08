@@ -1,0 +1,52 @@
+Career Analysis Basics
+
+Use the following rules to interpret a person's career based on planetary placements:
+
+- 10th house + Dashamesh → 10th house shows karma direction; not necessarily profession alone.
+- If 10th house has benefic planets → good career.
+- 6th house → Job/Service; 7th house → Business/Self-employment.
+- Dasha of 6th house or planets in it → Career likely in job/service.
+- 5th house → Education/professional learning; 4th → general education.
+- 5th lord not connected to 10th → career different from field of study.
+- Check which house (6th, 7th, Lagna) has more weight from planets:
+  - If 6th dominates → job; if 7th → business.
+
+**Doctor:**
+- 12th house → Hospital link.
+- 6th house → Disease/healing.
+- 5th & 9th house → Medical education.
+
+**Engineer:**
+- Malefic planets in 4th/5th → engineering tendencies.
+- 5th house linked with 10th → person becomes engineer.
+- Ketu → AI, deep tech.
+- Venus → Aeronautics.
+- Mercury → Communication Engineering.
+
+**Actor:**
+- 3rd house → Performance, communication.
+- Venus + Moon → Expression, emotions.
+- 2nd + 3rd + 5th + 10th house connection → Strong for acting.
+- Venus' impact on Lagna/Lagna Lord or 10L/10H → Key indicator.
+
+**Lawyer / Admin / Politics:**
+- Strong Sun, Saturn, 10th house connection.
+- Jupiter + 9th house influence → Public guidance.
+- Malavya Yoga → Politics, Luxury industries.
+- Gaja Kesari Yoga → Teaching, Influence, Public speaking.
+
+**General:**
+- Rashi Aries → Defense, Engineering
+- Taurus → Business, Finance
+- Gemini → Journalism, Writing
+- Cancer → Nursing, Counseling
+- Leo → Politics, Government roles
+- Virgo → Analysis, Teaching
+- Libra → Arts, Fashion
+- Scorpio → Surgery, Intelligence
+- Sagittarius → Law, Religion
+- Capricorn → Management, Bureaucracy
+- Aquarius → Innovation, Social Service
+- Pisces → Spiritual roles, Healing
+
+Evaluate the Lagna, 10th house, Dashamesh, karakas, and yogas.

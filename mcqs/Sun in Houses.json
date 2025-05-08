@@ -1,332 +1,242 @@
 [
   {
-    "question": "What personality trait is commonly seen in people with the Sun in the 1st house?",
-    "options": [
-      "Shyness",
-      "Leadership",
-      "Deceit",
-      "Depression"
-    ],
-    "correct": "Leadership",
-    "explanation": "Sun in the 1st house makes the native a born leader with high ambitions."
+    "question": "What is the primary quality of a person with Sun in the 1st house?",
+    "options": ["Strong oratory skills", "Natural leadership", "Financial instability", "Interest in foreign lands"],
+    "correct": "Natural leadership",
+    "explanation": "Sun in the 1st house bestows leadership and a dominant personality. Oratory skills and foreign interests are not emphasized here."
   },
   {
-    "question": "How does the Sun in the 2nd house affect speech?",
-    "options": [
-      "It causes speech delay",
-      "It enhances oratory skills",
-      "It makes one silent",
-      "It causes a stutter"
-    ],
-    "correct": "It enhances oratory skills",
-    "explanation": "Sun in the 2nd house makes the native an effective talker and good orator."
+    "question": "Which house placement of the Sun often leads to rebellious tendencies towards family?",
+    "options": ["1st House", "2nd House", "4th House", "7th House"],
+    "correct": "2nd House",
+    "explanation": "Sun in the 2nd house can cause rebellious behavior toward family members, especially if afflicted."
   },
   {
-    "question": "Which house placement of the Sun is associated with bravery and poetic interests?",
-    "options": [
-      "3rd house",
-      "5th house",
-      "7th house",
-      "10th house"
-    ],
-    "correct": "3rd house",
-    "explanation": "Sun in the 3rd house gives bravery, strength, and interest in poetry and occultism."
+    "question": "Sun in which house enhances bravery and interest in occult sciences?",
+    "options": ["3rd House", "6th House", "8th House", "10th House"],
+    "correct": "3rd House",
+    "explanation": "Sun in the 3rd house gives bravery and interest in occultism, poetry, and sports."
   },
   {
-    "question": "What is a possible drawback of the Sun in the 4th house?",
-    "options": [
-      "Poor education",
-      "Greed and conflicts with mother",
-      "Loss of property",
-      "Fear of water"
-    ],
-    "correct": "Greed and conflicts with mother",
-    "explanation": "An afflicted Sun in the 4th house may lead to greed, immoral tendencies, and mother issues."
+    "question": "Which is a common effect of an afflicted Sun in the 4th house?",
+    "options": ["Spiritual inclination", "Wealth accumulation", "Conflict with mother", "Strong immunity"],
+    "correct": "Conflict with mother",
+    "explanation": "An afflicted Sun in the 4th house can lead to conflicts with the mother and immoral tendencies."
   },
   {
-    "question": "What career path is favored by the Sun in the 1st house?",
-    "options": [
-      "Creative writing",
-      "Acting",
-      "Political leadership",
-      "Nursing"
-    ],
-    "correct": "Political leadership",
-    "explanation": "The Sun in the Ascendant supports political or leadership roles."
+    "question": "Which house placement of the Sun is associated with artistic talents and mental strength?",
+    "options": ["5th House", "9th House", "7th House", "11th House"],
+    "correct": "5th House",
+    "explanation": "The 5th house placement of Sun promotes artistic expression, mental strength, and adventurous behavior."
   },
   {
-    "question": "What effect might the Sun in the 1th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 1th house strengthens personal authority and leadership skills."
+    "question": "Sun in which house indicates success in overcoming enemies and a strong work ethic?",
+    "options": ["6th House", "8th House", "10th House", "12th House"],
+    "correct": "6th House",
+    "explanation": "Sun in the 6th house enhances problem-solving skills and dedication to work, helping overcome enemies."
   },
   {
-    "question": "What effect might the Sun in the 2th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 2th house strengthens personal authority and leadership skills."
+    "question": "A person with Sun in the 7th house may face which of the following issues?",
+    "options": ["Spiritual detachment", "Financial discipline", "Troubled marriage", "Leadership vacuum"],
+    "correct": "Troubled marriage",
+    "explanation": "Sun in the 7th house may bring marital difficulties and sensitivity to rejection."
   },
   {
-    "question": "What effect might the Sun in the 3th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 3th house strengthens personal authority and leadership skills."
+    "question": "Which house does the Sun indicate likely foreign residence and impatience?",
+    "options": ["8th House", "2nd House", "9th House", "12th House"],
+    "correct": "8th House",
+    "explanation": "Sun in the 8th house often leads to impatience, restlessness, and a chance of foreign residence."
   },
   {
-    "question": "What effect might the Sun in the 4th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 4th house strengthens personal authority and leadership skills."
+    "question": "Sun in the 9th house often leads to conflict with whom?",
+    "options": ["Siblings", "Father", "Spouse", "Children"],
+    "correct": "Father",
+    "explanation": "Although the 9th house represents spirituality and idealism, it can also bring strained relationships with the father."
   },
   {
-    "question": "What effect might the Sun in the 5th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 5th house strengthens personal authority and leadership skills."
+    "question": "Which house placement of Sun is ideal for achieving power in government-related careers?",
+    "options": ["10th House", "2nd House", "6th House", "12th House"],
+    "correct": "10th House",
+    "explanation": "Sun in the 10th house provides authority and recognition, making it excellent for political or government careers."
   },
   {
-    "question": "What effect might the Sun in the 6th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 6th house strengthens personal authority and leadership skills."
+    "question": "What is a typical trait of a person with Sun in the 11th house?",
+    "options": ["Loneliness", "Selfishness", "Humanitarianism", "Religious detachment"],
+    "correct": "Humanitarianism",
+    "explanation": "Sun in the 11th house makes the native charitable and people-oriented with a humanitarian outlook."
   },
   {
-    "question": "What effect might the Sun in the 7th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 7th house strengthens personal authority and leadership skills."
+    "question": "Which house placement of the Sun is most associated with introversion and privacy-seeking behavior?",
+    "options": ["4th House", "8th House", "11th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "Sun in the 12th house leads to introversion and a constant desire for personal space and solitude."
   },
   {
-    "question": "What effect might the Sun in the 8th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 8th house strengthens personal authority and leadership skills."
+    "question": "What aspect does the Sun have in Vedic astrology?",
+    "options": ["Full aspect on 7th and 8th houses", "Only 7° aspect", "9th aspect only", "10° conjunction aspect"],
+    "correct": "Only 7° aspect",
+    "explanation": "Unlike other planets, the Sun has only a 7° aspect in Vedic astrology."
   },
   {
-    "question": "What effect might the Sun in the 9th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 9th house strengthens personal authority and leadership skills."
+    "question": "Which house placement can make one a good researcher or scientist?",
+    "options": ["1st House", "2nd House", "5th House", "8th House"],
+    "correct": "2nd House",
+    "explanation": "Sun in the 2nd house gives intellectual capacity and inclination toward scientific or research work."
   },
   {
-    "question": "What effect might the Sun in the 10th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 10th house strengthens personal authority and leadership skills."
+    "question": "Which of the following is a possible health issue from Sun in the 8th house?",
+    "options": ["Joint pain", "Venereal diseases", "Asthma", "Migraine"],
+    "correct": "Venereal diseases",
+    "explanation": "Sun in the 8th house can cause health issues like venereal diseases, especially if afflicted."
   },
   {
-    "question": "What effect might the Sun in the 11th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 11th house strengthens personal authority and leadership skills."
+    "question": "Which characteristic is commonly associated with Sun in the 9th house?",
+    "options": ["Weak leadership", "Materialism", "Truthfulness", "Timidity"],
+    "correct": "Truthfulness",
+    "explanation": "Sun in the 9th house gives a strong moral compass, idealism, and truthfulness."
   },
   {
-    "question": "What effect might the Sun in the 12th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 12th house strengthens personal authority and leadership skills."
+    "question": "What type of career is favored with Sun in the 4th house?",
+    "options": ["Teaching", "Medicine", "Politics or bureaucracy", "Fashion industry"],
+    "correct": "Politics or bureaucracy",
+    "explanation": "Sun in the 4th house favors government-related careers due to its connection with stability and tradition."
   },
   {
-    "question": "What effect might the Sun in the 1th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 1th house strengthens personal authority and leadership skills."
+    "question": "A person with Sun in which house is likely to have strained relations with children?",
+    "options": ["5th House", "2nd House", "6th House", "11th House"],
+    "correct": "5th House",
+    "explanation": "Although devoted to children, Sun in the 5th house can bring challenges in relationships with them if afflicted."
   },
   {
-    "question": "What effect might the Sun in the 2th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 2th house strengthens personal authority and leadership skills."
+    "question": "What personality trait is heightened in a native with Sun in the 3rd house?",
+    "options": ["Shyness", "Vigor", "Laziness", "Introversion"],
+    "correct": "Vigor",
+    "explanation": "Sun in the 3rd house enhances courage, vigor, and a dynamic attitude."
   },
   {
-    "question": "What effect might the Sun in the 3th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 3th house strengthens personal authority and leadership skills."
+    "question": "Which house placement of the Sun can lead to loss of wealth through government issues?",
+    "options": ["6th House", "9th House", "10th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "Sun in the 12th house may bring losses due to government-related problems or penalties."
   },
   {
-    "question": "What effect might the Sun in the 4th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 4th house strengthens personal authority and leadership skills."
+    "question": "Which rashi is ruled by the Sun in Vedic astrology?",
+    "options": ["Aries", "Leo", "Sagittarius", "Scorpio"],
+    "correct": "Leo",
+    "explanation": "The Sun rules Leo, a fire sign known for dominance and leadership."
   },
   {
-    "question": "What effect might the Sun in the 5th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 5th house strengthens personal authority and leadership skills."
+    "question": "How long does the Sun typically stay in one rashi?",
+    "options": ["15 days", "20 days", "30 days", "45 days"],
+    "correct": "30 days",
+    "explanation": "The Sun stays for approximately 30 days in each rashi as it transits through the zodiac."
   },
   {
-    "question": "What effect might the Sun in the 6th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 6th house strengthens personal authority and leadership skills."
+    "question": "Which house placement of Sun may indicate a tendency to overshadow others?",
+    "options": ["1st House", "5th House", "7th House", "11th House"],
+    "correct": "1st House",
+    "explanation": "Sun in the 1st house gives a dominant personality that may unintentionally overshadow others."
   },
   {
-    "question": "What effect might the Sun in the 7th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 7th house strengthens personal authority and leadership skills."
+    "question": "What color is traditionally associated with the Sun?",
+    "options": ["Bright Red", "Golden Yellow", "Pure White", "Royal Blue"],
+    "correct": "Bright Red",
+    "explanation": "In Vedic astrology, the Sun is associated with the color Bright Red, symbolizing vitality and power."
   },
   {
-    "question": "What effect might the Sun in the 8th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 8th house strengthens personal authority and leadership skills."
+    "question": "Which body part is the Sun the karaka (significator) of?",
+    "options": ["Heart", "Lungs", "Bones", "Eyes"],
+    "correct": "Bones",
+    "explanation": "The Sun is the karaka of bones, representing structural strength and vitality."
   },
   {
-    "question": "What effect might the Sun in the 9th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 9th house strengthens personal authority and leadership skills."
+    "question": "Which house placement of the Sun may result in being honored by the government?",
+    "options": ["3rd House", "4th House", "9th House", "12th House"],
+    "correct": "3rd House",
+    "explanation": "Sun in the 3rd house can bring honor from the government due to valor and effective communication."
   },
   {
-    "question": "What effect might the Sun in the 10th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 10th house strengthens personal authority and leadership skills."
+    "question": "What is a possible trait of someone with Sun in the 10th house?",
+    "options": ["Shyness", "Disinterest in politics", "Authority and recognition", "Lack of ambition"],
+    "correct": "Authority and recognition",
+    "explanation": "Sun in the 10th house grants status, recognition, and leadership qualities, especially in government roles."
   },
   {
-    "question": "What effect might the Sun in the 11th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 11th house strengthens personal authority and leadership skills."
+    "question": "In which house is the Sun likely to make someone generous but egoistic?",
+    "options": ["6th House", "10th House", "8th House", "2nd House"],
+    "correct": "10th House",
+    "explanation": "Sun in the 10th house brings generosity and status but also egoism due to power and recognition."
   },
   {
-    "question": "What effect might the Sun in the 12th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 12th house strengthens personal authority and leadership skills."
+    "question": "Which house placement suggests interest in yoga and righteous living?",
+    "options": ["6th House", "2nd House", "11th House", "12th House"],
+    "correct": "6th House",
+    "explanation": "Sun in the 6th house promotes discipline, yoga, and good deeds."
   },
   {
-    "question": "What effect might the Sun in the 1th house have?",
-    "options": [
-      "Improves communication",
-      "Gives spiritual insight",
-      "Supports leadership",
-      "Enhances romantic life"
-    ],
-    "correct": "Supports leadership",
-    "explanation": "The Sun in the 1th house strengthens personal authority and leadership skills."
+    "question": "What is a common result of an afflicted Sun in the 5th house?",
+    "options": ["Financial growth", "Educational success", "Problems with children", "Spiritual detachment"],
+    "correct": "Problems with children",
+    "explanation": "Affliction of the Sun in the 5th house can bring strain in child relationships or educational setbacks."
+  },
+  {
+    "question": "Which house placement of the Sun indicates high sexual curiosity and charity?",
+    "options": ["8th House", "11th House", "6th House", "4th House"],
+    "correct": "11th House",
+    "explanation": "Sun in the 11th house can lead to wealth, interest in the opposite sex, and charitable actions."
+  },
+  {
+    "question": "What is a likely outcome for someone with Sun in the 12th house?",
+    "options": ["High social confidence", "Wealth from government", "Inimical fatherly relations", "Supportive siblings"],
+    "correct": "Inimical fatherly relations",
+    "explanation": "Sun in the 12th house can cause difficult relationships with the father and potential eyesight problems."
+  },
+  {
+    "question": "What does the Sun generally represent in Vedic astrology?",
+    "options": ["Mind and emotions", "Soul and authority", "Material wealth", "Desires and ambitions"],
+    "correct": "Soul and authority",
+    "explanation": "The Sun signifies the soul, father, willpower, and all positions of authority."
+  },
+  {
+    "question": "Which placement can make a native overconfident or forceful in giving advice?",
+    "options": ["1st House", "5th House", "7th House", "9th House"],
+    "correct": "7th House",
+    "explanation": "Sun in the 7th house can create a pushy tendency in offering unsolicited advice."
+  },
+  {
+    "question": "Which house indicates a likelihood of living away from the native place?",
+    "options": ["2nd House", "3rd House", "4th House", "11th House"],
+    "correct": "4th House",
+    "explanation": "Sun in the 4th house, though stable internally, may cause the native to live away from their birthplace."
+  },
+  {
+    "question": "Which house placement of Sun makes one mentally restless and impatient?",
+    "options": ["5th House", "8th House", "6th House", "12th House"],
+    "correct": "8th House",
+    "explanation": "Sun in the 8th house brings restlessness and talkativeness, especially when afflicted."
+  },
+  {
+    "question": "A person with Sun in the 9th house may face trouble with which authority?",
+    "options": ["Teachers", "Government", "Bosses", "Spouse"],
+    "correct": "Government",
+    "explanation": "Despite spiritual leanings, Sun in the 9th house can bring defamation or issues with government authorities."
+  },
+  {
+    "question": "Which house placement of the Sun enhances wealth through personal efforts?",
+    "options": ["3rd House", "5th House", "8th House", "10th House"],
+    "correct": "5th House",
+    "explanation": "Sun in the 5th house helps wealth accumulation through individual talents and efforts."
+  },
+  {
+    "question": "Which house placement indicates the native is likely to be poetic and spiritual?",
+    "options": ["3rd House", "9th House", "2nd House", "6th House"],
+    "correct": "3rd House",
+    "explanation": "Sun in the 3rd house supports poetry, religious interest, and spiritual pursuits."
+  },
+  {
+    "question": "What could be a physical health issue related to Sun in the 12th house?",
+    "options": ["Joint pain", "Defective eyesight", "Skin issues", "Back pain"],
+    "correct": "Defective eyesight",
+    "explanation": "Sun in the 12th house is associated with poor eyesight and a generally weak physical constitution."
   }
 ]

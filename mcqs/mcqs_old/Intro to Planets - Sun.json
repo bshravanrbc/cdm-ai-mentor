@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the Color associated with the Sun in Vedic astrology?",
+    "options": [
+      "White",
+      "Red/Orange",
+      "Blue"
+    ],
+    "correct": "Red/Orange",
+    "explanation": "The Sun is associated with Red/Orange as per classical texts in the Color category."
+  },
+  {
+    "question": "What is the Role in Cabinet associated with the Sun in Vedic astrology?",
+    "options": [
+      "Cook",
+      "King",
+      "Messenger"
+    ],
+    "correct": "King",
+    "explanation": "The Sun is associated with King as per classical texts in the Role in Cabinet category."
+  },
+  {
+    "question": "What is the Vedic Deity associated with the Sun in Vedic astrology?",
+    "options": [
+      "Chandra",
+      "Indra",
+      "Lord Vishnu"
+    ],
+    "correct": "Lord Vishnu",
+    "explanation": "The Sun is associated with Lord Vishnu as per classical texts in the Vedic Deity category."
+  },
+  {
+    "question": "What is the Sex associated with the Sun in Vedic astrology?",
+    "options": [
+      "Neutral",
+      "Male",
+      "Variable"
+    ],
+    "correct": "Male",
+    "explanation": "The Sun is associated with Male as per classical texts in the Sex category."
+  },
+  {
+    "question": "What is the Element associated with the Sun in Vedic astrology?",
+    "options": [
+      "Earth",
+      "Air",
+      "Fire"
+    ],
+    "correct": "Fire",
+    "explanation": "The Sun is associated with Fire as per classical texts in the Element category."
+  },
+  {
+    "question": "What is the Varna associated with the Sun in Vedic astrology?",
+    "options": [
+      "Brahmin",
+      "Vaishya",
+      "Kshatriya"
+    ],
+    "correct": "Kshatriya",
+    "explanation": "The Sun is associated with Kshatriya as per classical texts in the Varna category."
+  },
+  {
+    "question": "What is the Guna associated with the Sun in Vedic astrology?",
+    "options": [
+      "Sattva",
+      "Mixed",
+      "Rajasic"
+    ],
+    "correct": "Sattva",
+    "explanation": "The Sun is associated with Sattva as per classical texts in the Guna category."
+  },
+  {
+    "question": "What is the Abode associated with the Sun in Vedic astrology?",
+    "options": [
+      "Temple or Palace",
+      "Cave",
+      "Water"
+    ],
+    "correct": "Temple or Palace",
+    "explanation": "The Sun is associated with Temple or Palace as per classical texts in the Abode category."
+  },
+  {
+    "question": "What is the Sapta Dhatu associated with the Sun in Vedic astrology?",
+    "options": [
+      "Bones",
+      "Meda",
+      "Majja"
+    ],
+    "correct": "Bones",
+    "explanation": "The Sun is associated with Bones as per classical texts in the Sapta Dhatu category."
+  },
+  {
+    "question": "What is the Taste associated with the Sun in Vedic astrology?",
+    "options": [
+      "Salty",
+      "Sweet",
+      "Pungent"
+    ],
+    "correct": "Pungent",
+    "explanation": "The Sun is associated with Pungent as per classical texts in the Taste category."
+  },
+  {
+    "question": "What is the Age associated with the Sun in Vedic astrology?",
+    "options": [
+      "Middle-aged",
+      "Youth",
+      "Middle Age"
+    ],
+    "correct": "Middle-aged",
+    "explanation": "The Sun is associated with Middle-aged as per classical texts in the Age category."
+  },
+  {
+    "question": "What is the Direction associated with the Sun in Vedic astrology?",
+    "options": [
+      "North",
+      "East",
+      "East"
+    ],
+    "correct": "East",
+    "explanation": "The Sun is associated with East as per classical texts in the Direction category."
+  },
+  {
+    "question": "What is the Friend Planets associated with the Sun in Vedic astrology?",
+    "options": [
+      "Mars, Jupiter",
+      "Mercury, Venus",
+      "Moon, Mars, Jupiter"
+    ],
+    "correct": "Moon, Mars, Jupiter",
+    "explanation": "The Sun is associated with Moon, Mars, Jupiter as per classical texts in the Friend Planets category."
+  },
+  {
+    "question": "What is the Neutral Planets associated with the Sun in Vedic astrology?",
+    "options": [
+      "None",
+      "Moon, Ketu",
+      "Venus, Saturn"
+    ],
+    "correct": "None",
+    "explanation": "The Sun is associated with None as per classical texts in the Neutral Planets category."
+  },
+  {
+    "question": "What is the Enemy Planets associated with the Sun in Vedic astrology?",
+    "options": [
+      "Jupiter",
+      "Saturn, Venus, Rahu, Ketu",
+      "Mercury"
+    ],
+    "correct": "Saturn, Venus, Rahu, Ketu",
+    "explanation": "The Sun is associated with Saturn, Venus, Rahu, Ketu as per classical texts in the Enemy Planets category."
+  },
+  {
+    "question": "What is the Other Aspects associated with the Sun in Vedic astrology?",
+    "options": [
+      "Aggression, Tension",
+      "Creativity, Dreams",
+      "Represents soul (Atma), leadership, and authority"
+    ],
+    "correct": "Represents soul (Atma), leadership, and authority",
+    "explanation": "The Sun is associated with Represents soul (Atma), leadership, and authority as per classical texts in the Other Aspects category."
+  }
+]

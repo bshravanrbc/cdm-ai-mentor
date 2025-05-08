@@ -1,222 +1,122 @@
 [
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 1st house?",
-    "options": [
-      "Focused and aggressive",
-      "Emotionless and calm",
-      "Physically weak but stable",
-      "Very moody and attention-seeking"
-    ],
-    "correct": "Very moody and attention-seeking",
-    "explanation": "Very moody and attention-seeking \u2014 this is commonly seen with Moon in the 1st house."
+    "question": "What mental trait is enhanced by Moon in the 1st house?",
+    "options": ["Clarity and focus", "Moodiness and fickleness", "Emotional detachment", "Fixed opinions"],
+    "correct": "Moodiness and fickleness",
+    "explanation": "Moon in the 1st house leads to a moody and fickle-minded personality."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 2nd house?",
-    "options": [
-      "Money-minded and speaks softly",
-      "Harsh in communication",
-      "Averse to food",
-      "Withdrawn and isolated"
-    ],
-    "correct": "Money-minded and speaks softly",
-    "explanation": "Money-minded and speaks softly \u2014 this is commonly seen with Moon in the 2nd house."
+    "question": "Moon in the 2nd house gives a person which of the following financial traits?",
+    "options": ["Disinterest in wealth", "Good financial sense", "Lavish spending only", "Dependence on others"],
+    "correct": "Good financial sense",
+    "explanation": "Moon in the 2nd house makes one money-minded and financially intelligent."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 3rd house?",
-    "options": [
-      "Dislike movement",
-      "Lack imagination",
-      "Prefer routine jobs",
-      "Love traveling and possess creative talent"
-    ],
-    "correct": "Love traveling and possess creative talent",
-    "explanation": "Love traveling and possess creative talent \u2014 this is commonly seen with Moon in the 3rd house."
+    "question": "What is a dream-related characteristic of Moon in the 3rd house?",
+    "options": ["Lucid dreaming", "Dreams during early morning", "Nightmares", "No dreams at all"],
+    "correct": "Dreams during early morning",
+    "explanation": "Moon in the 3rd house brings vivid early morning dreams and imagination."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 4th house?",
-    "options": [
-      "Disturbed sleep and emotional detachment from mother",
-      "Great sleep cycle",
-      "Strong maternal bond",
-      "Detached from pleasure"
-    ],
-    "correct": "Disturbed sleep and emotional detachment from mother",
-    "explanation": "Disturbed sleep and emotional detachment from mother \u2014 this is commonly seen with Moon in the 4th house."
+    "question": "What is 'Karkabhavnasham' as seen in Moon in the 4th house?",
+    "options": ["Enhancement of karaka", "Destruction of house significations", "Promotion of wealth", "Spiritual awakening"],
+    "correct": "Destruction of house significations",
+    "explanation": "'Karkabhavnasham' means destruction of significations; Moon in the 4th harms motherly love and domestic happiness."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 5th house?",
-    "options": [
-      "Cold toward children",
-      "Emotional about kids and good learners",
-      "Avoid spirituality",
-      "Unfocused students"
-    ],
-    "correct": "Emotional about kids and good learners",
-    "explanation": "Emotional about kids and good learners \u2014 this is commonly seen with Moon in the 5th house."
+    "question": "Moon in the 5th house often gives dreams related to:",
+    "options": ["Future events", "Wealth and power", "Past lives", "Enemies"],
+    "correct": "Past lives",
+    "explanation": "Moon in the 5th house often connects the native to past-life memories through dreams."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 6th house?",
-    "options": [
-      "Overly confident",
-      "Immune to stress",
-      "Prone to mental disorders and negativity",
-      "Physically dominant"
-    ],
-    "correct": "Prone to mental disorders and negativity",
-    "explanation": "Prone to mental disorders and negativity \u2014 this is commonly seen with Moon in the 6th house."
+    "question": "What type of health issue is typical with Moon in the 6th house?",
+    "options": ["Stomach ailments", "Psychosomatic disorders", "Cardiac issues", "Hormonal imbalances"],
+    "correct": "Psychosomatic disorders",
+    "explanation": "Moon in the 6th house makes the person prone to illnesses caused more by mind than by body."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 7th house?",
-    "options": [
-      "Partners lack empathy",
-      "Fear commitment",
-      "Struggle financially",
-      "Partners are caring and they are wealthy"
-    ],
-    "correct": "Partners are caring and they are wealthy",
-    "explanation": "Partners are caring and they are wealthy \u2014 this is commonly seen with Moon in the 7th house."
+    "question": "How does Moon affect marital life when placed in the 7th house?",
+    "options": ["Strains the marriage", "Caring and affectionate spouse", "Leads to separation", "Disinterest in marriage"],
+    "correct": "Caring and affectionate spouse",
+    "explanation": "Moon in the 7th house brings a loving, supportive, and affectionate partner."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 8th house?",
-    "options": [
-      "Disinterested in metaphysics",
-      "Interested in mysticism and tantra",
-      "Avoid spiritual matters",
-      "Lack curiosity"
-    ],
-    "correct": "Interested in mysticism and tantra",
-    "explanation": "Interested in mysticism and tantra \u2014 this is commonly seen with Moon in the 8th house."
+    "question": "What spiritual interest is indicated by Moon in the 8th house?",
+    "options": ["Philosophy", "Tantra and mysticism", "Asceticism", "Charity work"],
+    "correct": "Tantra and mysticism",
+    "explanation": "Moon in the 8th house shows interest in deep, mystical practices like tantra and astrology."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 9th house?",
-    "options": [
-      "Averse to travel",
-      "Materialistic and indulgent",
-      "Spiritual and love religious work",
-      "Resist traditions"
-    ],
-    "correct": "Spiritual and love religious work",
-    "explanation": "Spiritual and love religious work \u2014 this is commonly seen with Moon in the 9th house."
+    "question": "Moon in the 9th house is likely to influence the native toward:",
+    "options": ["Business", "Military service", "Religious deeds", "Political activism"],
+    "correct": "Religious deeds",
+    "explanation": "Moon in the 9th house inclines the native towards spirituality and religious activities."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 10th house?",
-    "options": [
-      "Avoid hard work",
-      "Love work and have poetic abilities",
-      "Resent planning",
-      "Unimaginative"
-    ],
-    "correct": "Love work and have poetic abilities",
-    "explanation": "Love work and have poetic abilities \u2014 this is commonly seen with Moon in the 10th house."
+    "question": "What professional behavior does Moon in the 10th house suggest?",
+    "options": ["Loyal to one job", "Stable planner and executor", "Frequent job changes", "Lacks interest in work"],
+    "correct": "Frequent job changes",
+    "explanation": "Moon in the 10th house leads to imaginative planning but unstable execution and frequent career changes."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 11th house?",
-    "options": [
-      "Avoid social contact",
-      "Not persuasive",
-      "Have more opposite-gender friends and are well-liked",
-      "Desire isolation"
-    ],
-    "correct": "Have more opposite-gender friends and are well-liked",
-    "explanation": "Have more opposite-gender friends and are well-liked \u2014 this is commonly seen with Moon in the 11th house."
+    "question": "Which social dynamic is seen with Moon in the 11th house?",
+    "options": ["Avoids friendships", "Only same-gender friendships", "Prefers opposite-gender friends", "Dislikes social gatherings"],
+    "correct": "Prefers opposite-gender friends",
+    "explanation": "Moon in the 11th house results in a strong preference for opposite-gender friendships and charm in society."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 12th house?",
-    "options": [
-      "Avoid solitude",
-      "Spendthrifts and prone to depression",
-      "Always optimistic",
-      "Extremely rational with money"
-    ],
-    "correct": "Spendthrifts and prone to depression",
-    "explanation": "Spendthrifts and prone to depression \u2014 this is commonly seen with Moon in the 12th house."
+    "question": "How does Moon in the 12th house typically affect mental health?",
+    "options": ["Provides stability", "Creates disorders and depression", "Enhances memory", "Improves problem-solving"],
+    "correct": "Creates disorders and depression",
+    "explanation": "Moon in the 12th house can lead to emotional instability, depression, and mental health challenges."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 1st house?",
-    "options": [
-      "Team-oriented",
-      "Self-centered and conscious of personality",
-      "Overlook personal appearance",
-      "Detached from identity"
-    ],
-    "correct": "Self-centered and conscious of personality",
-    "explanation": "Self-centered and conscious of personality \u2014 this is commonly seen with Moon in the 1st house."
+    "question": "Which Moon placement is associated with fondness for liquid foods?",
+    "options": ["2nd House", "5th House", "8th House", "11th House"],
+    "correct": "2nd House",
+    "explanation": "Moon in the 2nd house makes the native fond of liquid foods and sensitive in speech."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 3rd house?",
-    "options": [
-      "Rigid and skeptical",
-      "Resist meditation",
-      "Dismissive of subtle cues",
-      "Good observers and go into trance easily"
-    ],
-    "correct": "Good observers and go into trance easily",
-    "explanation": "Good observers and go into trance easily \u2014 this is commonly seen with Moon in the 3rd house."
+    "question": "Moon in the 6th house can cause trouble with whom?",
+    "options": ["Parents", "Spouse", "Bosses", "Neighbors"],
+    "correct": "Spouse",
+    "explanation": "Moon in the 6th house often results in relationship troubles, especially with one's spouse."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 5th house?",
-    "options": [
-      "Good sadhaks and love mantras",
-      "Avoid spiritual practices",
-      "Distrust religious systems",
-      "Resist routine"
-    ],
-    "correct": "Good sadhaks and love mantras",
-    "explanation": "Good sadhaks and love mantras \u2014 this is commonly seen with Moon in the 5th house."
+    "question": "Which placement of Moon indicates difficulty following religious discipline?",
+    "options": ["6th House", "9th House", "11th House", "1st House"],
+    "correct": "9th House",
+    "explanation": "Moon in the 9th house may struggle with structured religious practices despite spiritual inclination."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 6th house?",
-    "options": [
-      "Resilient against stress",
-      "Diseases mostly stem from the mind",
-      "Only physical issues occur",
-      "Physically weak but mentally stable"
-    ],
-    "correct": "Diseases mostly stem from the mind",
-    "explanation": "Diseases mostly stem from the mind \u2014 this is commonly seen with Moon in the 6th house."
+    "question": "Which house placement enhances poetic or storytelling ability?",
+    "options": ["3rd House", "5th House", "10th House", "12th House"],
+    "correct": "10th House",
+    "explanation": "Moon in the 10th house fosters creativity suitable for poets, writers, and storytellers."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 7th house?",
-    "options": [
-      "Fear criticism",
-      "Purely analytical",
-      "Possess creative talents",
-      "Lack imagination"
-    ],
-    "correct": "Possess creative talents",
-    "explanation": "Possess creative talents \u2014 this is commonly seen with Moon in the 7th house."
+    "question": "Moon in which house can cause 'Baalrishta Yoga'?",
+    "options": ["2nd House", "4th House", "8th House", "12th House"],
+    "correct": "8th House",
+    "explanation": "Baalrishta Yoga, associated with childhood troubles, can occur with Moon in the 8th house."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 10th house?",
-    "options": [
-      "Good for poets and storytellers",
-      "Prefer numbers and logic",
-      "Avoid creative expression",
-      "Unfit for literary careers"
-    ],
-    "correct": "Good for poets and storytellers",
-    "explanation": "Good for poets and storytellers \u2014 this is commonly seen with Moon in the 10th house."
+    "question": "What kind of food habits might be linked to Moon in the 2nd house?",
+    "options": ["Spicy foods", "Heavy meals", "Liquid foods", "Avoids food"],
+    "correct": "Liquid foods",
+    "explanation": "Moon in the 2nd house gives a strong liking for liquid-based food."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 11th house?",
-    "options": [
-      "Struggle to manifest goals",
-      "Uninterested in achievements",
-      "Desire fulfillment is powerful",
-      "Lack personal ambition"
-    ],
-    "correct": "Desire fulfillment is powerful",
-    "explanation": "Desire fulfillment is powerful \u2014 this is commonly seen with Moon in the 11th house."
+    "question": "Which house placement of the Moon can result in sudden trances?",
+    "options": ["3rd House", "6th House", "8th House", "12th House"],
+    "correct": "3rd House",
+    "explanation": "Moon in the 3rd house causes quick shifts in awareness and a tendency to go into trances."
   },
   {
-    "question": "What is a psychological or behavioral trait of Moon in the 12th house?",
-    "options": [
-      "Avoid guidance entirely",
-      "Take advice but follow their own mind",
-      "Always obey mentors",
-      "Heavily influenced by peers"
-    ],
-    "correct": "Take advice but follow their own mind",
-    "explanation": "Take advice but follow their own mind \u2014 this is commonly seen with Moon in the 12th house."
+    "question": "Moon in which house results in very powerful desire fulfillment?",
+    "options": ["5th House", "7th House", "9th House", "11th House"],
+    "correct": "11th House",
+    "explanation": "Moon in the 11th house brings about strong manifestation and fulfillment of desires."
   }
 ]

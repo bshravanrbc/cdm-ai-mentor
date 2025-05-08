@@ -1,0 +1,442 @@
+[
+  {
+    "question": "What does the 10th house primarily represent in career analysis?",
+    "options": [
+      "Marital happiness",
+      "Direction of karma",
+      "Parental wealth",
+      "Academic background"
+    ],
+    "correct": "Direction of karma",
+    "explanation": "Direction of karma \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which house is specifically linked to jobs and service roles?",
+    "options": [
+      "5th house",
+      "11th house",
+      "6th house",
+      "7th house"
+    ],
+    "correct": "6th house",
+    "explanation": "6th house \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "If the 7th house dominates in planetary strength, what career path is favored?",
+    "options": [
+      "Foreign service",
+      "Banking",
+      "Business or self-employment",
+      "Government job"
+    ],
+    "correct": "Business or self-employment",
+    "explanation": "Business or self-employment \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which house is associated with professional learning or specialized education?",
+    "options": [
+      "8th house",
+      "5th house",
+      "2nd house",
+      "12th house"
+    ],
+    "correct": "5th house",
+    "explanation": "5th house \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "If the 5th lord is not connected to the 10th house, what does it indicate?",
+    "options": [
+      "Career different from education",
+      "Medical career",
+      "Foreign job",
+      "Teaching path"
+    ],
+    "correct": "Career different from education",
+    "explanation": "Career different from education \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which house indicates general schooling?",
+    "options": [
+      "4th house",
+      "3rd house",
+      "6th house",
+      "12th house"
+    ],
+    "correct": "4th house",
+    "explanation": "4th house \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "A person with benefic planets in the 10th house is likely to have?",
+    "options": [
+      "Property disputes",
+      "Poor public image",
+      "A good career",
+      "Health issues"
+    ],
+    "correct": "A good career",
+    "explanation": "A good career \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "A strong 6th house and its dasha indicates?",
+    "options": [
+      "Inclination towards service/job",
+      "Religious lifestyle",
+      "Tendency toward fame",
+      "High spending habits"
+    ],
+    "correct": "Inclination towards service/job",
+    "explanation": "Inclination towards service/job \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "For a career in acting, which house is most relevant?",
+    "options": [
+      "6th house",
+      "12th house",
+      "3rd house",
+      "8th house"
+    ],
+    "correct": "3rd house",
+    "explanation": "3rd house \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which combination supports an acting career?",
+    "options": [
+      "Sun + Mars",
+      "Venus + Moon",
+      "Rahu + Ketu",
+      "Saturn + Mercury"
+    ],
+    "correct": "Venus + Moon",
+    "explanation": "Venus + Moon \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "A connection between 2nd, 3rd, 5th, and 10th houses indicates?",
+    "options": [
+      "Bureaucracy",
+      "Strong acting potential",
+      "Legal career",
+      "Spiritual bent"
+    ],
+    "correct": "Strong acting potential",
+    "explanation": "Strong acting potential \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "What is the role of Ketu in technical careers?",
+    "options": [
+      "Linked to teaching",
+      "Causes instability",
+      "Indicates writer",
+      "Linked to AI and deep tech"
+    ],
+    "correct": "Linked to AI and deep tech",
+    "explanation": "Linked to AI and deep tech \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "What does Venus signify in career analysis?",
+    "options": [
+      "Aeronautics, acting, and arts",
+      "Engineering",
+      "Finance",
+      "Medical surgery"
+    ],
+    "correct": "Aeronautics, acting, and arts",
+    "explanation": "Aeronautics, acting, and arts \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "A strong link between 5th and 10th house indicates?",
+    "options": [
+      "Foreign travel",
+      "Engineering career",
+      "Sales",
+      "Astrology"
+    ],
+    "correct": "Engineering career",
+    "explanation": "Engineering career \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Malefic planets in 4th/5th house may suggest inclination towards?",
+    "options": [
+      "Fashion",
+      "Teaching",
+      "Engineering",
+      "Politics"
+    ],
+    "correct": "Engineering",
+    "explanation": "Engineering \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which planet supports communication engineering?",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Mercury",
+      "Saturn"
+    ],
+    "correct": "Mercury",
+    "explanation": "Mercury \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which planet's involvement suggests potential for law or politics?",
+    "options": [
+      "Ketu",
+      "Sun",
+      "Rahu",
+      "Moon"
+    ],
+    "correct": "Sun",
+    "explanation": "Sun \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "A strong 9th house with Jupiter influence suggests?",
+    "options": [
+      "Surgeon",
+      "Medical profession",
+      "Spiritual detachment",
+      "Public guidance or law"
+    ],
+    "correct": "Public guidance or law",
+    "explanation": "Public guidance or law \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "What planetary yoga supports careers in luxury or politics?",
+    "options": [
+      "Sasa Yoga",
+      "Chandra-Mangal Yoga",
+      "Budha-Aditya Yoga",
+      "Malavya Yoga"
+    ],
+    "correct": "Malavya Yoga",
+    "explanation": "Malavya Yoga \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Gaja Kesari Yoga is associated with?",
+    "options": [
+      "Banking",
+      "Legal profession",
+      "Teaching and public influence",
+      "Foreign service"
+    ],
+    "correct": "Teaching and public influence",
+    "explanation": "Teaching and public influence \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which sign is linked to defense and engineering?",
+    "options": [
+      "Aries",
+      "Pisces",
+      "Gemini",
+      "Cancer"
+    ],
+    "correct": "Aries",
+    "explanation": "Aries \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Taurus natives are naturally suited for careers in?",
+    "options": [
+      "Business and finance",
+      "Astrology",
+      "Psychology",
+      "Surgery"
+    ],
+    "correct": "Business and finance",
+    "explanation": "Business and finance \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which Rashi supports journalism and writing careers?",
+    "options": [
+      "Virgo",
+      "Scorpio",
+      "Aquarius",
+      "Gemini"
+    ],
+    "correct": "Gemini",
+    "explanation": "Gemini \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Natives of Cancer are often suited for which profession?",
+    "options": [
+      "Banking",
+      "Nursing and counseling",
+      "Technical support",
+      "Law enforcement"
+    ],
+    "correct": "Nursing and counseling",
+    "explanation": "Nursing and counseling \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Leo rising individuals may shine in?",
+    "options": [
+      "Science",
+      "Education",
+      "Politics and government roles",
+      "Art direction"
+    ],
+    "correct": "Politics and government roles",
+    "explanation": "Politics and government roles \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Virgo rising supports careers in?",
+    "options": [
+      "Luxury goods",
+      "Spiritual services",
+      "Entertainment",
+      "Teaching and analysis"
+    ],
+    "correct": "Teaching and analysis",
+    "explanation": "Teaching and analysis \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which Rashi is linked to fashion and artistic pursuits?",
+    "options": [
+      "Capricorn",
+      "Libra",
+      "Sagittarius",
+      "Aries"
+    ],
+    "correct": "Libra",
+    "explanation": "Libra \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Scorpio natives often excel in?",
+    "options": [
+      "Education",
+      "Surgery and intelligence work",
+      "Event management",
+      "Acting"
+    ],
+    "correct": "Surgery and intelligence work",
+    "explanation": "Surgery and intelligence work \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Sagittarius is naturally inclined toward?",
+    "options": [
+      "Agriculture",
+      "Law and religion",
+      "IT services",
+      "Import/export"
+    ],
+    "correct": "Law and religion",
+    "explanation": "Law and religion \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Capricorn rising is best suited for?",
+    "options": [
+      "Law enforcement",
+      "Medical service",
+      "Creative arts",
+      "Management and bureaucracy"
+    ],
+    "correct": "Management and bureaucracy",
+    "explanation": "Management and bureaucracy \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which sign aligns with innovation and social reform?",
+    "options": [
+      "Pisces",
+      "Aquarius",
+      "Leo",
+      "Taurus"
+    ],
+    "correct": "Aquarius",
+    "explanation": "Aquarius \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Pisces is aligned with careers in?",
+    "options": [
+      "Science",
+      "Politics",
+      "Aviation",
+      "Spirituality and healing"
+    ],
+    "correct": "Spirituality and healing",
+    "explanation": "Spirituality and healing \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which planet connection indicates a hospital-related profession?",
+    "options": [
+      "1st house",
+      "11th house",
+      "12th house",
+      "4th house"
+    ],
+    "correct": "12th house",
+    "explanation": "12th house \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "6th and 12th house links are key for what profession?",
+    "options": [
+      "Teacher",
+      "Artist",
+      "Doctor",
+      "Engineer"
+    ],
+    "correct": "Doctor",
+    "explanation": "Doctor \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Medical education is governed by?",
+    "options": [
+      "7th and 10th",
+      "2nd and 8th",
+      "5th and 9th houses",
+      "3rd and 11th"
+    ],
+    "correct": "5th and 9th houses",
+    "explanation": "5th and 9th houses \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Communication and expression skills for actors are seen in?",
+    "options": [
+      "6th house",
+      "4th house",
+      "12th house",
+      "3rd house"
+    ],
+    "correct": "3rd house",
+    "explanation": "3rd house \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "A Venus impact on Lagna or Lagna Lord often shows?",
+    "options": [
+      "Religious path",
+      "Engineering career",
+      "Detachment from public",
+      "Artistic and expressive career"
+    ],
+    "correct": "Artistic and expressive career",
+    "explanation": "Artistic and expressive career \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Career choice must consider which factors together?",
+    "options": [
+      "Lagna, 10th house, Dashamesh, karakas, yogas",
+      "Only 10th house",
+      "Only Dasha",
+      "Only nakshatra"
+    ],
+    "correct": "Lagna, 10th house, Dashamesh, karakas, yogas",
+    "explanation": "Lagna, 10th house, Dashamesh, karakas, yogas \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "When 6th dominates over 7th in chart strength, career leans toward?",
+    "options": [
+      "Business",
+      "Spirituality",
+      "Job/service",
+      "Teaching"
+    ],
+    "correct": "Job/service",
+    "explanation": "Job/service \u2014 as per Vedic astrology's career evaluation principles."
+  },
+  {
+    "question": "Which profession is linked to strong Saturn + Sun + 10th combo?",
+    "options": [
+      "Law, administration, politics",
+      "Finance",
+      "Healthcare",
+      "Arts and music"
+    ],
+    "correct": "Law, administration, politics",
+    "explanation": "Law, administration, politics \u2014 as per Vedic astrology's career evaluation principles."
+  }
+]

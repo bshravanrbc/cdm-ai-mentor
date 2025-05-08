@@ -1,112 +1,189 @@
 [
   {
-    "question": "What impact does Rahu have in the 1th house?",
+    "question": "Which of the following is true about Rahu?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Emotion, mind, and nurturing",
+      "Rahu represents foreign elements, technology, and underworld associations",
+      "Wisdom, dharma, and expansion",
+      "Authority, soul, and ego"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 1th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Rahu represents foreign elements, technology, and underworld associations",
+    "explanation": "Rahu represents foreign elements, technology, and underworld associations \u2014 this is a significant attribute of Rahu."
   },
   {
-    "question": "What impact does Rahu have in the 2th house?",
+    "question": "Which of the following is true about Rahu?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "A watery planet like Moon",
+      "A visible gaseous giant",
+      "A fiery graha like Mars",
+      "Rahu is considered a Chayagrah or shadow planet with no physical form"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 2th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Rahu is considered a Chayagrah or shadow planet with no physical form",
+    "explanation": "Rahu is considered a Chayagrah or shadow planet with no physical form \u2014 this is a significant attribute of Rahu."
   },
   {
-    "question": "What impact does Rahu have in the 3th house?",
+    "question": "Which of the following is true about Rahu?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Coral",
+      "Blue Sapphire",
+      "Emerald",
+      "The gemstone associated with Rahu is Gomedh"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 3th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "The gemstone associated with Rahu is Gomedh",
+    "explanation": "The gemstone associated with Rahu is Gomedh \u2014 this is a significant attribute of Rahu."
   },
   {
-    "question": "What impact does Rahu have in the 4th house?",
+    "question": "Which of the following is true about Rahu?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Philosophy and learning",
+      "Rahu's influence includes gambling, theft, and nonconformity",
+      "Discipline, law, and structure",
+      "Beauty and harmony"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 4th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Rahu's influence includes gambling, theft, and nonconformity",
+    "explanation": "Rahu's influence includes gambling, theft, and nonconformity \u2014 this is a significant attribute of Rahu."
   },
   {
-    "question": "What impact does Rahu have in the 5th house?",
+    "question": "Which of the following is true about Rahu?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Rahu is also known as the Dragon's Head or North Node",
+      "South Node",
+      "Sun's Core",
+      "Fire Tail"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 5th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Rahu is also known as the Dragon's Head or North Node",
+    "explanation": "Rahu is also known as the Dragon's Head or North Node \u2014 this is a significant attribute of Rahu."
   },
   {
-    "question": "What impact does Rahu have in the 6th house?",
+    "question": "What is a key trait of Rahu in the 1st house?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Makes the native a big planner but poor at execution",
+      "Avoids long-term thinking",
+      "Gives perfect implementation skills",
+      "Lacks any planning ability"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 6th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Makes the native a big planner but poor at execution",
+    "explanation": "Makes the native a big planner but poor at execution \u2014 this is a significant attribute of Rahu in the 1st house."
   },
   {
-    "question": "What impact does Rahu have in the 7th house?",
+    "question": "What is a key trait of Rahu in the 2nd house?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Wealth from only pure means",
+      "Gentle and spiritual speaker",
+      "Always tells the truth",
+      "Harsh speaker who may lie and gain wealth through unethical means"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 7th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Harsh speaker who may lie and gain wealth through unethical means",
+    "explanation": "Harsh speaker who may lie and gain wealth through unethical means \u2014 this is a significant attribute of Rahu in the 2nd house."
   },
   {
-    "question": "What impact does Rahu have in the 8th house?",
+    "question": "What is a key trait of Rahu in the 3rd house?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Brings courage, power, and success in politics or sports",
+      "Detests public life",
+      "Avoids risk",
+      "Lowers energy and ambition"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 8th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Brings courage, power, and success in politics or sports",
+    "explanation": "Brings courage, power, and success in politics or sports \u2014 this is a significant attribute of Rahu in the 3rd house."
   },
   {
-    "question": "What impact does Rahu have in the 9th house?",
+    "question": "What is a key trait of Rahu in the 4th house?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Guarantees emotional peace",
+      "Ensures perfect domestic harmony",
+      "Strengthens maternal relationships",
+      "Brings sorrow despite material comfort"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 9th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Brings sorrow despite material comfort",
+    "explanation": "Brings sorrow despite material comfort \u2014 this is a significant attribute of Rahu in the 4th house."
   },
   {
-    "question": "What impact does Rahu have in the 10th house?",
+    "question": "What is a key trait of Rahu in the 5th house?",
     "options": [
-      "Improves creativity",
-      "Causes emotional detachment",
-      "Enhances career",
-      "Brings spiritual insight"
+      "Removes all ego",
+      "Boosts all karmic rewards",
+      "Enhances intellect but blocks fruition of past life merits",
+      "Improves digestion only"
     ],
-    "correct": "Improves creativity",
-    "explanation": "Rahu in the 10th house can affect rahu signifies obsession, foreign elements, and illusion."
+    "correct": "Enhances intellect but blocks fruition of past life merits",
+    "explanation": "Enhances intellect but blocks fruition of past life merits \u2014 this is a significant attribute of Rahu in the 5th house."
+  },
+  {
+    "question": "What is a key trait of Rahu in the 6th house?",
+    "options": [
+      "Blocks competitive drive",
+      "Creates chronic fear",
+      "Grants fame and authority by defeating enemies",
+      "Promotes laziness"
+    ],
+    "correct": "Grants fame and authority by defeating enemies",
+    "explanation": "Grants fame and authority by defeating enemies \u2014 this is a significant attribute of Rahu in the 6th house."
+  },
+  {
+    "question": "What is a key trait of Rahu in the 7th house?",
+    "options": [
+      "Stabilizes joint ventures",
+      "Promotes open communication",
+      "Disrupts marriage and partnerships with deception or betrayal",
+      "Ensures lasting love"
+    ],
+    "correct": "Disrupts marriage and partnerships with deception or betrayal",
+    "explanation": "Disrupts marriage and partnerships with deception or betrayal \u2014 this is a significant attribute of Rahu in the 7th house."
+  },
+  {
+    "question": "What is a key trait of Rahu in the 8th house?",
+    "options": [
+      "Causes chronic diseases and relationship damage",
+      "Brings harmony with in-laws",
+      "Enhances vitality and intimacy",
+      "Boosts physical strength"
+    ],
+    "correct": "Causes chronic diseases and relationship damage",
+    "explanation": "Causes chronic diseases and relationship damage \u2014 this is a significant attribute of Rahu in the 8th house."
+  },
+  {
+    "question": "What is a key trait of Rahu in the 9th house?",
+    "options": [
+      "Complete devotion to own religion",
+      "Refusal to speak publicly",
+      "Obeys strict dogma",
+      "Interest in other religions and good oratory if well placed"
+    ],
+    "correct": "Interest in other religions and good oratory if well placed",
+    "explanation": "Interest in other religions and good oratory if well placed \u2014 this is a significant attribute of Rahu in the 9th house."
+  },
+  {
+    "question": "What is a key trait of Rahu in the 10th house?",
+    "options": [
+      "Avoids leadership roles",
+      "Rejects planning",
+      "Fears public success",
+      "Highly ambitious, may attain political power if well placed"
+    ],
+    "correct": "Highly ambitious, may attain political power if well placed",
+    "explanation": "Highly ambitious, may attain political power if well placed \u2014 this is a significant attribute of Rahu in the 10th house."
+  },
+  {
+    "question": "What is a key trait of Rahu in the 11th house?",
+    "options": [
+      "Brings fame, wealth, and wide social network",
+      "Leads to total social withdrawal",
+      "Causes permanent poverty",
+      "Destroys income completely"
+    ],
+    "correct": "Brings fame, wealth, and wide social network",
+    "explanation": "Brings fame, wealth, and wide social network \u2014 this is a significant attribute of Rahu in the 11th house."
+  },
+  {
+    "question": "What is a key trait of Rahu in the 12th house?",
+    "options": [
+      "Promotes foreign residence but harms family relations",
+      "Strengthens marriage bonds",
+      "Avoids foreign interactions",
+      "Leads to total solitude"
+    ],
+    "correct": "Promotes foreign residence but harms family relations",
+    "explanation": "Promotes foreign residence but harms family relations \u2014 this is a significant attribute of Rahu in the 12th house."
   }
 ]

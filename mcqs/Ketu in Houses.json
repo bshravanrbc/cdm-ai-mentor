@@ -1,222 +1,122 @@
 [
   {
-    "question": "Which of the following is true about Ketu?",
-    "options": [
-      "Ketu represents spiritual pursuits, technical trades, and electronics",
-      "Ego and power",
-      "Wisdom and expansion",
-      "Luxury and beauty"
-    ],
-    "correct": "Ketu represents spiritual pursuits, technical trades, and electronics",
-    "explanation": "Ketu represents spiritual pursuits, technical trades, and electronics \u2014 significant when Ketu is placed ."
+    "question": "What does Ketu primarily represent in Vedic astrology?",
+    "options": ["Wealth and fame", "Spouse and partnerships", "Spiritual detachment and mystical powers", "Strength and courage"],
+    "correct": "Spiritual detachment and mystical powers",
+    "explanation": "Ketu is associated with spiritual pursuits, mysticism, and detachment from the material world."
   },
   {
-    "question": "Which of the following is true about Ketu?",
-    "options": [
-      "Fiery Planet",
-      "Dragon's Head",
-      "North Node",
-      "Ketu is also known as Dragon's Tail or South Node"
-    ],
-    "correct": "Ketu is also known as Dragon's Tail or South Node",
-    "explanation": "Ketu is also known as Dragon's Tail or South Node \u2014 significant when Ketu is placed ."
+    "question": "What gem is associated with Ketu?",
+    "options": ["Emerald", "Cat's eye", "Ruby", "Blue sapphire"],
+    "correct": "Cat's eye",
+    "explanation": "The cat’s eye gemstone is traditionally linked to Ketu for remedial purposes."
   },
   {
-    "question": "Which of the following is true about Ketu?",
-    "options": [
-      "Ruby",
-      "Cat's eye gemstone is associated with Ketu",
-      "Pearl",
-      "Emerald"
-    ],
-    "correct": "Cat's eye gemstone is associated with Ketu",
-    "explanation": "Cat's eye gemstone is associated with Ketu \u2014 significant when Ketu is placed ."
+    "question": "Ketu in the 1st house can result in:",
+    "options": ["Charismatic leadership", "Gratitude and stability", "Instability and confused personality", "Wealth and status"],
+    "correct": "Instability and confused personality",
+    "explanation": "Ketu in the 1st house leads to mental confusion, instability, and detachment from personal identity."
   },
   {
-    "question": "Which of the following is true about Ketu?",
-    "options": [
-      "Joy and celebration",
-      "Wealth and prosperity",
-      "Ketu is an indicator of imprisonment and fear complexes",
-      "Love and harmony"
-    ],
-    "correct": "Ketu is an indicator of imprisonment and fear complexes",
-    "explanation": "Ketu is an indicator of imprisonment and fear complexes \u2014 significant when Ketu is placed ."
+    "question": "What is a common trait of Ketu in the 2nd house?",
+    "options": ["Elegant speech", "Financial prosperity", "Bad speech and deceptive behavior", "Strong family ties"],
+    "correct": "Bad speech and deceptive behavior",
+    "explanation": "Ketu in the 2nd house may cause rough or deceptive speech and problems with finances and family."
   },
   {
-    "question": "Which of the following is true about Ketu?",
-    "options": [
-      "3 years",
-      "Ketu takes approximately 1.5 years to transit one zodiac sign",
-      "2.5 years",
-      "6 months"
-    ],
-    "correct": "Ketu takes approximately 1.5 years to transit one zodiac sign",
-    "explanation": "Ketu takes approximately 1.5 years to transit one zodiac sign \u2014 significant when Ketu is placed ."
+    "question": "Ketu in the 3rd house is generally:",
+    "options": ["Weak and malefic", "Strong and adventurous", "Lethargic and anxious", "Unstable and fearful"],
+    "correct": "Strong and adventurous",
+    "explanation": "Ketu in the 3rd house indicates a powerful and adventurous individual who may take bold actions."
   },
   {
-    "question": "What is a significant impact of Ketu in the 1st house?",
-    "options": [
-      "Brings clarity and stability",
-      "Ensures gratitude and happiness",
-      "Improves health significantly",
-      "Leads to confusion, instability, and frequent changes in decisions"
-    ],
-    "correct": "Leads to confusion, instability, and frequent changes in decisions",
-    "explanation": "Leads to confusion, instability, and frequent changes in decisions \u2014 significant when Ketu is placed in the 1st house."
+    "question": "What impact does Ketu have in the 4th house?",
+    "options": ["Peaceful domestic life", "Gain of land", "Losses related to mother and property", "Strong maternal support"],
+    "correct": "Losses related to mother and property",
+    "explanation": "Ketu in the 4th house may bring emotional distance from the mother and problems related to home and land."
   },
   {
-    "question": "What is a significant impact of Ketu in the 2nd house?",
-    "options": [
-      "Become renowned speaker",
-      "Possess excellent eyesight",
-      "Gain wealth through pure deeds",
-      "Native may suffer losses through fraudulent activities"
-    ],
-    "correct": "Native may suffer losses through fraudulent activities",
-    "explanation": "Native may suffer losses through fraudulent activities \u2014 significant when Ketu is placed in the 2nd house."
+    "question": "Which of the following is a health issue linked with Ketu in the 5th house?",
+    "options": ["Heart disease", "Skin problems", "Stomach ailments", "Kidney stones"],
+    "correct": "Stomach ailments",
+    "explanation": "Ketu in the 5th house may lead to issues related to digestion and the stomach."
   },
   {
-    "question": "What is a significant impact of Ketu in the 3rd house?",
-    "options": [
-      "Indicates a strong, adventurous, and reckless person",
-      "Weak and indecisive",
-      "Fearful of adventure",
-      "Shy and withdrawn personality"
-    ],
-    "correct": "Indicates a strong, adventurous, and reckless person",
-    "explanation": "Indicates a strong, adventurous, and reckless person \u2014 significant when Ketu is placed in the 3rd house."
+    "question": "Ketu in which house is considered generally auspicious and gives occult powers?",
+    "options": ["4th House", "6th House", "8th House", "12th House"],
+    "correct": "6th House",
+    "explanation": "Ketu in the 6th house bestows the native with strength, victory over enemies, and occult insight."
   },
   {
-    "question": "What is a significant impact of Ketu in the 4th house?",
-    "options": [
-      "Abundant property ownership",
-      "Losses related to mother, land, and happiness",
-      "Strong maternal bond",
-      "Stable lifelong residence"
-    ],
-    "correct": "Losses related to mother, land, and happiness",
-    "explanation": "Losses related to mother, land, and happiness \u2014 significant when Ketu is placed in the 4th house."
+    "question": "What kind of marital issues can Ketu in the 7th house cause?",
+    "options": ["Delayed marriage", "Unhappiness and affairs", "Happiness and harmony", "Strong attraction to spouse"],
+    "correct": "Unhappiness and affairs",
+    "explanation": "Ketu in the 7th house can lead to unhappy marriages, affairs, and even separation."
   },
   {
-    "question": "What is a significant impact of Ketu in the 5th house?",
-    "options": [
-      "Experience spiritual disturbances and dependency on others",
-      "Perfect health",
-      "Self-reliance and independence",
-      "Stable family life"
-    ],
-    "correct": "Experience spiritual disturbances and dependency on others",
-    "explanation": "Experience spiritual disturbances and dependency on others \u2014 significant when Ketu is placed in the 5th house."
+    "question": "Which area of life is affected positively when Ketu is well-placed in the 8th house?",
+    "options": ["Health", "Romantic life", "Occult and spiritual experiences", "Public reputation"],
+    "correct": "Occult and spiritual experiences",
+    "explanation": "Ketu in the 8th house enhances mystical insights and spiritual transformation."
   },
   {
-    "question": "What is a significant impact of Ketu in the 6th house?",
-    "options": [
-      "Creates numerous enemies",
-      "Leads to obscurity",
-      "Grants fame, authority, and occult powers",
-      "Blocks intuitive abilities"
-    ],
-    "correct": "Grants fame, authority, and occult powers",
-    "explanation": "Grants fame, authority, and occult powers \u2014 significant when Ketu is placed in the 6th house."
+    "question": "What challenge is typically associated with Ketu in the 9th house?",
+    "options": ["Supportive father", "Wealth and fame", "Lack of fortune and disputes with father", "Strong religious commitment"],
+    "correct": "Lack of fortune and disputes with father",
+    "explanation": "Ketu in the 9th house can cause problems with father figures and restricts fortune."
   },
   {
-    "question": "What is a significant impact of Ketu in the 7th house?",
-    "options": [
-      "Promotes moral integrity",
-      "May lead to unhappy marriage and immoral activities",
-      "Strengthens health",
-      "Ensures marital happiness"
-    ],
-    "correct": "May lead to unhappy marriage and immoral activities",
-    "explanation": "May lead to unhappy marriage and immoral activities \u2014 significant when Ketu is placed in the 7th house."
+    "question": "What personality traits are enhanced by Ketu in the 10th house?",
+    "options": ["Cowardice and timidity", "Boldness and cleverness", "Diplomacy and tact", "Innocence and naivety"],
+    "correct": "Boldness and cleverness",
+    "explanation": "Ketu in the 10th house brings courage and strategic intelligence, despite life challenges."
   },
   {
-    "question": "What is a significant impact of Ketu in the 8th house?",
-    "options": [
-      "Creates financial instability",
-      "Gives immense wealth, occult powers, but relationship issues",
-      "Eliminates spiritual interest",
-      "Ensures harmonious relationships"
-    ],
-    "correct": "Gives immense wealth, occult powers, but relationship issues",
-    "explanation": "Gives immense wealth, occult powers, but relationship issues \u2014 significant when Ketu is placed in the 8th house."
+    "question": "Ketu in the 11th house may lead to:",
+    "options": ["Complete financial ruin", "Wealth and comfort, but losses in speculation", "Emotional instability", "Fame through spirituality"],
+    "correct": "Wealth and comfort, but losses in speculation",
+    "explanation": "Ketu in the 11th house generally brings wealth and success but warns against gambling or speculation."
   },
   {
-    "question": "What is a significant impact of Ketu in the 9th house?",
-    "options": [
-      "Abundant wealth and success",
-      "Complete moral purity",
-      "Indicates limited fortune, sinful deeds, but spiritual interest",
-      "Perfect fatherly relationship"
-    ],
-    "correct": "Indicates limited fortune, sinful deeds, but spiritual interest",
-    "explanation": "Indicates limited fortune, sinful deeds, but spiritual interest \u2014 significant when Ketu is placed in the 9th house."
+    "question": "What is a psychological effect of Ketu in the 12th house?",
+    "options": ["Hyperactivity", "Stable thoughts", "Restlessness and wandering mind", "Overconfidence"],
+    "correct": "Restlessness and wandering mind",
+    "explanation": "Ketu in the 12th house causes the native to be mentally restless and inclined to travel or isolate."
   },
   {
-    "question": "What is a significant impact of Ketu in the 10th house?",
-    "options": [
-      "Ensures obstacle-free success",
-      "Makes one clever and famous but life filled with obstacles",
-      "Leads to timid personality",
-      "Creates anonymous life"
-    ],
-    "correct": "Makes one clever and famous but life filled with obstacles",
-    "explanation": "Makes one clever and famous but life filled with obstacles \u2014 significant when Ketu is placed in the 10th house."
+    "question": "What is Ketu’s impact on relationships when placed in the 1st house?",
+    "options": ["Stable family life", "Happiness through spouse", "Worries about spouse and children", "Multiple marriages"],
+    "correct": "Worries about spouse and children",
+    "explanation": "Ketu in the 1st house leads to personal instability and concerns about relationships and family."
   },
   {
-    "question": "What is a significant impact of Ketu in the 11th house?",
-    "options": [
-      "Leads to poverty",
-      "Brings wealth but causes financial losses in speculation",
-      "Blocks all wealth",
-      "Guarantees gains in gambling"
-    ],
-    "correct": "Brings wealth but causes financial losses in speculation",
-    "explanation": "Brings wealth but causes financial losses in speculation \u2014 significant when Ketu is placed in the 11th house."
+    "question": "Which house placement of Ketu suggests secretive behavior and possible eye issues?",
+    "options": ["2nd House", "3rd House", "6th House", "12th House"],
+    "correct": "12th House",
+    "explanation": "Ketu in the 12th house can result in hidden sins and issues like eye trouble."
   },
   {
-    "question": "What is a significant impact of Ketu in the 12th house?",
-    "options": [
-      "Peaceful and content mind",
-      "Leads to foreign work, restless mind, and secret sins",
-      "Always resides domestically",
-      "Morally upright in secret"
-    ],
-    "correct": "Leads to foreign work, restless mind, and secret sins",
-    "explanation": "Leads to foreign work, restless mind, and secret sins \u2014 significant when Ketu is placed in the 12th house."
+    "question": "Ketu in the 5th house may lead to which kind of spiritual disturbance?",
+    "options": ["Karma Dosha", "Pitra Dosh", "Pishacha Badha", "Shrapit Yoga"],
+    "correct": "Pishacha Badha",
+    "explanation": "Ketu in the 5th house may cause disturbances linked to spiritual possession or energy imbalance called Pishacha Badha."
   },
   {
-    "question": "What is a significant impact of Ketu in the 5th house?",
-    "options": [
-      "Native suffers from stomach ailments",
-      "Excellent immune system",
-      "Enhanced athletic ability",
-      "Perfect digestive health"
-    ],
-    "correct": "Native suffers from stomach ailments",
-    "explanation": "Native suffers from stomach ailments \u2014 significant when Ketu is placed in the 5th house."
+    "question": "Ketu’s effect on siblings in the 3rd house includes:",
+    "options": ["Closer bonds with all siblings", "Support from elder brothers", "Loss of brothers and friends", "Sibling rivalry only"],
+    "correct": "Loss of brothers and friends",
+    "explanation": "Ketu in the 3rd house can cause the native to lose close relationships with siblings and friends."
   },
   {
-    "question": "What is a significant impact of Ketu in the 7th house?",
-    "options": [
-      "Potential for abdominal or uterine cancer",
-      "Excellent reproductive health",
-      "Improved digestive system",
-      "Enhanced physical vitality"
-    ],
-    "correct": "Potential for abdominal or uterine cancer",
-    "explanation": "Potential for abdominal or uterine cancer \u2014 significant when Ketu is placed in the 7th house."
+    "question": "What is a possible effect of Ketu in the 8th house regarding relationships?",
+    "options": ["Strong monogamy", "Peaceful home life", "Multiple relationships and separation from loved ones", "Enhanced marital happiness"],
+    "correct": "Multiple relationships and separation from loved ones",
+    "explanation": "Ketu in the 8th house can lead to many unstable or secret relationships and separation from family."
   },
   {
-    "question": "What is a significant impact of Ketu in the 8th house?",
-    "options": [
-      "Avoids conflict entirely",
-      "Free from accidents",
-      "Prone to frequent accidents involving weapons",
-      "Excellent defensive skills"
-    ],
-    "correct": "Prone to frequent accidents involving weapons",
-    "explanation": "Prone to frequent accidents involving weapons \u2014 significant when Ketu is placed in the 8th house."
+    "question": "What enhances Ketu’s spiritual influence in the 12th house?",
+    "options": ["Aspect of Saturn", "Association with Mars", "Association with Jupiter", "Placement in fiery signs"],
+    "correct": "Association with Jupiter",
+    "explanation": "When Ketu is associated with Jupiter in the 12th house, it greatly boosts spiritual insight and practices."
   }
 ]

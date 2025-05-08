@@ -1,222 +1,122 @@
 [
   {
-    "question": "What is a likely trait of Venus in the 1st house?",
-    "options": [
-      "Withdrawn and shy",
-      "Prone to anger",
-      "Seeks solitude over art",
-      "Very beautiful, creative, and wealthy"
-    ],
-    "correct": "Very beautiful, creative, and wealthy",
-    "explanation": "Very beautiful, creative, and wealthy \u2014 this is commonly seen with Venus in the 1st house."
+    "question": "What does Venus primarily signify in Vedic astrology?",
+    "options": ["Career and status", "Emotions and mind", "Spouse, beauty, and luxuries", "Children and education"],
+    "correct": "Spouse, beauty, and luxuries",
+    "explanation": "Venus represents love, sex life, spouse, beauty, arts, and luxuries."
   },
   {
-    "question": "What is a likely trait of Venus in the 2nd house?",
-    "options": [
-      "Indifferent to appearance",
-      "Avoids material comfort",
-      "Detaches from family",
-      "Loves luxury and is kind-hearted"
-    ],
-    "correct": "Loves luxury and is kind-hearted",
-    "explanation": "Loves luxury and is kind-hearted \u2014 this is commonly seen with Venus in the 2nd house."
+    "question": "Which zodiac signs are ruled by Venus?",
+    "options": ["Leo and Cancer", "Libra and Taurus", "Gemini and Pisces", "Aries and Virgo"],
+    "correct": "Libra and Taurus",
+    "explanation": "Venus rules the signs Vrishabh (Taurus) and Tula (Libra)."
   },
   {
-    "question": "What is a likely trait of Venus in the 3rd house?",
-    "options": [
-      "Loving, neat, and soft-spoken with more sisters",
-      "Detached from siblings",
-      "Loud and aggressive",
-      "Strict and unromantic"
-    ],
-    "correct": "Loving, neat, and soft-spoken with more sisters",
-    "explanation": "Loving, neat, and soft-spoken with more sisters \u2014 this is commonly seen with Venus in the 3rd house."
+    "question": "What is the direction associated with Venus?",
+    "options": ["East", "North", "South-East", "North-West"],
+    "correct": "South-East",
+    "explanation": "South-East is the direction associated with Venus, denoting beauty and pleasure."
   },
   {
-    "question": "What is a likely trait of Venus in the 4th house?",
-    "options": [
-      "Struggles with family",
-      "Lacks aesthetic taste",
-      "Homeless and aggressive",
-      "Peaceful home and luxurious lifestyle"
-    ],
-    "correct": "Peaceful home and luxurious lifestyle",
-    "explanation": "Peaceful home and luxurious lifestyle \u2014 this is commonly seen with Venus in the 4th house."
+    "question": "Which house placement of Venus gives the person a lustrous body if conjoined with a benefic?",
+    "options": ["1st House", "4th House", "6th House", "10th House"],
+    "correct": "1st House",
+    "explanation": "Venus in the 1st house, if with a benefic, gives a shining, attractive body."
   },
   {
-    "question": "What is a likely trait of Venus in the 5th house?",
-    "options": [
-      "Romantic and talented in media and entertainment",
-      "Dislikes companionship",
-      "Strict and unromantic",
-      "Avoids performing arts"
-    ],
-    "correct": "Romantic and talented in media and entertainment",
-    "explanation": "Romantic and talented in media and entertainment \u2014 this is commonly seen with Venus in the 5th house."
+    "question": "What might an afflicted Venus in the 1st house result in?",
+    "options": ["Spiritual elevation", "Strong willpower", "Deceitful behavior", "Fearlessness"],
+    "correct": "Deceitful behavior",
+    "explanation": "Afflicted Venus in the 1st house can make the native a thief or cheat."
   },
   {
-    "question": "What is a likely trait of Venus in the 6th house?",
-    "options": [
-      "Water-related ailments and creative job interest",
-      "Emotionally detached",
-      "Prefers manual labor",
-      "Aggressive and antisocial"
-    ],
-    "correct": "Water-related ailments and creative job interest",
-    "explanation": "Water-related ailments and creative job interest \u2014 this is commonly seen with Venus in the 6th house."
+    "question": "Venus in the 2nd house shows a person who:",
+    "options": ["Is disinterested in wealth", "Dislikes luxury", "Helps others through money", "Avoids family ties"],
+    "correct": "Helps others through money",
+    "explanation": "Venus in the 2nd house makes the native generous and family-oriented, using wealth to help others."
   },
   {
-    "question": "What is a likely trait of Venus in the 7th house?",
-    "options": [
-      "Emotionally distant spouse",
-      "Indifference to romance",
-      "Late marriage and tension",
-      "Loving partner and success after marriage"
-    ],
-    "correct": "Loving partner and success after marriage",
-    "explanation": "Loving partner and success after marriage \u2014 this is commonly seen with Venus in the 7th house."
+    "question": "Which is a common trait of someone with Venus in the 3rd house?",
+    "options": ["More brothers", "Love for neat clothing", "Aggressive speech", "Lack of fashion sense"],
+    "correct": "Love for neat clothing",
+    "explanation": "People with Venus in the 3rd house are refined in appearance and love clean, stylish clothing."
   },
   {
-    "question": "What is a likely trait of Venus in the 8th house?",
-    "options": [
-      "Wealth through spouse and long life",
-      "Emotionally cold partner",
-      "Loss through marriage",
-      "Financial struggle"
-    ],
-    "correct": "Wealth through spouse and long life",
-    "explanation": "Wealth through spouse and long life \u2014 this is commonly seen with Venus in the 8th house."
+    "question": "Why is Venus in the 4th house considered a strong placement?",
+    "options": ["Because it weakens material desires", "It gives peaceful home and assets", "It promotes celibacy", "It strengthens fatherly relations"],
+    "correct": "It gives peaceful home and assets",
+    "explanation": "Venus in the 4th house brings luxury, beautiful homes, and emotional peace."
   },
   {
-    "question": "What is a likely trait of Venus in the 9th house?",
-    "options": [
-      "Shuns travel",
-      "Rigid traditionalist",
-      "Spiritual, fond of travel and open-minded in marriage",
-      "Avoids spiritual rituals"
-    ],
-    "correct": "Spiritual, fond of travel and open-minded in marriage",
-    "explanation": "Spiritual, fond of travel and open-minded in marriage \u2014 this is commonly seen with Venus in the 9th house."
+    "question": "What kind of romantic life is expected with Venus in the 5th house?",
+    "options": ["Reserved and formal", "Absent after marriage", "Romantic throughout life", "Short-lived"],
+    "correct": "Romantic throughout life",
+    "explanation": "Venus in the 5th house ensures continued romance even after marriage."
   },
   {
-    "question": "What is a likely trait of Venus in the 10th house?",
-    "options": [
-      "Struggles with success",
-      "Shy in public roles",
-      "Avoids leadership",
-      "Powerful, creative, and prosperous"
-    ],
-    "correct": "Powerful, creative, and prosperous",
-    "explanation": "Powerful, creative, and prosperous \u2014 this is commonly seen with Venus in the 10th house."
+    "question": "What is a likely challenge of Venus in the 6th house?",
+    "options": ["Religious confusion", "Inability to learn arts", "Marital problems", "Lack of emotions"],
+    "correct": "Marital problems",
+    "explanation": "Venus in the 6th house can lead to diseases and relationship/marital issues."
   },
   {
-    "question": "What is a likely trait of Venus in the 11th house?",
-    "options": [
-      "Avoids rituals",
-      "Dislikes society",
-      "Loves humor, fond of opposite sex, and spiritually active",
-      "Rejects friendship"
-    ],
-    "correct": "Loves humor, fond of opposite sex, and spiritually active",
-    "explanation": "Loves humor, fond of opposite sex, and spiritually active \u2014 this is commonly seen with Venus in the 11th house."
+    "question": "How does Venus in the 7th house affect relationships?",
+    "options": ["Delays marriage", "Brings celibacy", "Ensures a beautiful, loving partner", "Discourages affection"],
+    "correct": "Ensures a beautiful, loving partner",
+    "explanation": "Venus in the 7th house is ideal for a happy married life with an affectionate partner."
   },
   {
-    "question": "What is a likely trait of Venus in the 12th house?",
-    "options": [
-      "Enjoys foreign stay and material pleasures",
-      "Avoids physical comfort",
-      "Detached from luxury",
-      "Fears travel"
-    ],
-    "correct": "Enjoys foreign stay and material pleasures",
-    "explanation": "Enjoys foreign stay and material pleasures \u2014 this is commonly seen with Venus in the 12th house."
+    "question": "What kind of wealth does Venus in the 8th house bring?",
+    "options": ["Through one’s own job", "From investments", "Through spouse’s family", "From teaching"],
+    "correct": "Through spouse’s family",
+    "explanation": "Venus in the 8th house brings wealth through the in-laws or the spouse’s family."
   },
   {
-    "question": "What is a likely trait of Venus in the 1st house?",
-    "options": [
-      "Indifferent to beauty",
-      "Prefers solitude",
-      "Shuns social appearances",
-      "Interested in music and fashion"
-    ],
-    "correct": "Interested in music and fashion",
-    "explanation": "Interested in music and fashion \u2014 this is commonly seen with Venus in the 1st house."
+    "question": "Which house placement of Venus supports marriage outside one's religion or caste?",
+    "options": ["6th House", "9th House", "4th House", "2nd House"],
+    "correct": "9th House",
+    "explanation": "Venus in the 9th house allows for unconventional or intercultural marriages."
   },
   {
-    "question": "What is a likely trait of Venus in the 2nd house?",
-    "options": [
-      "Lacks charm",
-      "Attractive eyes and pleasant voice",
-      "Harsh tone",
-      "Uncharismatic speaker"
-    ],
-    "correct": "Attractive eyes and pleasant voice",
-    "explanation": "Attractive eyes and pleasant voice \u2014 this is commonly seen with Venus in the 2nd house."
+    "question": "Which profession is most suited for someone with Venus in the 10th house?",
+    "options": ["Construction", "Creative field", "Agriculture", "Defense"],
+    "correct": "Creative field",
+    "explanation": "Venus in the 10th house supports careers in arts, fashion, or entertainment."
   },
   {
-    "question": "What is a likely trait of Venus in the 4th house?",
-    "options": [
-      "Dislikes materialism",
-      "Resents wealth",
-      "Avoids stability",
-      "Has cars, jewelry, and comfort"
-    ],
-    "correct": "Has cars, jewelry, and comfort",
-    "explanation": "Has cars, jewelry, and comfort \u2014 this is commonly seen with Venus in the 4th house."
+    "question": "Venus in the 11th house gives which of the following traits?",
+    "options": ["Seriousness", "Seclusion", "Humor and beauty", "Detachment"],
+    "correct": "Humor and beauty",
+    "explanation": "Venus in the 11th house brings charm, humor, and fondness for the opposite sex."
   },
   {
-    "question": "What is a likely trait of Venus in the 5th house?",
-    "options": [
-      "Emotionally detached",
-      "Avoids romance",
-      "Experiences lifelong romance",
-      "Prefers logic over love"
-    ],
-    "correct": "Experiences lifelong romance",
-    "explanation": "Experiences lifelong romance \u2014 this is commonly seen with Venus in the 5th house."
+    "question": "What unique result does Venus give in the 12th house?",
+    "options": ["Mental unrest", "Weak health in old age", "Great prosperity, especially abroad", "Loss of wealth"],
+    "correct": "Great prosperity, especially abroad",
+    "explanation": "Venus gives excellent results in the 12th house, including foreign comforts and luxuries."
   },
   {
-    "question": "What is a likely trait of Venus in the 6th house?",
-    "options": [
-      "Loves pets and reads spiritual texts",
-      "Avoids spirituality",
-      "Dislikes animals",
-      "Uninterested in reading"
-    ],
-    "correct": "Loves pets and reads spiritual texts",
-    "explanation": "Loves pets and reads spiritual texts \u2014 this is commonly seen with Venus in the 6th house."
+    "question": "What does Venus in the 5th house indicate about the partner?",
+    "options": ["Indifferent to luxuries", "Reserved and orthodox", "Lavish and fond of luxuries", "Disinterested in romance"],
+    "correct": "Lavish and fond of luxuries",
+    "explanation": "The spouse of a native with Venus in the 5th house is typically extravagant and romantic."
   },
   {
-    "question": "What is a likely trait of Venus in the 8th house?",
-    "options": [
-      "Dislikes emotional depth",
-      "No secrets, all logic",
-      "Avoids metaphysics",
-      "Strong psychic interest and secret affairs"
-    ],
-    "correct": "Strong psychic interest and secret affairs",
-    "explanation": "Strong psychic interest and secret affairs \u2014 this is commonly seen with Venus in the 8th house."
+    "question": "Venus in which house brings benefits such as cars, jewelry, and real estate?",
+    "options": ["4th House", "6th House", "9th House", "12th House"],
+    "correct": "4th House",
+    "explanation": "Venus in the 4th house gives wealth in the form of physical assets like vehicles and property."
   },
   {
-    "question": "What is a likely trait of Venus in the 9th house?",
-    "options": [
-      "Strictly orthodox",
-      "Avoids change",
-      "May marry outside religion and is liberal",
-      "Dislikes interfaith interaction"
-    ],
-    "correct": "May marry outside religion and is liberal",
-    "explanation": "May marry outside religion and is liberal \u2014 this is commonly seen with Venus in the 9th house."
+    "question": "What kind of diseases are linked to Venus in the 6th house?",
+    "options": ["Bone diseases", "Skin and kidney diseases", "Heart disorders", "Respiratory problems"],
+    "correct": "Skin and kidney diseases",
+    "explanation": "Venus in the 6th house can cause health issues related to water retention, kidneys, and skin."
   },
   {
-    "question": "What is a likely trait of Venus in the 12th house?",
-    "options": [
-      "Disinterested in comfort",
-      "Enjoys cars, comfort, and sensuality",
-      "Lives with few possessions",
-      "Avoids indulgence"
-    ],
-    "correct": "Enjoys cars, comfort, and sensuality",
-    "explanation": "Enjoys cars, comfort, and sensuality \u2014 this is commonly seen with Venus in the 12th house."
+    "question": "Venus in which house gives success after marriage?",
+    "options": ["2nd House", "5th House", "7th House", "10th House"],
+    "correct": "7th House",
+    "explanation": "Success in life and career often improves after marriage for those with Venus in the 7th house."
   }
 ]
