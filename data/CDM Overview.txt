@@ -1,0 +1,39 @@
+1. What is CDM
+•	Stands for Common Domain Model.
+•	A standardized, machine-readable, and executable blueprint for financial product lifecycle events.
+•	Distributed as open-source by FINOS (originally developed by ISDA).
+____________________________
+2. Purpose & Benefits
+•	Enables interoperability and straight-through processing across firms.
+•	Reduces reconciliation needs by standardizing event representations.
+•	Promotes transparency and regulatory consistency.
+•	Provides a common base for FinTech innovation (DLT, AI, smart contracts).
+____________________________
+3. CDM Core Models
+•	Product Model: Represents financial instruments or contracts.
+•	Event Model: Captures lifecycle events (e.g., execution, settlement).
+•	Process Model: Standardizes and automates business workflows.
+•	Reference Data Model: Describes business entities like parties, rates.
+•	Use Cases: Applied across OTC derivatives, securities, commodities.
+____________________________
+4. Technical Design Principles
+•	Normalization: Abstract common components.
+•	Composability: Bottom-up object construction.
+•	Modularization: Split into logical layers.
+•	Embedded Logic: Represents real-world financial processes.
+•	Mapping: Aligns with existing messaging formats like FpML.
+____________________________
+5. CDM Components
+•	Model Definition: Written in Rune DSL (.rosetta files).
+•	Executable Code: Auto-generated (Java full; Scala/TypeScript partial).
+•	Default Implementation: Java-based manual code + generator output.
+____________________________
+6. Rune DSL & Rosetta SDK
+•	Rune DSL: A domain-specific language for defining CDM models.
+•	Rosetta SDK: Toolset for contributing to CDM; developed by REGnosys.
+____________________________
+7. Governance & Distribution
+•	Governed in open source by FINOS.
+•	Available under Apache 2.0 License.
+•	Built using Maven; Java distribution includes settings.xml for setup.
+

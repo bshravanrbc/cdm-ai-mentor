@@ -1,0 +1,67 @@
+1. Financial Product
+•	Represents a structure for transferring financial risk between two parties.
+•	Composed of Assets and Payouts.
+•	EconomicTerms encapsulate the full structure, including cashflows and contractual features.
+________________________________________
+💰 2. Asset
+•	A transferable unit such as Cash, Commodity, DigitalAsset, or Instrument.
+•	Defined by:
+o	AssetIdentifier (e.g., ISIN/CUSIP)
+o	Optional taxonomy and exchange attributes.
+•	Instrument types: Loan, ListedDerivative, Security.
+________________________________________
+📑 3. Instrument
+•	A type of Asset issued by one party to others.
+•	Subtypes include:
+o	Loan: borrower, facility type, credit agreement.
+o	ListedDerivative: optional delivery terms, option type, strike.
+o	Security: securityType (Debt, Equity), and subtypes like fundType.
+________________________________________
+📈 4. Index & Observable
+•	Index: Standardized tracking of prices or rates (e.g., equity index, FX).
+•	Observable: Anything whose price is referenced (Asset, Basket, Index).
+________________________________________
+🔗 5. Product
+•	Defined using:
+o	identifier and taxonomy (like Asset)
+o	economicTerms (defining obligations, dates, and payouts)
+•	Two types:
+o	TransferableProduct: based on transferable Asset
+o	NonTransferableProduct: bilateral contracts like swaps or options
+________________________________________
+🧾 6. EconomicTerms
+•	Contains complete product features:
+o	Payouts, Effective/Termination Dates, Collateral
+o	Special provisions (e.g., early termination, reset, etc.)
+________________________________________
+💸 7. Payout
+•	Defines future cashflows; types include:
+o	InterestRatePayout, CommodityPayout, CreditDefaultPayout
+o	OptionPayout, SettlementPayout, etc.
+•	Based on a shared PayoutBase (includes price, quantity, payer/receiver)
+________________________________________
+📊 8. Price & Quantity Modeling
+•	Modeled as MeasureSchedules (value + unit, optionally over time)
+•	ResolvablePriceQuantity: supports quantity multipliers, references, reset flags.
+•	PriceQuantity: used in trade lots, supports observables and effective date.
+________________________________________
+📦 9. Underlier
+•	Used to nest one product inside another.
+•	Can be Asset, Index, or even a Product.
+•	Underliers differ by payout type (e.g., swaptions can use NonTransferableProducts)
+________________________________________
+📃 10. TradableProduct & TradeLot
+•	TradableProduct: product + counterparties + price/quantity → ready for trading
+•	TradeLot: defines the execution lot (one or more legs per trade)
+•	Must have exactly 2 counterparties; others are marked as ancillary.
+________________________________________
+🔁 11. SettlementTerms & BuyerSeller
+•	Define how a trade settles (e.g., cash vs. physical, settlement date, currency).
+•	BuyerSeller specifies direction:
+o	Buyer receives quantity, pays price.
+o	Seller pays quantity, receives price.
+________________________________________
+🧠 12. Product Qualification
+•	CDM infers product types from economicTerms using built-in functions (e.g., Qualify_InterestRate_IRSwap_FixedFloat).
+•	Output is stored in ProductTaxonomy with asset class and qualifier.
+

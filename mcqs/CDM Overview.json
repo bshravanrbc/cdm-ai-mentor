@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What does CDM stand for in financial modeling?",
+    "options": ["Central Data Mechanism", "Common Domain Model", "Contractual Derivatives Market", "Corporate Debt Model"],
+    "correct": "Common Domain Model",
+    "explanation": "CDM stands for Common Domain Model — a standardized framework for financial product lifecycle modeling."
+  },
+  {
+    "question": "What is the main objective of the Common Domain Model?",
+    "options": ["To regulate cryptocurrencies", "To provide a standard for trade lifecycle events", "To replace financial institutions", "To generate credit scores"],
+    "correct": "To provide a standard for trade lifecycle events",
+    "explanation": "CDM aims to standardize and automate trade lifecycle events across financial institutions."
+  },
+  {
+    "question": "Which model in CDM represents the lifecycle of financial transactions?",
+    "options": ["Product model", "Event model", "Reference data model", "Process model"],
+    "correct": "Event model",
+    "explanation": "The Event model provides structures to represent the lifecycle of financial transactions."
+  },
+  {
+    "question": "What programming language has the only complete CDM implementation?",
+    "options": ["Java", "Scala", "Python", "TypeScript"],
+    "correct": "Java",
+    "explanation": "Java is the only language with a full implementation of CDM including executable logic."
+  },
+  {
+    "question": "What is the Rune DSL used for?",
+    "options": ["Data encryption", "Defining CDM models", "Stock analysis", "Automating taxes"],
+    "correct": "Defining CDM models",
+    "explanation": "Rune DSL is a domain-specific language used to define CDM components."
+  },
+  {
+    "question": "Which organization maintains the CDM?",
+    "options": ["IMF", "FINOS", "WTO", "SEC"],
+    "correct": "FINOS",
+    "explanation": "CDM is maintained under the open-source governance of FINOS."
+  },
+  {
+    "question": "What is Rosetta in the context of CDM?",
+    "options": ["A financial calculator", "An SDK for the Rune DSL", "A machine learning engine", "An encryption tool"],
+    "correct": "An SDK for the Rune DSL",
+    "explanation": "Rosetta is the Software Development Kit for contributing to CDM using Rune DSL."
+  },
+  {
+    "question": "Which of the following is NOT a CDM model type?",
+    "options": ["Product", "Process", "Event", "Risk"],
+    "correct": "Risk",
+    "explanation": "Risk is not one of the core CDM model types."
+  },
+  {
+    "question": "What component helps model legal entities and indexes?",
+    "options": ["Event model", "Product model", "Reference data model", "Process model"],
+    "correct": "Reference data model",
+    "explanation": "The Reference data model describes underlying business entities such as legal entities and indexes."
+  },
+  {
+    "question": "Which principle helps separate CDM into logical sections?",
+    "options": ["Normalization", "Modularization", "Composability", "Standardization"],
+    "correct": "Modularization",
+    "explanation": "Modularization allows CDM to be separated into logical layers."
+  },
+  {
+    "question": "Which tool enables Java-based builds of CDM?",
+    "options": ["Docker", "Ant", "Maven", "Gradle"],
+    "correct": "Maven",
+    "explanation": "Maven is used to build and manage CDM's Java distribution."
+  },
+  {
+    "question": "What role does embedded logic play in CDM?",
+    "options": ["Improves server speed", "Represents industry processes", "Generates audit logs", "Secures data"],
+    "correct": "Represents industry processes",
+    "explanation": "Embedded logic encodes the real-world financial processes directly into CDM."
+  },
+  {
+    "question": "What does the Process model in CDM support?",
+    "options": ["Accounting rules", "User interfaces", "Standardizing industry processes", "Trade speculation"],
+    "correct": "Standardizing industry processes",
+    "explanation": "The Process model supports the automation and standardization of industry processes."
+  },
+  {
+    "question": "Which model is used to define financial instruments and contracts?",
+    "options": ["Event model", "Process model", "Product model", "Mapping model"],
+    "correct": "Product model",
+    "explanation": "The Product model represents contracts or instruments transferring financial risk."
+  },
+  {
+    "question": "What is the purpose of the default Java implementation in CDM?",
+    "options": ["To encrypt trades", "To simplify smart contracts", "To help firms adopt CDM quickly", "To reduce code size"],
+    "correct": "To help firms adopt CDM quickly",
+    "explanation": "Java implementation helps firms test and adopt the model directly."
+  },
+  {
+    "question": "What does DRR stand for in CDM usage?",
+    "options": ["Digital Risk Reduction", "Distributed Regulatory Reporting", "Digital Regulatory Reporting", "Domain Rule Registry"],
+    "correct": "Digital Regulatory Reporting",
+    "explanation": "DRR refers to ISDA’s Digital Regulatory Reporting based on CDM."
+  },
+  {
+    "question": "What is a .rosetta file used for?",
+    "options": ["Legal contracts", "Financial statements", "Defining CDM model components", "Building mobile apps"],
+    "correct": "Defining CDM model components",
+    "explanation": ".rosetta files hold model definitions written in Rune DSL."
+  },
+  {
+    "question": "Which type of distribution includes function specs but not executable logic?",
+    "options": ["Java", "Scala", "Python", "C++"],
+    "correct": "Scala",
+    "explanation": "Scala includes model and function specs but not full executable code."
+  },
+  {
+    "question": "How is interoperability achieved using CDM?",
+    "options": ["Through proprietary APIs", "By enforcing manual entry", "Via standardized trade event processing", "Through isolated data silos"],
+    "correct": "Via standardized trade event processing",
+    "explanation": "CDM enables interoperability by defining a consistent event model."
+  },
+  {
+    "question": "What is the licensing model for the Rune DSL?",
+    "options": ["MIT", "GPL", "Apache 2.0", "BSD"],
+    "correct": "Apache 2.0",
+    "explanation": "Rune DSL is available under the open-source Apache 2.0 license."
+  },
+  {
+    "question": "What does the CDM aim to reduce by standardizing trade events?",
+    "options": ["Financial audits", "Reconciliation efforts", "Interest rates", "Credit defaults"],
+    "correct": "Reconciliation efforts",
+    "explanation": "By standardizing trade lifecycle events, CDM minimizes reconciliation needs between firms."
+  },
+  {
+    "question": "What is the purpose of CDM’s open-source distribution?",
+    "options": ["To restrict commercial use", "To enable proprietary control", "To allow industry-wide access", "To encrypt trade data"],
+    "correct": "To allow industry-wide access",
+    "explanation": "CDM is openly distributed to encourage adoption and contribution by all industry participants."
+  },
+  {
+    "question": "What type of files are used to organize namespaces in the CDM?",
+    "options": [".dsl", ".rosetta", ".xml", ".js"],
+    "correct": ".rosetta",
+    "explanation": ".rosetta files are used to define CDM model components in structured namespaces."
+  },
+  {
+    "question": "Which company developed the Rosetta SDK for CDM?",
+    "options": ["FINOS", "ISDA", "REGnosys", "Oracle"],
+    "correct": "REGnosys",
+    "explanation": "REGnosys developed the Rosetta SDK to support contributions to the CDM."
+  },
+  {
+    "question": "CDM mapping components are used to:",
+    "options": ["Create random variables", "Match CDM objects to external formats", "Visualize financial flows", "Store encrypted data"],
+    "correct": "Match CDM objects to external formats",
+    "explanation": "CDM includes a mapping (synonym) component to link CDM elements with other industry standards."
+  },
+  {
+    "question": "Which layer includes the executable code in CDM?",
+    "options": ["Reference model", "Process model", "Java distribution", "Namespace mapper"],
+    "correct": "Java distribution",
+    "explanation": "The Java distribution contains executable code and a default implementation of the model."
+  },
+  {
+    "question": "How does CDM support smart contract technology?",
+    "options": ["By encrypting code", "Through embedded legal clauses", "By providing machine-readable events", "By simulating execution speed"],
+    "correct": "By providing machine-readable events",
+    "explanation": "CDM supports smart contracts by encoding trade events in a machine-readable format."
+  },
+  {
+    "question": "What is the scope of CDM in terms of financial products?",
+    "options": ["Cryptocurrencies only", "Retail loans", "OTC derivatives, securities, commodities", "Only bonds"],
+    "correct": "OTC derivatives, securities, commodities",
+    "explanation": "CDM currently covers OTC derivatives, securities financing, cash securities, and commodities."
+  },
+  {
+    "question": "How does CDM help financial technology innovation?",
+    "options": ["By enforcing compliance", "By providing legal services", "By offering a standardized base", "By creating new asset classes"],
+    "correct": "By offering a standardized base",
+    "explanation": "CDM serves as a common foundation for applying technologies like AI and DLT in finance."
+  },
+  {
+    "question": "Which of these is NOT part of the three main CDM distributions?",
+    "options": ["Model definition", "Executable code", "Reference rates", "Default implementation"],
+    "correct": "Reference rates",
+    "explanation": "Reference rates are described in the reference data model, not a core component of the distribution."
+  },
+  {
+    "question": "Which term describes the CDM’s object composition methodology?",
+    "options": ["Hardcoding", "Abstraction", "Composability", "Normalization"],
+    "correct": "Composability",
+    "explanation": "CDM objects are built using composability — qualifying and assembling components from the ground up."
+  },
+  {
+    "question": "What document contains the meeting agendas and CDM updates?",
+    "options": ["CDM Governance Manual", "CDM Interest Form", "Rosetta SDK Guide", "FINOS Compliance Letter"],
+    "correct": "CDM Interest Form",
+    "explanation": "By signing the CDM Interest Form, users receive updates on CDM initiatives and meetings."
+  },
+  {
+    "question": "Why might firms extend or disable the default Java implementation?",
+    "options": ["For branding", "To reduce compliance", "To fit their infrastructure needs", "To speed up trading"],
+    "correct": "To fit their infrastructure needs",
+    "explanation": "Firms can customize the default code to match internal systems or performance requirements."
+  },
+  {
+    "question": "Which of the following is NOT a design principle of CDM?",
+    "options": ["Embedded logic", "Modularization", "Human-readable output", "Composability"],
+    "correct": "Human-readable output",
+    "explanation": "CDM emphasizes machine-readability and automation, not human-readable output."
+  },
+  {
+    "question": "Which distribution may include only parts of the CDM model?",
+    "options": ["Java", "Scala", "C#", "Perl"],
+    "correct": "Scala",
+    "explanation": "Scala and TypeScript distributions may exclude executable logic and only include data model and specs."
+  },
+  {
+    "question": "What does CDM’s normalization principle entail?",
+    "options": ["Simplifying all event types to text", "Combining multiple components into one", "Abstracting common components", "Removing redundant parties"],
+    "correct": "Abstracting common components",
+    "explanation": "Normalization in CDM abstracts and generalizes recurring patterns and components."
+  },
+  {
+    "question": "What type of code do CDM contributors write in the Rune DSL?",
+    "options": ["Machine code", "Procedural scripts", "Model definitions and generators", "Webhooks"],
+    "correct": "Model definitions and generators",
+    "explanation": "Contributors define the CDM structure and write generators using Rune DSL."
+  },
+  {
+    "question": "What is the function of the settings.xml file in the CDM jar?",
+    "options": ["To configure smart contracts", "To map database tables", "To set up Maven repositories", "To encrypt CDM files"],
+    "correct": "To set up Maven repositories",
+    "explanation": "settings.xml configures Maven with the correct repository settings to build CDM Java code."
+  },
+  {
+    "question": "How is executable code for other languages generated in CDM?",
+    "options": ["Handwritten scripts", "Rosetta CLI only", "Using code generators from Rune DSL", "Direct IDE export"],
+    "correct": "Using code generators from Rune DSL",
+    "explanation": "Rune DSL supports the creation of language-specific generators for executable code."
+  },
+  {
+    "question": "What does CDM offer to the regulatory ecosystem?",
+    "options": ["Centralized data warehousing", "Faster tax filings", "Consistency in regulatory reporting", "Reduced transparency"],
+    "correct": "Consistency in regulatory reporting",
+    "explanation": "CDM helps regulators and institutions align on consistent, machine-executable reporting."
+  }
+]

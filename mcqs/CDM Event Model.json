@@ -1,0 +1,442 @@
+[
+{
+    "question": "What is the primary purpose of the CDM Event Model?",
+    "options": [
+      "To model commodity trading only",
+      "To track workflow state changes only",
+      "To represent the lifecycle events of financial transactions",
+      "To store historical FX rate data"
+    ],
+    "correct": "To represent the lifecycle events of financial transactions",
+    "explanation": "The CDM Event Model provides structures to capture the state transitions in the lifecycle of financial trades."
+  },
+  {
+    "question": "Which of the following is an example of a CDM lifecycle event?",
+    "options": [
+      "Tax deduction",
+      "Trade execution",
+      "Contract notarization",
+      "Fund reallocation"
+    ],
+    "correct": "Trade execution",
+    "explanation": "Trade execution is the initial lifecycle event representing the creation of a trade."
+  },
+  {
+    "question": "What principle ensures traceability of all trade changes in CDM?",
+    "options": [
+      "Product mutability",
+      "Functional logic encryption",
+      "Lineage of trade states",
+      "Real-time data sync"
+    ],
+    "correct": "Lineage of trade states",
+    "explanation": "CDM maintains lineage between trade states, allowing reconstruction of the full lifecycle."
+  },
+  {
+    "question": "Which component in CDM represents the current status of a trade?",
+    "options": [
+      "Primitive Operator",
+      "Workflow Step",
+      "TradeState",
+      "ExecutionDetails"
+    ],
+    "correct": "TradeState",
+    "explanation": "TradeState holds the evolving state of a trade across lifecycle events."
+  },
+  {
+    "question": "What is the role of a Primitive Operator in CDM?",
+    "options": [
+      "To encrypt trade data",
+      "To define audit logs",
+      "To describe a fundamental state transition",
+      "To handle UI rendering"
+    ],
+    "correct": "To describe a fundamental state transition",
+    "explanation": "Primitive operators are the functional building blocks of trade state transitions."
+  },
+  {
+    "question": "What data type in CDM captures trade execution details like venue and type?",
+    "options": [
+      "ContractDetails",
+      "ExecutionDetails",
+      "WorkflowState",
+      "Reset"
+    ],
+    "correct": "ExecutionDetails",
+    "explanation": "ExecutionDetails describes how and where the trade was executed."
+  },
+  {
+    "question": "Which primitive operator has no 'before' state in its function?",
+    "options": [
+      "Reset",
+      "PartyChange",
+      "Execution",
+      "Transfer"
+    ],
+    "correct": "Execution",
+    "explanation": "Execution instantiates a new trade and thus doesn't require a previous state."
+  },
+  {
+    "question": "What type of event would use a Reset primitive in CDM?",
+    "options": [
+      "Trade allocation",
+      "Cash settlement",
+      "Floating rate update",
+      "Credit rating change"
+    ],
+    "correct": "Floating rate update",
+    "explanation": "Reset captures observable-based value changes, like floating rate resets."
+  },
+  {
+    "question": "What does the Transfer primitive represent?",
+    "options": [
+      "Legal changes",
+      "Transfer of assets between parties",
+      "UI-based trade approvals",
+      "Collateral revaluation"
+    ],
+    "correct": "Transfer of assets between parties",
+    "explanation": "The Transfer primitive reflects the movement of cash, securities, or commodities."
+  },
+  {
+    "question": "What makes the Split primitive operator unique?",
+    "options": [
+      "It always involves options",
+      "It can generate multiple trade states",
+      "It modifies the trade product",
+      "It runs after all other primitives"
+    ],
+    "correct": "It can generate multiple trade states",
+    "explanation": "Split is used to create identical copies of trades, each processed independently."
+  },
+  {
+    "question": "What is the purpose of the 'Reset' component in a trade's lifecycle?",
+    "options": [
+      "To clear trade disputes",
+      "To update party roles",
+      "To apply observable-based values like interest rates",
+      "To remove counterparty risk"
+    ],
+    "correct": "To apply observable-based values like interest rates",
+    "explanation": "The Reset component updates variable elements like floating rates based on market observations."
+  },
+  {
+    "question": "Which attribute in a Reset defines when the value becomes applicable in the trade?",
+    "options": [
+      "Observation date",
+      "Effective date",
+      "Reset date",
+      "Transfer date"
+    ],
+    "correct": "Reset date",
+    "explanation": "The resetDate determines when the observed value applies within the trade."
+  },
+  {
+    "question": "What does the TransferState object contain?",
+    "options": [
+      "Workflow approvals",
+      "Collateral terms",
+      "Transfer and its current status",
+      "Reset and option type"
+    ],
+    "correct": "Transfer and its current status",
+    "explanation": "TransferState wraps the actual Transfer and an optional status indicating settlement progress."
+  },
+  {
+    "question": "What is a Business Event in CDM?",
+    "options": [
+      "A contract summary",
+      "A UI-triggered action",
+      "A composite of primitive instructions on a trade",
+      "An automated payment instruction"
+    ],
+    "correct": "A composite of primitive instructions on a trade",
+    "explanation": "A Business Event reflects one or more lifecycle changes on one or more trades."
+  },
+  {
+    "question": "Which attribute in a Business Event stores the functional logic used to identify the event type?",
+    "options": [
+      "Event date",
+      "EventIntentEnum",
+      "EventQualifier",
+      "TradeReference"
+    ],
+    "correct": "EventQualifier",
+    "explanation": "The eventQualifier holds the output of the logic that determines what kind of event it is."
+  },
+  {
+    "question": "What is a PrimitiveInstruction in CDM?",
+    "options": [
+      "A UI command sequence",
+      "A predefined pricing formula",
+      "A data structure specifying parameters for a state change",
+      "An event validation flag"
+    ],
+    "correct": "A data structure specifying parameters for a state change",
+    "explanation": "PrimitiveInstructions describe the input data used to apply a primitive operator."
+  },
+  {
+    "question": "How does CDM handle composite events like novations?",
+    "options": [
+      "Through chained BusinessEvents",
+      "Via primitive composition within a split instruction",
+      "Using nested trade states only",
+      "With an extended party role structure"
+    ],
+    "correct": "Via primitive composition within a split instruction",
+    "explanation": "Composite events use split instructions and nested primitive instructions to represent complex changes."
+  },
+  {
+    "question": "What is the function of Create_TradeState?",
+    "options": [
+      "To define a new legal agreement",
+      "To apply one or more primitive instructions to a trade state",
+      "To update the workflow step",
+      "To assign party roles"
+    ],
+    "correct": "To apply one or more primitive instructions to a trade state",
+    "explanation": "Create_TradeState applies a primitive or composite instruction to transition trade state."
+  },
+  {
+    "question": "Which primitive operator outputs multiple trade states?",
+    "options": [
+      "Reset",
+      "Transfer",
+      "Split",
+      "TermsChange"
+    ],
+    "correct": "Split",
+    "explanation": "Split creates multiple trade states by duplicating and modifying the original trade."
+  },
+  {
+    "question": "What ensures that a Business Event’s primitive components execute together or not at all?",
+    "options": [
+      "The timestamp validation",
+      "Atomicity of BusinessEvent",
+      "Unique EventIdentifier",
+      "Collateral linkage"
+    ],
+    "correct": "Atomicity of BusinessEvent",
+    "explanation": "BusinessEvents are atomic, meaning their primitive components are all applied together or not at all."
+  },
+{
+    "question": "Which component defines the state of a trade at a point in its lifecycle?",
+    "options": [
+      "TradeIdentifier",
+      "ExecutionDetails",
+      "State",
+      "Collateral"
+    ],
+    "correct": "State",
+    "explanation": "The 'State' data type captures the trade's current status including closure and position information."
+  },
+  {
+    "question": "Which attribute records the reason a trade was closed?",
+    "options": [
+      "StateType",
+      "ClosedState",
+      "ResetValue",
+      "WorkflowIntent"
+    ],
+    "correct": "ClosedState",
+    "explanation": "The ClosedState enum within State identifies if a trade was Cancelled, Novated, Terminated, etc."
+  },
+  {
+    "question": "What does the 'observation' in a Reset relate to?",
+    "options": [
+      "A legal change to a contract",
+      "Collateral movement",
+      "Market data input like rate or price",
+      "Workflow approval stage"
+    ],
+    "correct": "Market data input like rate or price",
+    "explanation": "Observations in Reset refer to externally observed values such as market rates."
+  },
+  {
+    "question": "Which CDM data type defines the movement of assets between two parties?",
+    "options": [
+      "TransferState",
+      "ContractDetails",
+      "WorkflowStep",
+      "ExecutionInstruction"
+    ],
+    "correct": "TransferState",
+    "explanation": "TransferState represents asset movements and their current status in a trade's lifecycle."
+  },
+  {
+    "question": "What structure allows multiple primitive instructions to be combined?",
+    "options": [
+      "Workflow",
+      "SplitInstruction",
+      "PrimitiveInstruction",
+      "EventIntentEnum"
+    ],
+    "correct": "PrimitiveInstruction",
+    "explanation": "PrimitiveInstruction holds composite inputs for applying several primitive operators."
+  },
+  {
+    "question": "What does the Create_Execution function do?",
+    "options": [
+      "Amends party data in an existing trade",
+      "Instantiates a new trade without a previous state",
+      "Splits a trade into legs",
+      "Records collateral changes"
+    ],
+    "correct": "Instantiates a new trade without a previous state",
+    "explanation": "Create_Execution is the only primitive function that starts without a before state."
+  },
+  {
+    "question": "How does the ContractFormation primitive differ from Execution?",
+    "options": [
+      "It modifies existing trades",
+      "It includes legal agreements post-trade execution",
+      "It defines only collateral terms",
+      "It replaces execution logic"
+    ],
+    "correct": "It includes legal agreements post-trade execution",
+    "explanation": "ContractFormation associates legal documentation to an existing trade after execution."
+  },
+  {
+    "question": "Which event often combines both execution and contract formation?",
+    "options": [
+      "Allocation",
+      "Swap reset",
+      "Clearing",
+      "Spot FX"
+    ],
+    "correct": "Spot FX",
+    "explanation": "Spot FX trades often go directly from execution to legally binding contract in one step."
+  },
+  {
+    "question": "In CDM, what ensures trades are fully traceable through events?",
+    "options": [
+      "Workflow state tagging",
+      "Lineage references between TradeStates",
+      "Collateral tracking",
+      "Intent enum annotations"
+    ],
+    "correct": "Lineage references between TradeStates",
+    "explanation": "Each TradeState includes a reference to its previous state, creating a traceable chain."
+  },
+  {
+    "question": "What happens if a Business Event contains multiple trade changes?",
+    "options": [
+      "They are processed sequentially with delays",
+      "Only one change is applied",
+      "They are grouped into a single atomic event",
+      "They are stored in separate workflows"
+    ],
+    "correct": "They are grouped into a single atomic event",
+    "explanation": "All primitive instructions within a BusinessEvent must succeed or fail together as an atomic unit."
+  },
+{
+    "question": "What does the 'Intent' attribute in a Business Event represent?",
+    "options": [
+      "The regulatory region",
+      "The purpose of the event",
+      "The party hierarchy",
+      "The workflow timestamp"
+    ],
+    "correct": "The purpose of the event",
+    "explanation": "Intent specifies the high-level goal of the business event (e.g., Novation, Allocation, CashFlow)."
+  },
+  {
+    "question": "Which attribute stores the inferred event type from the qualification logic?",
+    "options": [
+      "eventQualifier",
+      "intent",
+      "workflowState",
+      "messageInformation"
+    ],
+    "correct": "eventQualifier",
+    "explanation": "eventQualifier holds the value derived from business logic that identifies the lifecycle event."
+  },
+  {
+    "question": "What is a Workflow in CDM?",
+    "options": [
+      "An API for event routing",
+      "A UI module for message exchange",
+      "A sequence of steps to generate a business event",
+      "A legal contract type"
+    ],
+    "correct": "A sequence of steps to generate a business event",
+    "explanation": "Workflow represents the sequence of manual or automated actions to trigger a business event."
+  },
+  {
+    "question": "What does a WorkflowStep typically contain?",
+    "options": [
+      "Only the after trade state",
+      "Just the product structure",
+      "BusinessEvent, previous steps, and approvals",
+      "Trade settlement location"
+    ],
+    "correct": "BusinessEvent, previous steps, and approvals",
+    "explanation": "Each WorkflowStep can contain business event logic, lineage to prior steps, and approvals."
+  },
+  {
+    "question": "What does the 'rejected' attribute in WorkflowStep indicate?",
+    "options": [
+      "The trade is terminated",
+      "The workflow failed permanently",
+      "The step was not accepted/approved",
+      "The message was delivered to wrong party"
+    ],
+    "correct": "The step was not accepted/approved",
+    "explanation": "The rejected flag indicates the proposed workflow step was not approved or accepted."
+  },
+  {
+    "question": "What data type captures multiple timestamps in a CDM event?",
+    "options": [
+      "WorkflowTiming",
+      "TimeZoneClock",
+      "EventTimestamp",
+      "TradeTime"
+    ],
+    "correct": "EventTimestamp",
+    "explanation": "EventTimestamp allows multiple qualified time values (e.g., submitted, created)."
+  },
+  {
+    "question": "How is message routing metadata represented in CDM workflows?",
+    "options": [
+      "Via PartyIdentifier",
+      "Via MessageInformation",
+      "Via EventDate",
+      "Via CounterpartyPosition"
+    ],
+    "correct": "MessageInformation",
+    "explanation": "MessageInformation includes fields like sentBy, sentTo, and messageId for routing messages."
+  },
+  {
+    "question": "What is used to uniquely identify an event instance in CDM?",
+    "options": [
+      "TradeIdentifier",
+      "WorkflowStep",
+      "EventIntentEnum",
+      "Identifier"
+    ],
+    "correct": "Identifier",
+    "explanation": "Each BusinessEvent or WorkflowStep has a unique Identifier object to distinguish it."
+  },
+  {
+    "question": "Which value in the ClosedStateEnum indicates full trade completion?",
+    "options": [
+      "Allocated",
+      "Terminated",
+      "Exercised",
+      "OptionalExtension"
+    ],
+    "correct": "Terminated",
+    "explanation": "Terminated marks the closure of a trade upon full completion of its obligations."
+  },
+  {
+    "question": "How does CDM infer lifecycle event types?",
+    "options": [
+      "From trade identifiers",
+      "By user manual input",
+      "Using qualification functions on primitive instructions",
+      "Through product taxonomies only"
+    ],
+    "correct": "Using qualification functions on primitive instructions",
+    "explanation": "Event qualification functions analyze the structure and attributes of the event to derive its type."
+  }
+]

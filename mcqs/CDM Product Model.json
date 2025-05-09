@@ -1,0 +1,387 @@
+[
+  {
+    "question": "What is the primary purpose of a financial product in CDM?",
+    "options": [
+      "To classify economic sectors",
+      "To define digital asset tokens",
+      "To transfer financial risk between two parties",
+      "To calculate net asset values"
+    ],
+    "correct": "To transfer financial risk between two parties",
+    "explanation": "In CDM, a financial product represents a structure used to transfer financial risk between two parties."
+  },
+  {
+    "question": "Which is the most fundamental building block in CDM's Product Model?",
+    "options": ["Taxonomy", "Payout", "Asset", "Instrument"],
+    "correct": "Asset",
+    "explanation": "Assets are the foundational elements in the CDM, from which more complex financial products are built."
+  },
+  {
+    "question": "What is a Payout in CDM?",
+    "options": [
+      "An asset classification mechanism",
+      "A schedule of dividends",
+      "A parametric description of a commitment to future asset transfers",
+      "A legal agreement between regulators"
+    ],
+    "correct": "A parametric description of a commitment to future asset transfers",
+    "explanation": "Payouts represent future obligations or cashflows between parties based on asset performance or predefined terms."
+  },
+  {
+    "question": "Which of the following is NOT an Asset type choice in CDM?",
+    "options": ["DigitalAsset", "Bond", "Cash", "Instrument"],
+    "correct": "Bond",
+    "explanation": "Bond is not a direct asset type in CDM; it is categorized under 'Instrument'."
+  },
+  {
+    "question": "What ensures each CDM Asset has a unique identity?",
+    "options": [
+      "TaxonomyValue",
+      "AssetBase inheritance",
+      "AssetIdentifier",
+      "Exchange reference"
+    ],
+    "correct": "AssetIdentifier",
+    "explanation": "AssetIdentifier contains a unique identifier and its symbology source (e.g., ISIN or CUSIP)."
+  },
+  {
+    "question": "What is true about a Cash asset in CDM?",
+    "options": [
+      "It includes exchange attributes",
+      "It can have multiple currencies",
+      "It only includes an identifier with currency code",
+      "It is treated like a derivative"
+    ],
+    "correct": "It only includes an identifier with currency code",
+    "explanation": "Cash assets are defined solely by their currency code."
+  },
+  {
+    "question": "What is a characteristic of a DigitalAsset in CDM?",
+    "options": [
+      "It includes bonds and equities",
+      "It is a digital representation of any asset",
+      "It exists only in digital form and excludes digital representations of other assets",
+      "It is not transferable"
+    ],
+    "correct": "It exists only in digital form and excludes digital representations of other assets",
+    "explanation": "DigitalAsset refers to natively digital assets like Bitcoin or Ethereum."
+  },
+  {
+    "question": "Which is a choice under Instrument in CDM?",
+    "options": ["Derivative", "Loan", "Asset", "Index"],
+    "correct": "Loan",
+    "explanation": "Loan is one of the types under the Instrument choice type in CDM."
+  },
+  {
+    "question": "What is a requirement for Security asset type?",
+    "options": [
+      "It must include collateral information",
+      "It must include a securityType like Debt or Equity",
+      "It cannot include any taxonomy",
+      "It should reference an OptionType"
+    ],
+    "correct": "It must include a securityType like Debt or Equity",
+    "explanation": "The securityType attribute is required and further classifies the security."
+  },
+  {
+    "question": "Which asset types extend InstrumentBase?",
+    "options": ["Loan, ListedDerivative, Security", "Loan, Asset, Index", "Security, Commodity, Cash", "Observable, Index, Asset"],
+    "correct": "Loan, ListedDerivative, Security",
+    "explanation": "These are the subtypes of Instrument and all extend InstrumentBase."
+  },
+  {
+    "question": "What is the main function of the Instrument type in CDM?",
+    "options": [
+      "To represent index values",
+      "To define digital wallets",
+      "To categorize issued financial products like loans and securities",
+      "To manage commodity pricing"
+    ],
+    "correct": "To categorize issued financial products like loans and securities",
+    "explanation": "The Instrument type categorizes issued products such as Loans, ListedDerivatives, and Securities."
+  },
+  {
+    "question": "Which of the following is NOT a subtype under Instrument?",
+    "options": ["ListedDerivative", "Security", "Basket", "Loan"],
+    "correct": "Basket",
+    "explanation": "Basket is not a subtype under Instrument; it appears under Observable."
+  },
+  {
+    "question": "What does the ListedDerivative type in CDM represent?",
+    "options": [
+      "A cash asset with fixed interest",
+      "A non-tradable financial agreement",
+      "A securitized derivative created by an exchange",
+      "A synthetic bond issued by regulators"
+    ],
+    "correct": "A securitized derivative created by an exchange",
+    "explanation": "ListedDerivatives are exchange-created securitized derivatives, like futures or options."
+  },
+  {
+    "question": "Which attribute must always be specified for the Security type?",
+    "options": ["DebtType", "Exchange", "SecurityType", "Tranche"],
+    "correct": "SecurityType",
+    "explanation": "SecurityType is mandatory and classifies the security as Debt, Equity, etc."
+  },
+  {
+    "question": "What is the role of the Index type in CDM?",
+    "options": [
+      "To record tax IDs of traders",
+      "To track prices, rates, or valuations of a group of assets",
+      "To store legal terms",
+      "To calculate margin requirements"
+    ],
+    "correct": "To track prices, rates, or valuations of a group of assets",
+    "explanation": "Index represents market indices such as equity, interest rate, FX, or inflation indices."
+  },
+  {
+    "question": "What does Observable refer to in CDM?",
+    "options": [
+      "An asset that is not tradable",
+      "A legal clause in an agreement",
+      "A reference object whose price is observed",
+      "A metadata tag for exchange rules"
+    ],
+    "correct": "A reference object whose price is observed",
+    "explanation": "Observable is a data type that refers to an object whose price is referenced in a product."
+  },
+  {
+    "question": "What are the three choices under Observable?",
+    "options": ["Instrument, Asset, Option", "Asset, Basket, Index", "Cash, Commodity, Index", "Loan, Asset, Payout"],
+    "correct": "Asset, Basket, Index",
+    "explanation": "Observable can refer to Asset, Basket, or Index — all of which are price-tracked entities."
+  },
+  {
+    "question": "What distinguishes a product from an asset in CDM?",
+    "options": [
+      "Only assets can be sold",
+      "Assets lack identifiers",
+      "Products include economic terms",
+      "Products have fewer classifications"
+    ],
+    "correct": "Products include economic terms",
+    "explanation": "Products extend assets by adding economic terms like payouts, dates, and adjustments."
+  },
+  {
+    "question": "What are the two types of Product in CDM?",
+    "options": ["AssetProduct, ContractualProduct", "IndexProduct, BasketProduct", "TransferableProduct, NonTransferableProduct", "FixedProduct, VariableProduct"],
+    "correct": "TransferableProduct, NonTransferableProduct",
+    "explanation": "CDM defines products as either TransferableProduct (like securities) or NonTransferableProduct (like bilateral contracts)."
+  },
+  {
+    "question": "What makes a NonTransferableProduct different from a TransferableProduct?",
+    "options": [
+      "It has no identifier",
+      "It cannot be exchanged without both parties’ consent",
+      "It is always linked to an index",
+      "It contains only static data"
+    ],
+    "correct": "It cannot be exchanged without both parties’ consent",
+    "explanation": "NonTransferableProducts are bilateral agreements that cannot be traded freely."
+  },
+    {
+    "question": "What type of CDM product represents bilateral agreements like swaps or options?",
+    "options": ["TransferableProduct", "Observable", "TradableProduct", "NonTransferableProduct"],
+    "correct": "NonTransferableProduct",
+    "explanation": "NonTransferableProducts represent bilateral agreements that cannot be freely transferred."
+  },
+  {
+    "question": "Which attribute is unique to NonTransferableProduct and not shared by TransferableProduct?",
+    "options": ["AssetIdentifier", "ProductIdentifier", "Payout", "Loan"],
+    "correct": "ProductIdentifier",
+    "explanation": "NonTransferableProduct uses ProductIdentifier, which is more restrictive than AssetIdentifier."
+  },
+  {
+    "question": "What is the EconomicTerms data type used for?",
+    "options": [
+      "To record legal ownership",
+      "To define cashflow obligations and contract terms",
+      "To list exchange fees",
+      "To group digital assets"
+    ],
+    "correct": "To define cashflow obligations and contract terms",
+    "explanation": "EconomicTerms includes the full set of obligations, dates, and provisions in a product contract."
+  },
+  {
+    "question": "Which of the following is NOT a payout type in CDM?",
+    "options": [
+      "InterestRatePayout",
+      "SettlementPayout",
+      "CashflowPayout",
+      "OptionPayout"
+    ],
+    "correct": "CashflowPayout",
+    "explanation": "CashflowPayout is not a defined type; other choices are valid payout types in CDM."
+  },
+  {
+    "question": "What does the PayoutBase type include?",
+    "options": [
+      "Settlement center and currency",
+      "Price, quantity, and payer/receiver details",
+      "Tax rates and margin levels",
+      "Index reference"
+    ],
+    "correct": "Price, quantity, and payer/receiver details",
+    "explanation": "PayoutBase defines common attributes such as price, quantity, payer, receiver, and settlement terms."
+  },
+  {
+    "question": "What is the role of the CalculationPeriodDates component?",
+    "options": [
+      "To define collateral types",
+      "To define a payment schedule",
+      "To measure price volatility",
+      "To determine loan interest rates"
+    ],
+    "correct": "To define a payment schedule",
+    "explanation": "CalculationPeriodDates specifies start/end dates and adjustments for payment calculations."
+  },
+  {
+    "question": "What does ResolvablePriceQuantity support?",
+    "options": [
+      "Fixed debt instruments",
+      "Exchange listings",
+      "Price and quantity schedules with references and metadata",
+      "Counterparty identifiers"
+    ],
+    "correct": "Price and quantity schedules with references and metadata",
+    "explanation": "ResolvablePriceQuantity holds price and quantity schedules, references, and optional reset rules."
+  },
+  {
+    "question": "In a Cross-Currency Swap, what allows for foreign leg calculation?",
+    "options": [
+      "Loan type",
+      "Index reference",
+      "QuantityMultiplier in ResolvablePriceQuantity",
+      "BuyerSeller enum"
+    ],
+    "correct": "QuantityMultiplier in ResolvablePriceQuantity",
+    "explanation": "QuantityMultiplier allows adjustments based on rates like FX or share prices in swaps."
+  },
+  {
+    "question": "What does the Underlier type in CDM allow for?",
+    "options": [
+      "Collapsing payouts",
+      "Product nesting and derivative construction",
+      "Creating legal references",
+      "Batch processing of assets"
+    ],
+    "correct": "Product nesting and derivative construction",
+    "explanation": "Underliers support nested financial products like options or swaptions, allowing complex structuring."
+  },
+  {
+    "question": "What type of product is not allowed as underlier in a SettlementPayout?",
+    "options": [
+      "Asset",
+      "TransferableProduct",
+      "Basket",
+      "NonTransferableProduct"
+    ],
+    "correct": "NonTransferableProduct",
+    "explanation": "NonTransferableProducts can't be used as underliers in SettlementPayouts as they can't be settled."
+  },
+   {
+    "question": "What does the TradableProduct type represent in CDM?",
+    "options": [
+      "A collateral agreement",
+      "A legally binding tax contract",
+      "A product ready to be executed or traded between two counterparties",
+      "A government-issued security"
+    ],
+    "correct": "A product ready to be executed or traded between two counterparties",
+    "explanation": "TradableProduct is the structure that links a financial product to counterparties, price, and quantity for execution."
+  },
+  {
+    "question": "How many counterparties are required in a TradableProduct?",
+    "options": ["1", "2", "Any number", "Between 1 and 3"],
+    "correct": "2",
+    "explanation": "CDM enforces that a TradableProduct must have exactly two counterparties."
+  },
+  {
+    "question": "What does the TradeLot component define?",
+    "options": [
+      "Settlement center rules",
+      "Trade price and quantity for each instance of trade",
+      "Product identifier structure",
+      "Collateral posting conditions"
+    ],
+    "correct": "Trade price and quantity for each instance of trade",
+    "explanation": "TradeLot defines the specific price and quantity attributes for a trade."
+  },
+  {
+    "question": "What does the PriceQuantity data type combine?",
+    "options": [
+      "Tax and legal entities",
+      "Settlement dates and locations",
+      "Price, quantity, and the observable asset",
+      "Calculation periods and discounting methods"
+    ],
+    "correct": "Price, quantity, and the observable asset",
+    "explanation": "PriceQuantity brings together pricing, quantity, and the observable related to the trade leg."
+  },
+  {
+    "question": "What unit structure is used in Measure data types?",
+    "options": [
+      "Only currency",
+      "Only ISDA format",
+      "Five types including financial and weather units",
+      "Only volume and temperature"
+    ],
+    "correct": "Five types including financial and weather units",
+    "explanation": "UnitType supports capacity, weather, financial units, and optionally currency."
+  },
+  {
+    "question": "What does the MeasureSchedule allow?",
+    "options": [
+      "Batch pricing",
+      "Reference linking",
+      "Value and date-paired schedules",
+      "Document parsing"
+    ],
+    "correct": "Value and date-paired schedules",
+    "explanation": "MeasureSchedule enables values to be expressed over time using dated pairs."
+  },
+  {
+    "question": "What additional feature does QuantitySchedule include?",
+    "options": [
+      "Equity type tagging",
+      "Contract expiration alert",
+      "A multiplier attribute",
+      "Derivative classification"
+    ],
+    "correct": "A multiplier attribute",
+    "explanation": "QuantitySchedule can include a multiplier to adjust base quantities, e.g. per contract."
+  },
+  {
+    "question": "What does SettlementTerms define?",
+    "options": [
+      "The amount of interest to be paid",
+      "Rules for netting agreements",
+      "How and when the asset or cash is settled",
+      "Legal clauses for trade disputes"
+    ],
+    "correct": "How and when the asset or cash is settled",
+    "explanation": "SettlementTerms specify method, currency, and date for settling price and quantity."
+  },
+  {
+    "question": "What is the role of BuyerSeller in a transaction?",
+    "options": [
+      "To indicate asset class",
+      "To define counterparty roles for price and quantity flow",
+      "To link contracts to regulators",
+      "To set trade limits"
+    ],
+    "correct": "To define counterparty roles for price and quantity flow",
+    "explanation": "BuyerSeller defines who pays and who receives price and quantity during settlement."
+  },
+  {
+    "question": "How does CDM determine a product’s type?",
+    "options": [
+      "By reading asset identifiers",
+      "By referencing issuer’s rating",
+      "By inferring from EconomicTerms using qualification functions",
+      "By legal agreement names"
+    ],
+    "correct": "By inferring from EconomicTerms using qualification functions",
+    "explanation": "Product qualification is determined via logic that evaluates populated EconomicTerms attributes."
+  }
+]

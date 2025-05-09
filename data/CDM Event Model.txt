@@ -1,0 +1,35 @@
+CDM Event Model 
+Purpose: Represents the lifecycle events of financial trades — from execution to termination — as structured, traceable state transitions.
+•	Core Design Principles:
+	o Every lifecycle event = a state transition (before → after).
+	o Trade states are composable and functional — built from modular logic blocks.
+	o Lineage: Full trade history is reconstructable through linked trade states.
+	o The product definition remains immutable throughout the lifecycle.
+________________________
+Key Components:
+•	TradeState: Captures the current status of a trade (trade details, state, reset history, transfer history).
+•	State: Specifies status flags like closedState (e.g., Terminated, Novated) and positionState.
+•	Reset: Applies observed values (e.g., interest rates) to floating structures based on market data.
+•	Transfer: Models asset movement (cash, securities, etc.) from one party to another.
+________________________
+Primitive Operators (building blocks of events):
+•	Execution: Create a new trade.
+•	QuantityChange: Modify trade quantity or price.
+•	TermsChange: Amend trade terms.
+•	PartyChange: Change counterparties.
+•	Exercise: Execute an option.
+•	Reset: Update floating-rate values.
+•	Transfer: Move an asset between parties.
+•	ContractFormation: Link legal documentation.
+•	Split: Clone a trade into smaller identical trades.
+__________________________
+Business Event:
+•	A composite of primitive instructions affecting one or more trades.
+•	Atomic: all instructions execute together or none do.
+•	eventQualifier: Inferred label (e.g., Termination) based on logic.
+•	intent: Optional metadata indicating event purpose (e.g., Novation, Allocation).
+__________________________
+Workflow:
+•	Represents steps leading to a business event, including approvals, rejections, or pre-agreed next events.
+•	Tracks lineage across steps for auditability.
+
